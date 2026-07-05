@@ -1,0 +1,207 @@
+{
+  "profile_id": "P015",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm a yoga instructor, and about three weeks ago I tweaked my shoulder while coming out of a headstand. It was a sharp, sudden pain in my right shoulder, and I figured it would resolve with rest, but it hasn't. I'm still experiencing a dull ache with certain overhead movements, and I can't demonstrate poses or adjust students properly. It's really interfering with my ability to teach."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It happened three weeks ago this coming Thursday. I was coming down from a headstand, and I must have shifted my weight awkwardly onto my right arm. It was a sudden, sharp pain, like a catch or a pop, right around the front of my shoulder."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The initial sharp pain has settled into a persistent dull ache, maybe a 3 out of 5 on a typical pain scale. It's localized right around the front of my shoulder, near the AC joint area, I think. Occasionally it radiates a little down into the bicep, especially if I try to lift my arm out to the side or overhead."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, none at all. I haven't had any fever, chills, or any other signs of infection. I've been feeling perfectly fine otherwise—just this lingering shoulder issue."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. Over the past few weeks, I've been taking ibuprofen occasionally—maybe 400mg every 6 to 8 hours when the ache gets worse, but it only offers temporary relief. Other than that, I don't take anything regularly."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic medical conditions. I'm generally quite healthy—I teach yoga six days a week and eat well. No history of anything like diabetes, high blood pressure, or autoimmune issues."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've taken ibuprofen and acetaminophen before with no issues."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yes, I've been taking it easy on the yoga mat—avoiding any weight-bearing poses on that arm, especially downward dog and arm balances. I've also been applying a heating pad for about 15 minutes each evening, and I tried some gentle passive stretching, but it doesn't seem to help. I even did a few contrast baths—alternating heat and cold—but the soreness keeps coming back once I try to use the shoulder normally."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "What makes it worse definitely is any overhead movement or bearing weight on that arm. Teaching a class—just demonstrating a simple arm extension or adjusting a student—can aggravate it within minutes. What makes it better is keeping my arm down by my side, and the heating pad does relax the muscles a bit, but the relief is short-lived. I've also noticed it feels slightly better if I sleep with my arm supported by a pillow."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty disruptive, honestly. I've had to modify my entire class structure—I can't do demonstrations or assist students with adjustments the way I normally would, so I'm mostly cueing verbally. Even simple daily tasks like reaching for something on a high shelf or putting on a seatbelt pull right at that spot. I've also been sleeping poorly because I keep rolling onto that side. It's frustrating, because I love my work and I feel like I'm not giving my students my best."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I do have a glass of wine maybe once or twice a week, but nothing excessive. I'm pretty health-conscious given my profession, so I try to keep things clean. But even that's been limited lately since I've been focusing on recovery."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not that I'm aware of. My parents are both in their sixties and have never mentioned shoulder issues. My mother has some mild arthritis in her hands, but nothing with the shoulders. So I don't think there's a family history of this kind of thing."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had a shoulder problem like this before. I've had the occasional minor muscle strain from overstretching or pushing a pose too far, but those usually resolved within a few days with rest. This is the first time I've had a lingering injury that hasn't improved after three weeks."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers everything. I will say, I'm really hoping we can figure this out so I can get back to teaching fully. The thought of it becoming chronic or needing something like surgery worries me a bit, but I trust your guidance. I'm open to any tests or treatments you think are appropriate."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, I've been trying to stay positive—meditation and breath work have helped a lot with the frustration. But it's hard not to feel a little anxious, especially when my livelihood literally depends on my body working well. I've been leaning on a few close colleagues to cover some of my classes when the pain flares up. I'm trying to see this as a learning experience, but I'd be lying if I said I wasn"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been leaning pretty heavily on my meditation practice—pranayama and some gentle visualization techniques have helped keep the frustration manageable. I'm also journaling about the process to track what aggravates it and what doesn't. But there are moments, especially when I cancel a class or watch a student struggle without my hands-on help, where I feel pretty disheartened. I know this is temporary, but the uncertainty is the hardest part."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to stay grounded about it. I've modified my classes to focus on verbal cues and gentle floor work, which helps me stay involved without pushing the shoulder. I also set aside time each day for restorative poses that don't load the joint—like legs-up-the-wall and supported twists. Mentally, I keep reminding myself that this is a temporary setback, not a permanent change, but it's definitely tested my patience more than I expected."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I've been talking a lot with fellow yoga instructors about it—they've been a great support, sharing their own experiences with similar injuries. That helps me feel less alone. I also set small goals each week, like being able to lift a teakettle or carry a grocery bag without wincing, so I can track progress. It's not easy, but I'm trying to treat this like any other pose: breathe through the discomfort and trust the process."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "Thank you for asking—I think I've covered how I'm coping already, but the short version is: I'm managing with modified teaching, support from colleagues, and a lot of mindfulness practice. It's not easy, but I'm committed to healing properly so I can get back to full strength."
+    }
+  ]
+}

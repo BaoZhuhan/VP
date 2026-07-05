@@ -1,0 +1,207 @@
+{
+  "profile_id": "P018",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been really struggling lately. I've put on almost ten kilos in the last six months, and I haven't changed my eating or exercise habits at all. On top of that, I'm exhausted all the time - like I could fall asleep at my desk by mid-afternoon - and my hair has started coming out in clumps when I wash it."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I think it all began about six months ago, maybe a little more. The weight gain was the first thing I noticed, and then the fatigue crept up slowly. The hair loss started maybe two or three months after that."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I don't really have a sharp pain anywhere in particular. It's more like a general achiness, especially in my joints and muscles, and I feel heavy and sluggish all over. Sometimes my knees and hips ache in the morning when I first get up, but it's not severe."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I do feel cold easily lately, but that's more just being chilly than having a fever. No night sweats or anything like that either."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a multivitamin every day, and I also use a calcium supplement. No prescription medications at all."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any diagnosed chronic conditions like diabetes or high blood pressure. I've always been fairly healthy, aside from being a bit overweight. The only thing I can think of is that my mother had thyroid problems, but I've never had any issues myself. I did go through menopause about a year ago, if that's relevant."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've had penicillin before without any problems, and I've never reacted to over-the-counter stuff."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried cutting back on portions and eating more vegetables, but the weight just keeps going up, not down. I also started doing light yoga twice a week, hoping it would help with energy, but I still feel completely drained most days. Honestly, nothing seems to make a difference."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The cold weather seems to make me feel worse, honestly. When it's chilly out, I'm even more tired and achy. Nothing really makes it better - not rest, not a warm bath, not even a full night's sleep. I wake up feeling just as exhausted as when I went to bed. And stress at work definitely makes the hair loss worse; I'll notice more in the shower after a tough week."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really tough. I used to enjoy going out with friends on weekends, but now I just want to stay home and nap. At work, I'm having trouble concentrating and I've fallen behind on some projects, which is not like me at all. My husband has noticed I'm more withdrawn and moody, and sometimes I just cry for no reason. I feel like I'm not myself anymore, and it's starting to scare me."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do have a glass of wine maybe twice a week, but I've cut back in the last couple of months because I thought it might be affecting my energy. I'd say I barely drink now compared to before."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, actually, my mother had severe thyroid issues - she was always tired and gained weight easily. She was eventually diagnosed with hypothyroidism and has been on medication for it for years. I've never really thought about it before, but seeing how similar I feel now to how she described herself back then, it makes me wonder."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've always been healthy and active, so this is completely new for me. The only other time I felt this rundown was maybe during a bad flu years ago, but that lasted a week, not six months. This feels totally different - it's like my body just isn't working right anymore."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's about a 4 out of 10. The aches are dull and the fatigue is constant, but I can still get through my day — just barely. Emotionally, though, it's more like a 7 or 8. I feel really down and worried all the time, like something is wrong with me, and it's hard to stay positive when nothing I do helps."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that's everything. I just want to understand why this is happening to me. I know it's not just getting older because this feels different. And I'm worried about how much worse it could get if we don't figure it out soon."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I try to just push through most days, but I've been taking more naps on weekends and I've started avoiding social plans because I'm too tired or down to enjoy them. My husband has been very supportive, but I can tell he's worried about me too, so sometimes I pretend I'm okay when I'm not. Honestly, I think that's why I finally made this appointment — I just can't keep pretending everything's fine."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think I mentioned this just a moment ago, but honestly, I've been trying to push through and pretend everything's okay, especially around my husband. But deep down, I know I'm not coping well at all — I'm just hoping you can help me find out what's really going on."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm sorry, I think I already answered that — I've been trying to push through, but I'm not doing well. I guess I just needed a professional to tell me it's not all in my head."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I apologize if I’ve been repeating myself — I think I’m just nervous. To answer again, I’ve been coping by sleeping more on weekends and avoiding things that used to make me happy. I know that’s not healthy, but it’s the only way I’ve been getting by."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I’m sorry, but I feel like I’ve answered this a few times now. I’m not coping well — I’m tired, down, and I’ve stopped doing things I used to enjoy. I came here because I need help, and I’m hoping you can figure out what’s wrong."
+    }
+  ]
+}

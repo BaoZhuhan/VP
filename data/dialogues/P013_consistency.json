@@ -1,0 +1,207 @@
+{
+  "profile_id": "P013",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, it's my knees. They ache something fierce, especially when I first wake up in the morning. Getting out of bed is a real struggle."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It's been coming on gradual-like for a couple years now. But this past year, the morning stiffness is getting worse. I just figure it's old age, but it's harder to ignore these days."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's mostly right on top of the kneecaps, both of 'em. Feels like a deep, dull ache, not a sharp stab. Sometimes it grinds a little when I move 'em, like gravel rolling around in there."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. Just the usual ache. No fever or chills - I'd know if I was really sick."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a little yellow pill for my blood pressure, and one for my sugar - the doctor said it's for my diabetes. That's all. I don't like taking too many pills."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Well, like I said, I got high blood pressure and that sugar problem - diabetes. Been managing them for years. Nothing else real serious."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. I've never had a bad reaction to any pill I've taken."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I just take it easy for a bit. I put a hot water bottle on 'em when they get real bad, and that helps some. I also try to stretch a little before I get up, but it's hard."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Well, moving around some after I've been sitting a while helps loosen 'em up, but if I overdo it, like walking too far or standing too long, they start to ache worse. Cold weather makes 'em stiffer too, I've noticed."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's slowing me down, that's for sure. Used to take care of my little garden out back, but now I can't kneel or squat to pull weeds. Even carrying groceries from the car is a chore. I just do what I gotta do and rest the rest"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I never picked up smoking. I do have a glass of wine now and then, maybe once or twice a week with dinner. Nothing heavy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother, God rest her soul, had trouble with her knees too. She used to say it was the curse of getting older. Never had it looked at proper, far as I know. Nobody else in the family complained much about it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Like I said, it's been building for a couple years now. But nothing this bad before. Never had an injury or anything - just seems to be wear and tear from all them years on my feet at the factory."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's a solid 7. It's there all the time, nagging at me. Emotionally... maybe a 4. I'm not scared or anything, just tired of it. Figure it's part of getting older, so I don't let it get me down too much."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, I think that's about it, doc. Just my knees giving me trouble. You know what it's like getting older - things start to wear out. Just hoping you can tell me if there's anything to do besides just putting up with it."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I just take it day by day, doc. No use complaining about what I can't change. I rest when I need to and keep moving when I can. Some days are better than others, but I manage. That's just how it is."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Oh, I just keep on keepin' on. I get up a little slower now, hold onto the bed frame, and once I'm up and moving, it's manageable. I don't let it stop me from doing what has to be done. No point in fussing over it."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I told you, I just get on with it. No sense in making a big fuss. I rest when I can and keep going when I have to. That's all there is to it."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I already told you - I just manage. I get up slow, I rest when I need to, and I don't let it get me down. Not much else I can do about it, is there?"
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm sorry, doc, but I already answered that a few times now. I just get through it the best I can - rest, move slow, don't complain. Is there something else you need to know about my knees?"
+    }
+  ]
+}

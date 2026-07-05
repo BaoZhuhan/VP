@@ -1,0 +1,207 @@
+{
+  "profile_id": "P019",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been dealing with some pretty erratic blood sugar readings for about a month now. I check my glucose levels religiously, at least four times a day, but no matter what I do, I can't seem to get it under control. It's been hovering between 180 and 260 mg/dL, sometimes even spiking higher after meals, even when I stick to my usual diet."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about a month ago, almost exactly four weeks back. I keep a log of all my readings, so I'm certain of the timeline. Before that, my sugars were reasonably stable with my usual regimen."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Honestly, I don't have any significant pain or discomfort to speak of. It's more of a general sense of fatigue and occasional thirst, which I attribute to the high blood sugar levels. No chest pain, no abdominal pain—just feeling a bit run down and frustrated."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. My temperature's been normal as far as I can tell. Just that general sluggish feeling I mentioned, but nothing like an infection."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on metformin 1000 mg twice a day, and I take 20 units of Lantus insulin at bedtime. I also have a prescription for atorvastatin 20 mg, but my primary focus right now is the glucose control. I haven't changed any doses recently."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have type 2 diabetes, which has been well-controlled for years until this last month. I also have hypertension, but my blood pressure readings have been stable. No other major chronic issues that I'm aware of."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known drug allergies. I've taken a range of medications over the years without any reaction."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried adjusting my meal timing and cutting back on carbohydrates even more than usual, but the readings still jump around. I also considered tweaking my insulin dose myself, but I figured I should wait and talk to you first before making any changes. So far, nothing I've tried has made a consistent difference."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "I've noticed that light exercise, like a 20-minute walk, sometimes brings my reading down by about 20 to 30 points temporarily. But it doesn't last. Stress seems to make it worse—I've had a few tense days dealing with some family matters, and my numbers were higher those mornings."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been a constant worry, to be honest. I find myself checking my log every few hours, second-guessing what I eat, and I've been avoiding social meals because I'm not sure how my body will react. It's also sapped my energy for my afternoon hobbies, like woodworking in my garage. I just feel stuck."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about 15 years ago, no cravings now. As for alcohol, I might have a small glass of wine with dinner maybe twice a week, but I stopped that completely about three weeks ago when my readings started fluctuating. I cut it out to see if it would help, but honestly, it didn't change much."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had type 2 diabetes, and he struggled with control in his later years too. My mother had hypertension, but no diabetes. It runs in the family, unfortunately."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not really. I've had the occasional single-day spike after a heavy meal or if I missed my walk, but nothing like this sustained volatility. Usually, I could correct it with an extra walk or a temporary adjustment, but this time it's been relentless for a full month."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 2 at most — just that nagging fatigue and occasional dry mouth, nothing sharp or intense. Emotionally, it's more like a 5 or 6, because the unpredictability wears on me. I'm not panicked, but it's a constant low-grade frustration that makes me feel like I'm losing control of something I've managed well for years."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Yes, one thing I didn't mention: my sleep has been a bit disrupted this past month too. I usually sleep through the night, but now I wake up once or twice, often feeling restless. I don't know if that's related to the blood sugar swings or just the worry about them. Also, I changed my glucose test strip brand last month—same meter, but different strips. I'm not sure if that could affect the accuracy."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been keeping a very detailed log, color-coding entries for meals, activity, and stress levels, trying to spot a pattern like I would with any engineering problem. That helps me feel like I'm doing something proactive. I also talk it over with my wife, just to vent, and she's been supportive. Honestly, though, the unpredictability still gets under my skin more than I'd like to admit."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think I already touched on that, but to clarify—my main coping strategy has been data and routine. Logging everything meticulously gives me a sense of control, like troubleshooting a circuit. My wife also helps keep my spirits up when I get frustrated. I'm just hoping we can crack this and get back to normal."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I appreciate you asking—I know I mentioned it before, but it's still the same approach. I lean on my logbook and my wife, and I try to keep a steady routine with walks and meals. It's not perfect, but it's how I get through each day until we figure out what's going on."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, but I've already answered that question a few times now. I'm coping by logging everything, talking with my wife, and sticking to my routines. Is there something new you need to know about that, or can we move forward with figuring out my blood sugar problem?"
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I understand you're checking in, but I've already shared that I'm managing by keeping detailed logs, talking to my wife, and sticking to my schedule. I'd really like to focus on what we can do about my blood sugar levels going forward."
+    }
+  ]
+}

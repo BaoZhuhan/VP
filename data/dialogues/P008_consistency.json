@@ -1,0 +1,207 @@
+{
+  "profile_id": "P008",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been having these really concerning episodes where I get terribly dizzy whenever I stand up. Yesterday it got so bad that I nearly took a tumble in the kitchen. My wife was quite worried, and she's also noticed that my hand sometimes trembles, especially in the mornings."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The dizziness started about two weeks ago, maybe a little more. At first I thought it was just me getting up too quickly, but it kept happening. The trembling in my hand - my wife says she noticed it maybe a couple of months ago, but I honestly thought I was just getting older and a bit unsteady."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Well, it's not really a pain, more of a strange, swimmy feeling in my head when I go from sitting to standing. Like the room sort of tilts for a few seconds. As for the hand tremor, there's no pain at all - it's just a slight, rhythmic shaking in my right hand, mostly when I'm resting it on my lap or at the breakfast table."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills at all. I've been feeling my normal temperature, and my wife hasn't mentioned me feeling warm either. It's just the dizziness and the hand shaking that have us concerned."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I've had high blood pressure for about ten years now, and type 2 diabetes for maybe six or seven. I take medication for both, but I have to admit I'm not always the best at keeping track of my blood sugar like I should."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had any allergic reactions to medicines that I know of. The only thing I remember is a bit of a rash once from some antibiotic years ago, but the doctor said it wasn't serious."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Honestly, I haven't tried much. My wife keeps telling me to sit down slowly and take my time when standing up, and that does help a little. But I haven't taken anything for it - I thought I'd better come in and let you figure out what's going on before I try to treat it myself."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Definitely worse when I stand up quickly, especially first thing in the morning after lying down all night. Sitting still or lying back down makes the dizziness go away within a minute or so. The hand tremor seems a bit less noticeable when I'm actually using my hand to do something, like holding a cup or writing, but it's very clear when my hand is just resting."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been making me nervous to do simple things around the house, like getting out of bed or standing up from my favorite chair. I used to enjoy pottering in the garden, but now I worry I might lose my balance and fall. My wife has been fussing over me more than usual, and I can tell she's worried, which makes me anxious too."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about fifteen years ago, so no, I don't smoke anymore. As for alcohol, I'll have a glass of wine with dinner maybe once or twice a week, but nothing heavy. My wife keeps an eye on that, especially with my diabetes."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not that I can recall. My father had high blood pressure too, and he passed away from a heart attack in his seventies, but I don't remember him having dizziness or shaking like this. My mother lived into her eighties and was pretty steady on her feet until the end. My sister has some blood pressure issues, but that's about it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. I've always been fairly steady and healthy, despite the blood pressure and diabetes. This dizziness and the shaking are completely new to me, and that's why it's got me so worried. I've never felt this unsteady in all my sixty-eight years."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Well, physically, the dizziness isn't terribly painful - maybe a 2 out of 10 at worst - but it's the sensation itself that's unnerving. Emotionally, I'd say I'm at a solid 7 or 8 out of 10 with worry. Falling at my age is no joke, and the hand shaking has me thinking about my father's health problems, even if he never had this exactly. It's just been a big weight on my mind lately."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think I've covered most of it, doctor. But thinking back, my wife did mention that the hand shaking seems to happen more when my arm is just hanging down or resting, not when I'm using it. Also, I should mention that I did have one episode where I felt like my heart was pounding a bit when the dizziness was worst, but that only lasted a few seconds. It's just been so unsettling, and I'm grateful you're taking the time to listen to all of this."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Well, I've been trying to take it easy, sitting down more often and making sure I get up slowly like my wife keeps reminding me. I've also been reading more in my armchair instead of pacing around the house like I used to. But honestly, doctor, it's"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to take it easy, sitting down more and getting up slowly like my wife keeps telling me. But honestly, I'm not coping all that well - I keep worrying about what might be wrong, and I find myself checking my hand constantly to see if it's shaking. It's been hard to relax, and I've been sleeping lighter lately because of the anxiety."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to distract myself with crossword puzzles and watching the telly, but my mind keeps drifting back to these symptoms. My wife has been wonderful, making sure I don't overdo it, but I catch myself staring at my hand sometimes, waiting for it to shake. I suppose I'm not handling it as well as I'd like—I'm just anxious to get some answers so I can stop worrying so much."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I've told you a few times now, doctor - I'm really not coping all that well. I keep replaying that near-fall in my mind, and the hand tremor makes me worry every time I reach for a cup. I try to keep busy with my hobbies, but the anxiety just sits there in the background. I think I'll feel much better once we get to the bottom of this."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm sorry, doctor, I realize I've been repeating myself a bit. It's just that I feel like the worry has been building up more than I let on. My wife has me sitting down more often, but I still feel on edge, like something bad could happen any moment. I suppose I'm just ready for some answers and a plan, because this uncertainty is really wearing me down."
+    }
+  ]
+}

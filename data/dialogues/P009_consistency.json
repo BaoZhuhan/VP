@@ -1,0 +1,207 @@
+{
+  "profile_id": "P009",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been having these episodes where my right hand goes completely numb for about an hour. It's happened four times now, and I'm really scared it might be MS. I'm a graphic designer, so I need my hands for work, and this is honestly terrifying me."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The first time was about three months ago. I was just sitting at my desk working, and suddenly my hand went completely dead. I've been keeping track because it's been on my mind constantly since then."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no pain at all, which is part of what makes it so strange and frightening. It's just complete numbness - like my whole hand has fallen asleep and won't wake up. The entire right hand, from my wrist down to my fingertips. I lose sensation in my thumb and index finger especially, which is terrifying for my work."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I haven't been sick or had any fever at all. It's just these completely random episodes of numbness that come out of nowhere. Honestly, I keep hoping there's some simple explanation, but the fact that it keeps happening makes me feel like something's seriously wrong."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any daily medications right now. I take a multivitamin sometimes, but nothing prescription. I was on birth control pills a few years ago but stopped because they made me moody. That's really all."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have Hashimoto's thyroiditis - I was diagnosed about five years ago. It's well-controlled with levothyroxine, and my levels have been stable for years. I also have mild anxiety, but it's usually manageable. This hand numbness situation has definitely made the anxiety worse though."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything I've taken. Well, actually, I did have some swelling around my lips once after taking amoxicillin, but my doctor said it wasn't a true allergic reaction. I'm pretty careful about mentioning it anyway"
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried shaking my hand out, massaging it, running it under warm and cold water - nothing seems to bring the feeling back faster. Once it starts, I just have to wait it out for the full hour. I even tried taking vitamin B12 supplements after reading online it might help nerve issues, but it hasn't made any difference. I'm honestly"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Nothing I've found. It seems completely random - it's happened while working, while watching TV, even once when I woke up in the middle of the night. There's no specific position or activity that triggers it, which makes me feel like I have no control over it. That's probably the scariest part for me."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's affecting everything, honestly. I'm constantly anxious, watching my hand like a hawk for any sign of numbness. At work, I keep stopping to wiggle my fingers and check if I can still feel things. I dropped my"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I'll have a glass of wine maybe once or twice a month socially, but nothing regular. I've actually cut that out completely since this started, just in case it could be making things worse. I'm pretty desperate for any explanation at this point."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, actually - my grandmother had multiple sclerosis. She passed away when I was young, but my mom told me she had similar symptoms with numbness in her hands and legs. That's honestly why I'm so terrified this might be MS. I know it can run in families, and with my Hashimoto's too... it feels like too many coincidences."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never before this started three months ago. I've had my hand fall asleep from sleeping on it wrong, but this is completely different - it's more intense and lasts so much longer. And it's happening when I'm just sitting normally, not putting pressure on anything. That's what really scares me, especially knowing my family history with MS and having Hashimoto's already."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, it's barely a 1"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I just need you to know how scared I really am. Every time my hand goes numb, I think about my grandmother and what she went through with MS. I'm a graphic designer - my hands are everything to me, and the thought of losing fine motor control in my right hand is devastating."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to stay strong, but honestly, I'm really struggling. I can't stop researching symptoms online, which I know is making my anxiety worse, but I can't help it. I've been losing sleep, and at work I keep testing my hand during meetings"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to stay positive, but it's really wearing me down. I keep looking up symptoms, which only makes me more anxious, and I've been having trouble sleeping because I worry I'll wake up with my hand numb again. At work, I find myself stopping every few minutes to check if my fingers still feel normal. I"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm sorry, I know I've said this already. I think my anxiety is just making me repeat myself. I'm coping by staying busy with work, but the worry is always there. I try not to let it show, but I'm honestly exhausted from being scared all the time."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry for repeating myself - I know I just said that. I think I'm just so anxious right now that I'm not even sure what I've already told you. But the short answer is: I'm having a really hard time coping, and I'm hoping you can give me some answers today."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I realize you've asked me this a few times now, and I'm sorry if I'm not giving a clear enough answer. I think the repetition itself shows how anxious I am right now. I'm coping by just pushing through each day, but I'm not handling it well at all. I really need some clarity today."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P024",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "My wife insisted I come in. It's been about three years since my last physical, and she wants me to get my blood pressure and cholesterol checked. I feel fine, honestly—no complaints."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Nothing really started. It's just been a while since my last checkup, so my wife wanted me to get everything looked at. No symptoms or anything like that."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I don't have any pain or discomfort. Everything feels normal to me."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, none of that. I've been feeling fine—no fevers, no chills, nothing out of the ordinary."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. I take an occasional over-the-counter pain reliever if I overdo it at work, but that's about it."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I don't have any chronic conditions I know of. My doctor mentioned my blood pressure was a bit high a few years back, but I never really followed up on it. No diabetes or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I'm aware of. Never had a reaction to anything."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I haven't tried anything since there's nothing to relieve. I'm not in pain or feeling sick—just here for the routine checkup my wife wanted."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "No, nothing really makes it better or worse because there's nothing to change. I feel the same day to day."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's not affecting my daily life at all. I'm working full-time as a construction manager, staying active on the job site, sleeping fine, eating okay. Just here for a checkup—nothing's slowing me down."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke regularly, but I'll have a cigarette now and then if I'm out with the guys. As for drinking, I'll have a couple of beers most evenings after work—nothing heavy, just to wind down."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had high blood pressure, and my mother was diabetic. Nothing out of the ordinary for folks their age, I suppose."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I haven't experienced anything like this before because there's really nothing to experience. Just routine blood work and a physical—same as any other checkup I've had in the past."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say a 1 — no pain or discomfort at all. Emotionally, also a 1 — I'm not stressed or worried, just here to get the checkup done."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, I think that about covers it. Like I said, I feel fine overall. If my wife's got any specific concerns she hasn't mentioned to me, she'll probably bring them up herself."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, there's nothing to cope with. I'm not worried about it, just getting it over with so my wife can stop nagging me."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I already told you — there's nothing to cope with. I'm fine, no stress, no symptoms. Just here for the routine stuff."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I appreciate you asking again, but I've been telling you — there's nothing to cope with. No pain, no stress, no issues. Just a routine physical. That's all."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Look, I get that you're being thorough, but I've answered this the same way every time: I'm not coping with anything because there's nothing wrong. No symptoms, no stress. Let's just move on to the exam if that's okay."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm starting to feel a little frustrated here, honestly. I've told you three times now — I'm not coping with anything because there's nothing going on. No pain, no distress, no worry. Can we please just proceed with the physical?"
+    }
+  ]
+}

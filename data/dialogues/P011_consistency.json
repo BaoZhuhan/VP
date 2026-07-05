@@ -1,0 +1,207 @@
+{
+  "profile_id": "P011",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, it's my stomach. It's been giving me trouble for weeks now. Some days I feel so sick I can't keep anything down, and I've noticed I've lost about three kilos without really trying. It's just not getting better."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I'd say it started about four or five weeks ago. At first I thought it was just a little bug, but it just kept hanging on. Now it's pretty much a daily thing."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The discomfort is up here, kind of in the middle of my upper belly, right below my ribs. It's a dull, gnawing ache most of the time, but sometimes it turns into a burning feeling. And it's not just pain—I get this awful nausea, especially in the mornings. That's when I can't keep food down at all."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had a fever or chills, thank goodness. I mean, I felt a little warm one evening and took my temperature, but it was only a tiny bit elevated, nothing major. Definitely no shaking or sweating like with the flu."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a small dose of lisinopril for my blood pressure—it's been borderline for a couple years now. And I'll sometimes take ibuprofen if I get a headache, but not every day. That's about it."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Aside from my blood pressure being a bit high, no, not really. I mean, I'm generally healthy for my age—no diabetes or anything like that. Just the usual aches and pains that come with getting older, I suppose."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had a reaction to any medicine, as far as I know. I've taken antibiotics a few times over the years, and it was always fine."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been trying to be careful with what I eat—I've been having plain crackers and ginger tea in the mornings to try to settle my stomach. I also bought some over-the-counter antacid tablets, but they don't seem to do much. Honestly, nothing really takes the edge off for long."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Well, eating sometimes helps for a little while, but then the pain comes back a bit stronger an hour or two later. And I've noticed that if I eat anything greasy or spicy, it's much worse—coffee really sets it off too. On an empty stomach, the burning sensation gets really intense, so I try to snack on bland things like crackers, but it's only temporary relief."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty rough, honestly. I work as a teller, and I've had to call in sick a few times because I can't even get out of bed some mornings without getting sick. Even when I'm at work, I feel so tired and worn down, and I'm constantly worrying about when the pain will hit again. It's really been getting me down—I just feel drained all the time, and I'm losing patience with things I used to enjoy."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, never have. But I do have a glass of wine with dinner a few nights a week—maybe three or four glasses total. I suppose it could be more on the weekends sometimes, but I don't think I overdo it."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother used to complain about heartburn and indigestion quite a bit, but she never saw a doctor for it. She just took antacids for years. My father had a bad ulcer when he was younger, I think, but that was a long time ago and he never had problems after that."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never like this. I've had an upset stomach here and there over the years—maybe from something I ate or a little stress—but it always went away after a day or two. This is completely different. It's been weeks of constant discomfort and nausea, and losing weight without trying is really starting to worry me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's around a 3 or 4—it's not excruciating, but it's constant and draining, and the nausea really gets to me. Emotionally... honestly, I'd put it at a 4 or 5. I feel down most days, and I'm anxious that something might be seriously wrong. I"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Well... there is one thing I didn't mention. I've noticed that even a small meal makes me feel uncomfortably full, like I've eaten a huge Thanksgiving dinner. And sometimes, when that happens, I get a kind of bitter taste in my mouth, like I'm burping up something sour. I don't know if that's important, but I thought I should say it."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I'm trying to take it easy, but it's hard—I have to keep working, so I just push through. At home, I've been resting more and trying not to stress about things, but the worry keeps creeping in. I've been avoiding going out with friends or family because I'm afraid I'll get sick in public, so I end up isolating myself a bit. It's not a great way to cope, I know."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm managing day by day, but it's not easy. Like I said, I've been staying home more, and I'm just tired all the time—mentally and physically. I guess I'm hoping you can help figure out what's going on, because I don't want to keep losing weight or feeling this sick. I just want to feel like myself again."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to stay positive, but it's wearing me down. I rest when I can, I eat small bland meals, and I try not to let the anxiety take over—but it's hard when every day feels the same. Honestly, I just need some answers so I can start feeling better."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, I think I already mentioned this—I'm just resting when I can, eating plain foods, and trying not to let the worry take over. But honestly, it's hard to cope when nothing seems to help and I don't know what's wrong. That's why I'm here, really—I'm hoping you can help me get to the bottom of it."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I appreciate you asking, but I feel like I've already described how I'm handling it. I'm just taking it easy, eating what I can, and trying to stay calm. But honestly, none of it's really working, and I'm just hoping for some help so I can get back to normal."
+    }
+  ]
+}

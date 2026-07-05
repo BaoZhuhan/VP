@@ -1,0 +1,207 @@
+{
+  "profile_id": "P015",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I came in because I tweaked my shoulder during a headstand about three weeks ago, and it just hasn't bounced back. It's more of a dull ache deep in the joint now, but it flares up whenever I try to bear weight on that arm. As a yoga instructor, I can't demonstrate or adjust students properly like this, and that's really starting to interfere with my work."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started exactly three weeks ago this past Thursday. I was teaching a class and decided to demonstrate a forearm headstand — nothing unusual, I've done it hundreds of times — but as I was lowering down, I felt a sharp pinch in my right shoulder. I rested it for a few days, but it's still there, just more of a nagging ache now."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's a deep, dull ache right in the glenohumeral joint — sort of centered in the front and slightly into the outer aspect of the shoulder. Sometimes it radiates a little down into the upper part of my bicep. The sharp pinch I felt initially is gone, but now it's more of a constant, grumbling soreness that gets worse when I lift my arm overhead or try to put any weight through that arm, like in a plank or downward dog."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, not at all. I've felt perfectly fine otherwise — no fever, chills, or any signs of being unwell. It's really just this localized shoulder issue."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications at all. The only thing I've used is over-the-counter ibuprofen, maybe 200 to 400 mg a couple times a day, but honestly it hasn't made much of a difference. I've also been icing it after teaching, which helps a little with the soreness."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "None at all. I'm generally very healthy — no chronic conditions, no allergies, and I don't smoke or drink. This is really the first time I've had an injury that's stuck around like this."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no allergies to any medications that I know of. I've never had a reaction to anything."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Aside from the ibuprofen and ice, I've been trying to rest it as much as possible — I've modified my own practice to avoid weight-bearing poses on that arm, and I've been teaching more verbally rather than demonstrating. I also tried a few gentle pendulum swings and doorway stretches, but those seemed to irritate it more, so I stopped. Nothing has really given me lasting relief."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Rest definitely helps — if I keep my arm still and avoid any overhead or weight-bearing movement, the ache settles down to almost nothing. But the moment I try to lift my arm above shoulder height or put any pressure through that arm, like during a plank or even just pushing open a heavy door, it really flares up again. The doorway stretches I attempted made it noticeably worse the next day, so I've backed off completely."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been quite disruptive, honestly. At work, I can't demonstrate most of the standing balancing poses or inversions, so I'm having to rely on verbal cues and walk around adjusting students, which isn't ideal. Even simple things like reaching for a mug in a high cabinet or putting on a seatbelt can cause a sharp twinge. Sleeping has been tricky too — I wake up if I roll onto that side. I'm really hoping we can figure out what's going on so I can get back to full teaching."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all — never have. And I rarely drink alcohol, maybe a glass of wine once every few months, but nothing regularly. I try to keep my body pretty clean since it's central to my work and practice."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. No one in my immediate family has had shoulder issues like this, or any joint problems that come to mind. My parents are both fairly active and healthy."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had the usual muscle soreness after a tough practice, but nothing like this — no previous shoulder injuries, no dislocations or separations. This feels different because it hasn't faded with rest like a typical strain would. It's really the first time I've had a joint issue that's persisted past a few days."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, when I'm resting or not using my arm, I"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think the main thing is that I'm really eager to get a clear diagnosis and a practical plan — I can't afford to be sidelined much longer, and I want to make sure I'm not doing something that could worsen the injury. If there are specific movements or exercises I should avoid or try, I'd love to know so I can start working toward recovery."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to stay positive and patient, which is a bit of a challenge for me since I'm used to being very active. I've focused on modifying my classes and using verbal cues more, and I've been meditating and doing some gentle pranayama to keep my stress levels down. But there's definitely a part of me that feels frustrated and anxious — I just want a clear path forward so I can heal properly and get back to what I love."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to stay level-headed, but it's definitely tested my patience. I've been leaning on my meditation practice and breathing exercises to keep the frustration at bay, and I've shifted my teaching style to be more verbal and hands-off. Still, there's a nagging worry in the back of my mind that this might take longer than I'd like, and that's hard to sit with."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I appreciate you asking — I think we've touched on this, but to be honest, I'm managing okay but not great. I've been using my meditation and breathwork to stay grounded, and I've modified my classes to avoid aggravating it. The optimism is still there, but I can feel the frustration creeping in more each day that it doesn't improve."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've mentioned it a couple of times, but to sum it up — I'm holding up alright. I'm staying active in other ways, keeping my mind occupied, and leaning on my yoga philosophy to stay patient. But honestly, I'm ready to move past the coping stage and get into a real treatment plan so I can teach fully again."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm managing, but it's wearing on me. I've been trying to stay grounded by focusing on what I can still do — teaching verbally, guiding adjustments — but every day I can't demonstrate a pose feels like I'm letting my students down. I just really want to get to the bottom of this so I can heal and get back to teaching the way I love."
+    }
+  ]
+}

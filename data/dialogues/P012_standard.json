@@ -1,0 +1,207 @@
+{
+  "profile_id": "P012",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, for the past six months, I've been dealing with episodes of really severe diarrhea and cramping about once a week. It's been getting progressively worse over time, and it's starting to interfere with my work as a grad student. The cramps are sharp and intense, sometimes doubling me over, and the diarrhea comes on suddenly without much warning."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago, maybe a little longer. At first, it was just occasional — maybe every few weeks — but over the last couple of months, it's ramped up to once a week without fail."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is a cramping sensation, usually right around my belly button and sometimes radiating down into my lower abdomen. It feels like a sudden, sharp spasm that builds quickly, and it's always accompanied by this urgent need to use the bathroom. Once I relieve myself, the cramp usually eases up, but I feel drained afterward."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills at all. I've been checking my temperature occasionally because I was worried about an infection, but it's always been normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. I do take over-the-counter loperamide occasionally when I feel an episode coming on, but it doesn't always stop it completely. I also tried a probiotic for a few weeks, but I didn't notice much of a difference."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I don't have any officially diagnosed chronic conditions, though looking back, I've always had a somewhat sensitive stomach. When I was younger, a pediatrician mentioned I might have mild irritable bowel syndrome, but it never required treatment and I never followed up on it. This feels different though — more intense and regular."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've taken antibiotics and pain relievers in the past without any issues."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Besides the loperamide and probiotics, I've tried adjusting my diet — cutting out dairy, limiting caffeine, and avoiding spicy foods. It seemed to help a little at first, but the episodes still come back. I've also tried applying a heating pad to my stomach during the cramps, which offers some temporary relief, but it doesn't stop the diarrhea."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Stress definitely seems to make it worse. I've noticed that before a big presentation or a deadline, I'm more likely to have an episode. Eating seems to be a factor too, though it's inconsistent — sometimes a meal triggers it, other times the same food doesn't. Avoiding caffeine and dairy helps a bit, but I can't always pinpoint a clear trigger. The episodes come on so suddenly that it's hard to connect them to anything specific afterward."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly been pretty disruptive. I'm a graduate student, so I spend a lot of time in labs and lectures, and the unpredictability of these episodes makes it hard to focus. I've had to leave class a few times suddenly, and I'm constantly scanning for the nearest restroom. Socially, I've declined plans with friends because I'm afraid of having an episode in public. The anxiety around it is almost as bad as the symptoms themselves."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink alcohol occasionally — maybe a couple of beers a week with friends — but I've noticed that even a small amount can trigger symptoms, so I've been avoiding it more lately. I'd say I probably have a drink once every two or three weeks now, if that."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. My parents and siblings don't have any chronic gastrointestinal issues that I know of. My mother has mentioned that she has a \"sensitive stomach\" sometimes, but nothing as severe or frequent as what I'm experiencing."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this before. I've had the occasional upset stomach like anyone else, but these episodes are much more intense and predictable in their frequency. The only thing that's remotely similar is that a doctor once mentioned I might have a mild form of irritable bowel syndrome when I was a teenager, but it never caused symptoms this severe or regular."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, right now it's maybe a 3 or 4 out of 10 — a dull ache in my lower belly that's been there most of the day, but not the sharp cramping I get during the full episodes. Emotionally, I'd say it's closer to a 7 or 8 out of 10. I'm really anxious about when the next attack will hit, and I feel like it's starting to control my life. I'm worried it might be something serious, and the unpredictability is mentally exhausting."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers most of it. Just to reiterate, the main thing is that it's getting worse over time and more frequent, which is why I decided to come in now rather than just let it keep going. I'm also concerned that I might have developed a food intolerance or something like inflammatory bowel disease, given the severity of the cramps and the diarrhea."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, I've been trying to manage it on my own — keeping a food diary, avoiding triggers, and planning my day around restroom access. But it's getting harder to just \"cope\" with it. I've started to feel pretty isolated and anxious, and I know I need real help instead of just trying to power through it. That's why I'm here."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm trying to stay on top of it, but I'll admit it's been wearing me down. I've been keeping a detailed log of my symptoms, meals, and stress levels, thinking I could figure it out on my own. But lately, the anxiety around when the next episode will hit is almost constant, and I've stopped making plans that aren't within easy reach of a bathroom. I know I need help managing this, because my own strategies aren't cutting it anymore."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to stay proactive—documenting everything, cutting out potential trigger foods, and even practicing deep breathing when I feel an attack coming on. But it's exhausting always being on guard, and I've started avoiding situations where I can't quickly get to a bathroom. The anxiety just feeds into the physical symptoms, and it feels like a vicious cycle that I can't break on my own."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I’ve been trying to just push through it, honestly, but it’s getting harder. I cancelled on a study group last week because I was afraid of having an episode, and I realized that’s not sustainable. I think that’s the main reason I’m here—I can’t keep letting this dictate my schedule and my mood like it has been."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I've covered most of it, but to sum it up—I'm coping, but barely. I'm here because my own strategies aren't working anymore, and I really need a medical perspective to figure out what's going on. I'm hoping we can get to the bottom of this so I can get back to living my life without constantly worrying about my next bowel movement."
+    }
+  ]
+}

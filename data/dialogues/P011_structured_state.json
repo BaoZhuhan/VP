@@ -1,0 +1,207 @@
+{
+  "profile_id": "P011",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, for the past few weeks my stomach has just been a mess. Some days I wake up feeling so queasy that I can't even eat breakfast, and I've been getting sick—throwing up, you know—a few times a week. It's not like a little bit of heartburn or anything; it's really persistent. And I've lost about three kilos because nothing seems to stay down. It's mostly in my upper abdomen, like a dull ache that comes and goes."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago, I think. At first I thought maybe I'd just eaten something bad, but it just keeps going. Some days I feel a little better, but then it comes right back."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I'd say it's right here, in the middle of my upper stomach—just below my ribs. It's more of a dull, gnawing ache, not sharp or stabbing. It's worse when my stomach is empty, but honestly even after I eat it's still there, just a heavy, uncomfortable feeling."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I checked my temperature a couple of times, and it was normal, around 36.9 or so. So it's not like I feel hot or cold or anything like that."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm currently taking metformin. I think it's for my blood sugar—my doctor prescribed it a while back. Nothing else besides that, really."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have anemia. I've had that for a few years now. It's usually managed with diet, but I've been taking the metformin for a bit too. That's about it—nothing else major going on."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I'm not allergic to any medications that I know of, no. But I do have a bad reaction to shellfish—I can't eat shrimp or crab or anything like that. It makes my throat swell up. So I'm careful about that."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried a few things on my own. Some days I'll just sip on ginger tea or plain water, trying not to upset my stomach further. I also tried eating just plain crackers, but that didn't really help. Honestly, nothing seems to make it stop, which is why I finally decided to come in."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Well, being hungry seems to make it worse—I get that gnawing ache. But eating doesn't really fix it either; I still feel uncomfortable and heavy after a meal. Stress probably doesn't help, but it's hard to avoid with my job. I've also been feeling more tired than usual, which might be related. And my appetite is just not there—I have to force myself to eat."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really been getting in the way. I work as a bank teller, so I'm on my feet a lot and dealing with customers all day. There have been days I've had to leave early or call in sick because I just can't stop feeling nauseous or I've been sick in the bathroom. I'm also just wiped out—really tired—so by the time I get home, I don't have energy for much else. Even simple chores feel like a lot. It's honestly starting to get me down."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all, and I don't drink alcohol either—never really have. So I can't blame this on those kinds of habits. It's been pretty clean living on my part, which makes this all the more frustrating, honestly."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not really, no. My mother had some stomach issues when she got older—mostly indigestion and heartburn—but nothing quite like this. My father was always pretty healthy. So I don't think there's a strong family pattern, at least not that I know of."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. Every now and then I'd get a little queasy after a heavy meal or something, but it would go away in a day. This has been going on for weeks, and it's much more intense. I've never lost weight like this from stomach problems before."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically? I'd say maybe a 6 out of 10. The nausea and the ache aren't excruciating, but they're constant and draining. And emotionally... probably a 7. I feel pretty down about it all—worn out and kind of worried that something's really wrong. It's hard to focus or feel like myself when my stomach's been this way for so long."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers most of it. Oh, one more thing—I've been feeling really down lately, almost depressed, like this whole thing is weighing on me more than I'd like to admit. And the tiredness is a big part of it—I'm just so worn out. I guess I want to get to the bottom of this, because it's really starting to affect my mood and my work."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to keep a routine, but it's hard. I force myself to go to work most days, but I'm just going through the motions. At home, I mostly just rest—I don't have the energy for much else. I've been talking to"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to keep a routine, but it's hard. I force myself to go to work most days, but I'm just going through the motions. At home, I mostly just rest—I don't have the energy for much else. I've been talking to my sister on the phone sometimes, just to vent a little, but I don't want to burden her"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm just taking it day by day, honestly. I go to work, come home, rest, and try not to think about it too much. I talk to my sister now and then, but I don't want to complain all the time—she has her own life. So I mostly just push through, even when I feel awful. But it's getting harder to do that, which is why I'm here."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm just taking it day by day, really. I try to get enough rest when I can, and I've been leaning on my sister a little, just to talk through how I'm feeling. But I don't like to feel like I'm always complaining, so mostly I just keep it to myself and try to push through. It's not working great, though—I think that's part of why I finally came in. I"
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I've just been trying to take it easy when I can, but it's hard because I have to work. I rest a lot when I'm home, and I've talked to my sister a few times, but I don't like to worry her. Honestly, I think I've been avoiding thinking about how bad it's gotten—I just keep hoping it'll go away on its own. But it hasn't, and I think that's been making me more anxious and down"
+    }
+  ]
+}

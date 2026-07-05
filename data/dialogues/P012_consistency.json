@@ -1,0 +1,207 @@
+{
+  "profile_id": "P012",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been having these episodes of really bad diarrhea and cramping about once a week for the last six months or so. At first it was manageable, but over the past couple of months it's gotten noticeably worse, and I'm starting to get concerned it might be something serious."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago, maybe even a little longer. But I'd say it's really been in the last two months that the frequency and severity have ramped up. Now it's happening nearly every week without fail."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The cramping is mostly in my lower abdomen, usually on the left side. It feels like a sharp, twisting sensation that builds up and gets pretty intense before I need to run to the bathroom. Sometimes it's just a dull ache afterward, but during the episode, it's hard to focus on anything else. Passing gas or having a bowel movement tends to relieve it temporarily."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fevers or chills. That's one thing I've been watching for. I haven't noticed any blood in my stool either, though I've been checking. What I have noticed is some fatigue and sometimes feeling a bit brain-foggy after an episode, but no actual temperature spike."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None at all. I'm not taking any prescription medications, over-the-counter drugs, or supplements regularly. I don't have any chronic conditions or allergies that I know of."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic medical conditions. I'm generally pretty healthy—no diabetes, high blood pressure, or anything like that. I also don't have any known food allergies or intolerances, though I've started wondering if maybe something I'm eating could be triggering these episodes."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I'm aware of. I've had standard antibiotics and pain relievers in the past without any issues."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried a few things on my own, like cutting out dairy and greasy foods for a while, but it didn't seem to make a difference. I've also taken over-the-counter anti-diarrheal medication a couple of times during an episode, and it helped a little, but not enough to stop it from happening the next week. Honestly, I'm getting frustrated with just guessing what's wrong."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "What makes it worse is probably stress—I've noticed the episodes tend to hit around deadlines or after a long day of classes. Certain heavy meals, especially if I eat late, also seem to bring it on. What helps is when I actually manage to have a bowel movement or pass gas, the cramping eases off significantly until the next episode. Lying down with a heating pad sometimes takes the edge off the ache afterward."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly starting to take over my daily routine. I find myself constantly mapping out where the nearest bathroom is before I go anywhere, and I've skipped a couple of classes and social events because I'm scared an episode will hit at a bad time. My sleep is disrupted too—the cramps have woken me up a few times in the middle of the night. It's making me feel pretty anxious and on edge."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink alcohol occasionally, maybe once or twice a month, but I've noticed that if I have more than one drink, it can trigger an episode the next day. So I've cut back a lot recently."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My parents and siblings don't have anything like this. My father had some occasional heartburn and indigestion as he got older, but nothing that sounded like what I'm going through. So it doesn't seem to run in the family."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this ever before. I used to have a pretty iron stomach—could eat anything without any issues. This is completely new for me, and it's honestly a bit scary not knowing what's causing it. The fact that it keeps coming back and getting worse definitely has me worried."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Right now, physically I'm not in the middle of an episode, so I'd say maybe a 3 or 4 out of 10 — just some lingering lower abdominal tenderness and fatigue. Emotionally it's probably more like a 7 out of 10. The uncertainty and the fact it's getting worse are really weighing on me, and I feel like I'm constantly bracing for the next attack."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers most of it. One thing I'll add is that I've noticed the episodes often hit when I'm particularly stressed—like before an exam or a presentation. I don't know if that's just a coincidence or if it means something, but it seems worth mentioning. I'm really hoping we can figure out what's going on so I can get back to feeling normal."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to manage it the best I can — I keep a food diary, avoid eating out, and I always make sure I know where the restrooms are before I go anywhere. I also try to do some deep breathing or take short walks when I feel stress building up, but honestly, it's hard to stay calm when you don't know when the next episode will hit. I'm just hoping for some real answers today so I can stop guessing and actually treat whatever this is."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think I mentioned this already, but I've been trying to keep a food journal and avoid trigger foods, and I do my best to plan around the episodes so they don't derail my whole week. It's not easy though—it takes a lot of mental energy, and I'm pretty anxious most of the time. I appreciate you asking; it helps to talk through it."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Sorry about the repetition—I've just been trying to adapt as best I can. I keep a food diary, avoid risky eating situations, and I'm always planning escape routes to restrooms. It's mentally draining, but I try to stay on top of it. Still, I'm really hoping for some clarity today so I can stop just coping and start treating the root cause."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I apologize for the repeat—I guess I keep circling back to the same answer because it's been on my mind. To give you something new: I've also started talking to a friend who's in med school, just to vent and get some informal advice. It helps a little to share the load, but I know I need real medical guidance here."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I understand you're trying to get a fuller picture, and I appreciate that. One thing I haven't mentioned is that I've started avoiding planning anything too far in advance—like making dinner reservations or committing to weekend trips—because I'm scared an episode will ruin the plan or embarrass me. It's been pretty isolating. That's probably the hardest part to cope with."
+    }
+  ]
+}

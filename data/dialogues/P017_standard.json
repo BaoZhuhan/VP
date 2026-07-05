@@ -1,0 +1,207 @@
+{
+  "profile_id": "P017",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, Doc, it's this patch on my forehead. My wife's been after me for months to come see someone about it. It's just a rough, scaly spot - been there about a year now. Doesn't hurt or anything."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Started about a year ago, I reckon. Just appeared one day and never went away. I've been putting it off, but my wife keeps saying it looks different from normal dry skin."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Right here, on my forehead above my left eyebrow. It's not really painful - maybe a little tender if I rub up against it. Mostly it's just rough to the touch, like sandpaper or dry crust. Sometimes it flakes a bit."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, sir. I've been feeling fine - no fever, no chills, nothing like that. I'm still working the farm every day like normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I don't take any prescription medicines. Sometimes I chew on an aspirin if my back's acting up after a long day, but that's about it. Nothing regular."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I'm generally healthy for my age, Doc. My wife says my blood pressure runs a bit high sometimes, but I don't take any medicine for it. Nothing else I can think of."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. I've never had a reaction to anything. My wife says I'm lucky that way."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just what my wife put on it sometimes - some sort of hand cream or lotion. I've also tried ignoring it, but that didn't work either. The sun and heat don't seem to make it better or worse."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Not really. I've tried scrubbing it a bit in the shower, but that just makes it red. The sun doesn't seem to bother it much either. It's just always there, same as ever."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It doesn't bother me much, really. I still do my chores and work the fields. My wife worries about it more than I do - she keeps saying I need to get it looked at before it turns into something serious. But it doesn't slow me down any."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked a day in my life. I'll have a couple of beers on Saturday evening after a long week, but nothing more than that. Never been one for hard liquor."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had a spot on his arm that looked kind of similar. He never did get it looked at - just lived with it. Passed away at 82 from old age, not from that spot. Other than that, no one in my family that I know of had anything like this."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, this is the first time I've had anything like this. I've had plenty of sunburns over the years working outdoors, but they always healed up fine. This one just stuck around."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, it's nothing - maybe a 1 out of 10, if I had to put a number on it. Emotionally... well, I'm not losing sleep over it. Maybe a 2, since the wife keeps pestering me. I'm just here to get it checked so she'll stop worrying."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Well, I've been working outside most of my life - since I was a teenager, really. A lot of sun, a lot of hats, but not always enough shade. Probably should've worn sunscreen, but us farmers don't always think about that. That's all I can think of, Doc."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I'm handling it fine, Doc. Like I said, I'm not one to get worked up over things. I figure if it was something bad, I'd know by now. I just came in to keep the peace at home. Other than that, life goes on same as always."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Like I mentioned, I'm getting along just fine. I don't let it bother me at work or at home. The only reason I'm here is my wife's insistence - she worries, and I figure it's easier to just come in than argue about it. I'm not losing any sleep over that patch."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I appreciate you asking, but honestly, I'm not much of a worrier. I just put my head down and keep working. My wife handles the worrying for the both of us. I figure you're the doctor - once you tell me what it is, I'll deal with it then."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Doc, I think I've said it about three times now - I'm coping just fine. I'm not one to dwell on things. You tell me what it is, and we'll go from there. Otherwise, I'm just here to please the wife."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think we've covered that already, Doc. I'm doing fine, really. Could we maybe talk about what that spot on my forehead might be? That's why I'm here."
+    }
+  ]
+}

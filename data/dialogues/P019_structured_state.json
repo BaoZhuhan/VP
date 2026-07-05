@@ -1,0 +1,207 @@
+{
+  "profile_id": "P019",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been checking my blood sugar daily for years now, but over the last month it's been erratic no matter what I do. My fasting readings are bouncing between 130 and 200, and post-meal spikes go even higher. I'm using my usual insulin and metformin dosages, but it feels like I'm chasing a moving target."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started roughly five weeks ago. I keep a log, and before that my morning numbers were pretty steady around 120 to 140. Then suddenly I saw these wild swings—180 one day, 220 the next—and my usual adjustments just aren't working anymore. I've even tried tweaking my mealtime insulin by a few units, but nothing seems to stabilize it."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I wouldn't really call it pain—more like a nagging numbness in my feet and lower legs that's been there for a few months now. Sometimes I get a bit dizzy after meals, and I've had waves of nausea that come and go, but nothing sharp or severe. The fatigue is probably the biggest thing—I just feel worn out by mid-afternoon, which is unusual for me."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. My temperature has been normal as far as I can tell—I've checked a couple times when I felt off, but it's always been around 36.8. Nothing out of the ordinary on that front."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on metformin twice a day—1000 mg each dose—and I use insulin glargine at bedtime, 30 units. For my blood pressure, I take lisinopril 10 mg daily. I've been on these for years, no changes recently except when I tried bumping up the insulin myself."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I've had type 2 diabetes for about 12 years, and hypertension for close to 15. Both have been fairly well managed until this past month with the blood sugar swings. My blood pressure has been stable on the lisinopril, so I don't think that's the issue."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any allergies to medications. I've never had a reaction to anything I've taken, including the metformin, insulin, or lisinopril."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried adjusting my insulin dose by a few units on my own, but that didn't really help. I also changed my meal timing and cut back on carbs, but the numbers still bounced around. I haven't taken anything over-the-counter for the nausea or dizziness because I wasn't sure what would be safe with my meds."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Eating smaller, more frequent meals seems to help the dizziness a bit—when I eat a big meal, I feel worse afterward. Resting in my recliner for twenty minutes after lunch eases the nausea and fatigue. But the numbness in my feet doesn't really change, no matter what I do."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been frustrating, to be honest. I'm retired, so I don't have work demands, but I've had to cut back on my daily walk because the"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke—about a pack a day for 20 years—but I quit nearly a decade ago. I don't drink alcohol at all; haven't had a drop since my diabetes diagnosis. I figured it was better to avoid it altogether."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had type 2 diabetes and hypertension, and my mother also struggled with high blood pressure. My older brother has prediabetes now, but he's managing it with diet. So there's definitely a family pattern there."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. Over the years, I've had occasional highs or lows, but my numbers have always responded to my usual routine within a day or two. This persistent instability over five weeks is new for me, and that's why I decided it's time to come in rather than keep guessing on my own."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's more of a persistent annoyance than severe pain—maybe a 4 out of 10? The fatigue and foot numbness are the main drags, but nothing keeps me in bed. Emotionally, I'm probably around a 5 or 6—it's not panic, but I'm definitely resigned and a bit worried that my usual strategies aren't cutting it anymore. I just want to get this back under control so I can stop second-guessing every meal and dose."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers just about everything. I've been keeping a detailed log, so if you want to look at the numbers, I have them with me. Other than that, I'm ready to hear your thoughts on what might be causing this and what we can try next."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been leaning on my routine to stay sane—keeping that detailed log helps me feel like I'm still in control, even when the numbers don't cooperate. I try not to let it stress me out too much, but I'll admit I've had a few restless nights just turning it over in my head. Mostly, I just want a clear plan so I can stop guessing."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm handling it by sticking to my routines and staying logical about it, like I used to when I was troubleshooting engineering problems. I track everything meticulously, so I can point to the data. But I'd be lying if I said the unpredictability doesn't wear on me—it's just frustrating to feel like I'm doing everything right and still not getting the results I expect."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I keep telling myself it's just another problem to solve, like when I used to debug a circuit. But I'm starting to run out of ideas on my own, which is why I came in today. I'd rather have a doctor's perspective than keep second-guessing myself."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've mentioned this, but honestly, I cope by treating it like an engineering problem—I log, I test, I adjust. It works for a while, but when the data stops making sense, that's when I know I need help. So here I am, ready for a fresh set of eyes."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I appreciate you asking, but I feel like I've been repeating myself a bit—apologies. Really, I cope by staying methodical with my logs and adjustments, but it's not working anymore. That's why I'm here, hoping we can figure this out together."
+    }
+  ]
+}

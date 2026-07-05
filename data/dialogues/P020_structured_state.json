@@ -1,0 +1,207 @@
+{
+  "profile_id": "P020",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm honestly at my wit's end, doctor. I can't sleep - I lie awake for hours, and when I finally do fall asleep, I wake up at 4 AM with my heart pounding out of my chest. During the day, I can't concentrate on anything. My PhD research is suffering because I just stare at my computer screen."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago, maybe a little more. At first I thought it was just stress from my dissertation deadlines, but it's only gotten worse. Now it's every single night, and I feel like I'm running on empty."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's mostly in my chest, like a tightness or pressure, and my head - I keep getting these dull headaches that just won't go away. It feels like my heart is racing even when I'm not doing anything. And I'm constantly tense, like my shoulders are up around my ears all day."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I haven't had a fever, no chills or anything. It's more this constant feeling of being... on edge, you know? Like something terrible is about to happen, even when there's no reason for it."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not taking any medications at the moment. I was diagnosed with anxiety disorder a few years ago, but I haven't been on anything for it in a while. I've just been trying to manage it on my own, but obviously that's not working anymore."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have anxiety disorder, which I've dealt with on and off since college. But honestly, this feels different from my usual anxiety. It's more physical, more intense - I've never had my heart race like this before, or had such trouble sleeping through the night."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any allergies that I know of. I'm pretty open to treatment options - honestly, at this point I'll try just about anything to get some sleep and feel like myself again."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried... well, I bought some melatonin gummies, and I've been drinking chamomile tea before bed, but it doesn't really touch it. I also tried just forcing myself to stay up later, thinking I'd be more tired and sleep through, but that just made me feel more wired and anxious. Nothing seems to work."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Definitely worse when I'm under pressure - like when I have a big deadline or a meeting with my advisor. And when I try to relax, like at night, that's when my mind just goes into overdrive. Nothing really makes it better, to be honest. I just feel stuck in this cycle."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's completely derailing my life. I can't focus on my research at all - I used to write for hours, now I can barely get through a paragraph. I've cancelled meetings with my advisor twice because I'm too exhausted and anxious to even think straight. And socially, I've been withdrawing from my friends because I just don't have the energy or the mental space. I feel like I'm failing at everything."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I've never smoked, not even tried it. I do drink occasionally - maybe a glass of wine with friends once a week or so. But lately I've been avoiding alcohol because I'm scared it might make my sleep even worse, or make the heart racing thing more intense."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "I think my mom has always struggled with anxiety too, but she never really talked about it or got treatment. She just kind of... dealt with it. But I don't know anyone in my family who's had it this severely, with the physical symptoms like I'm having now."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I've had times where I felt anxious before exams or presentations, but I could always shake it off after. This time it's been weeks and I can't seem to break out of it - it's like my body is stuck in fight-or-flight mode 24/7. That's why I finally came"
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically... maybe a 3 or 4? The chest tightness and headaches are there, but they're not crippling. Emotionally, it's easily a 9 or 10. I feel like I'm drowning in my own thoughts, and I can't see a way out. It's terrifying, honestly."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers most of it... oh, and I've pretty much lost my appetite. I used to love cooking, but now I just pick at food or forget to eat entirely. It's like my body just doesn't feel hungry anymore."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, not well. I've been isolating myself in my apartment, avoiding my friends and colleagues because I don't want to explain how I'm feeling or pretend everything's fine. I keep hoping it'll just go away on its own, but it keeps getting worse. That's why I'm here - I finally realized I can't do this alone."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've mostly been trying to just push through it, but that's not working. I cancel plans, I avoid my laptop, I lie in bed feeling guilty for not working. Honestly, I think I've been in denial - hoping if I ignored it long enough, I'd wake up one day and feel normal again. But that hasn't happened, and I'm scared it never will without help."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've just been surviving, not coping. There are nights I lie awake and just cry from frustration. I've started avoiding my own thoughts by scrolling through my phone for hours. It feels like I'm watching myself fall apart and I can't stop it. That's why I need your help, doctor - I don't know what else to do."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, I feel like I keep repeating myself. I guess the bottom line is I'm not coping at all - I'm just barely getting through each day, and I'm desperate for something to change. That's why I'm so grateful you're taking the time to really listen to me."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm sorry, I think I've already said all of this. I just... I'm not coping. I'm struggling. I feel like I'm stuck in a loop and I can't get out. Can you please help me figure out what to do next? I really need something to change."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P019",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, my blood sugar's been swinging wildly this past month. I check it every morning and before meals, and it's been running 180 to 200 in the mornings, sometimes spiking even higher after meals despite watching what I eat. I've been on metformin for years, but it just doesn't seem to be keeping things steady like it used to."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It really started about three to four weeks ago. I've got a log at home—blood sugars that used to be consistently under 140 fasting are now rarely below 180. I noticed it right after my cardiologist put me on lisinopril for blood pressure, but I'm not sure if that's related."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Actually, I don't have much pain to speak of—maybe a mild, dull ache in my feet after a long day of walking, but nothing sharp or constant. I mainly feel more tired than usual in the afternoons, and I get a little lightheaded if I skip a meal, but no real discomfort I'd call pain."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, none at all. I've been running a normal temperature, and no chills or night sweats. I did wonder if an infection could be driving my sugars up, but I feel fine otherwise—no cough, no urinary symptoms, nothing like that."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on metformin 1000 mg twice a day with meals, lisinopril 10 mg once daily, and atorvastatin 20 mg at bedtime. I also take a baby aspirin every morning. No insulin or other diabetes meds—just the metformin, which I've been on for about six years now."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have type 2 diabetes, which I've had for about twelve years now, and hypertension. I also have high cholesterol, which is why I'm on the statin. Nothing else major—no heart attacks, strokes, or kidney issues that I know of. My last A1c six months ago was 7.1, so it's been creeping up."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything I've taken, including the metformin and lisinopril."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been stricter about my diet—cut out almost all refined carbs and sweets, and I'm walking an extra mile each day. I also tried adjusting the timing of my metformin doses, but that didn't help either. Honestly, I feel like I'm doing everything right and the numbers just keep climbing, which is frustrating."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Exercise, like my daily walk, seems to bring my blood sugar down a bit afterward—maybe 20 to 30 points. But stress seems to make it worse; I've had a few arguments with my wife over household things, and those mornings my sugar is always higher. Skipping a meal also sends it into a weird spike later, so I've been trying to eat on a regular schedule."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been affecting my energy levels quite a bit. I feel sluggish in the afternoons, so I've had to cut back on some of my woodworking projects in the garage. Also, I find myself obsessing over my glucose readings—checking them more often than I probably should—and worrying about what a rising A1c might mean down the road for my eyes or kidneys."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about fifteen years ago—used to be a pack-a-day man for years, but I kicked it cold turkey. As for alcohol, I'll have a glass of red wine with dinner maybe two or three nights a week, nothing more than that. I haven't noticed that it directly spikes my sugar, but I'm open to cutting it out if you think it might be contributing."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had type 2 diabetes and eventually went on insulin in his seventies. He also had high blood pressure and heart disease, so I've always been mindful of that family history. My mother didn't have diabetes, but she had high cholesterol. That's part of why I'm so concerned—I've seen what uncontrolled diabetes can do, and I want to stay ahead of it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not really. I've had occasional high readings before—maybe after a heavy meal or during a cold—but nothing sustained like this for weeks on end. In the past, I could tighten up my diet and exercise for a few days and see my numbers drift back toward normal. This time, no matter what I do, the trend is steadily upward, and that's new for me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd put it at about a 2 or 3—just that mild ache in my feet and some fatigue, nothing debilitating. Emotionally, though, it's probably a 5 or 6. I'm resigned but also anxious because I've never had this kind of persistent rise before, and it makes me worry that I'm losing control of my diabetes despite my best efforts."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "One more thing: I've been sleeping poorly for the past few weeks—waking up around 3 or 4 a.m. and struggling to get back to sleep. I've read that poor sleep can affect blood sugar, so I thought I should mention it. Otherwise, I think that covers everything I've been dealing with."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been leaning on my wife a lot—she's been helping with meal planning and keeps reminding me not to panic about every single high reading. I also try to stay busy in the garage with my woodworking, which takes my mind off it. But I won't lie—it's hard not to feel a bit defeated when the numbers keep climbing despite my best efforts."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I already mentioned it, but honestly, my wife and my workshop are my main outlets. She's been great at keeping meals on track, and I find that focusing on a project—shaping a piece of wood or sanding a table leg—helps quiet the worry for a few hours. Still, the moment I check my glucose again, that sense of frustration creeps back in."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm sorry, I think I already covered that—my wife and my woodworking shop are my main coping outlets. If you're asking whether I've tried anything else, like talking to a counselor or joining a support group, I haven't. I tend to keep things inside and just try to adapt on my own, but I'm starting to realize that might not be enough this time."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've mentioned this a couple times already, but to be clear: my wife and my woodworking hobby are my main ways of dealing with the stress. I haven't sought any formal counseling, though I'm starting to wonder if that might help given how persistent this blood sugar issue has become."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I apologize for repeating myself—I'm not sure if that question got lost in the conversation. I've been coping mostly through my wife's support and staying busy with woodworking. I haven't tried anything else, but I'm open to suggestions if you think I need more structured support. Is there something specific you're worried about that I haven't addressed?"
+    }
+  ]
+}

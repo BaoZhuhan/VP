@@ -1,0 +1,207 @@
+{
+  "profile_id": "P022",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've had a fever that keeps coming and going for the past four days. At night, the chills are really intense—I’m shaking even under a heavy blanket. And my whole body just aches, like every muscle is sore. I’ve been taking acetaminophen, but it only helps a little."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about four days ago. I remember I was feeling fine in the morning, but by the evening I started getting a bit warm and achy. Each day since then, the fever has come and gone, but last night was the worst—the chills really hit me hard."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's like a deep, dull ache all over—especially in my lower back, my legs, and my shoulders. Nothing sharp or stabbing, just a constant soreness, like I’ve been working out too hard. It makes it hard to get comfortable, especially at night when the chills come on."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Yes, the fever has been on and off. I checked my temperature yesterday evening and it was 39.1°C. The chills are the worst part—they hit me hard at night, usually around bedtime, and I just can’t stop shivering for a while. And then I start sweating once the fever breaks, which is exhausting."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just acetaminophen—I've been taking 500mg tablets a few times a day when the fever spikes or the aches get too bad. I'm not on any prescription medications or anything else regularly."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I'm generally pretty healthy—no diabetes, high blood pressure, or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, not that I know of. I've never had any reaction to medications, including the acetaminophen I've been taking. As far as I'm aware, I don't have any allergies."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Pretty much just the acetaminophen, like I said. I also try to rest as much as I can and drink plenty of water, but I haven't taken anything else—no cold medicine or home remedies. Honestly, the acetaminophen takes the edge off, but the fever and aches keep coming back."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, just lying still in bed seems to help a little with the body aches—moving around makes everything feel worse. The acetaminophen helps a bit, but it doesn't last. And nothing really helps with the night chills; they just have to run their course until the fever breaks and I start sweating."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really tough. I'm a school teacher, so I've had to take a few days off—I just don't have the energy to stand in front of a class or even grade papers. Basic stuff like getting up to make tea or take a shower feels exhausting. At night, the chills keep me awake, so I'm running on very little sleep, which just makes everything worse."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all—never have. And I don't drink alcohol either. I've never really been into it, so there's nothing like that going on."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. Everyone in my immediate family is pretty healthy, and no one's been sick like this recently."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not really. I mean, I've had the occasional cold or mild flu over the years, but nothing with these intense, on-and-off fevers and chills that last for days. This feels different—more draining."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say a solid 7 or 8—the body aches and the chills at night are really brutal, and the fever leaves me wiped out. Emotionally, I'd put it around a 3 or 4—I'm more frustrated than scared, just tired of feeling miserable and missing work. I just want to get better."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers most of it. Oh, I also have a bit of a dry cough that started a couple of days ago—it's not constant, just every now and then. And I've had a mild headache along with the body aches, but it's not the worst part. Does that sound like something I should be worried about?"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Mostly I've just been trying to rest as much as I can, staying in bed, and forcing myself to drink water even when I don't feel like it. The acetaminophen is my go-to, but I know it's not a cure. Honestly, I'm just trying to ride it out and hoping it passes soon, because it's wearing me down."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've just been trying to take it easy, really—lying down as much as possible and keeping hydrated even when I don't feel like eating. The acetaminophen helps a little, but I know it's not fixing whatever's causing this. It's been tough staying positive, but I'm hoping it'll clear up soon."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Honestly, I'm just trying to push through it day by day. The lack of sleep from the night chills and sweating is really getting to me, so I'm slower and grumpier than usual. But I keep reminding myself it'll pass—I just wish it would happen sooner rather than later."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I mentioned it before, but I've been trying to rest, drink water, and take the acetaminophen as needed. I also put a cold washcloth on my forehead when the fever spikes—that helps a bit during the day. At night, though, the chills just take over, and I end up lying there shaking until I finally sweat it out. It's starting to wear on me mentally, but I'm managing."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm just trying to take it one day at a time—resting, drinking fluids, and using acetaminophen when it gets too bad. It's been hard to stay upbeat when the fever keeps coming back, but I'm doing my best to ride it out. Honestly, not sleeping well is making everything feel heavier, but I'm still managing."
+    }
+  ]
+}

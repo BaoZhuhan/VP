@@ -1,0 +1,207 @@
+{
+  "profile_id": "P021",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Everything just feels... grey. It's been like this for months now, honestly. I used to love my work, but now I sit at my desk staring at briefs and can't string two thoughts together. And my kids - I snap at them over the smallest things, then feel terrible about it afterwards."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I think it started sometime in late spring, maybe May? At first I just put it down to stress - there was a big case I was working on that went on for weeks. But once that wrapped up in June, I expected to feel better, and I just... didn't. My wife noticed before I did, honestly."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain anywhere specific. More like this heavy, dull ache right in the centre of my chest, and sometimes it spreads to my shoulders. Like I'm carrying a stone around with me all day. Does that make sense? It's not there"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. My temperature's been normal as far as I know. It's not a flu or an infection - this feels like it's coming from somewhere deeper, if that makes any sense. Like my brain just isn't working the way it used to."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on a low dose of lisinopril for blood pressure - that's been stable for about three years now. And sometimes I'll take an Advil if my"
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "The high blood pressure is the only official one on my chart, really. I had a full physical back in January - blood work, stress test, the works - and everything came back clean. No diabetes, no thyroid issues, cholesterol was borderline but nothing alarming. So I don't think there's anything physically wrong, unless something's changed since then."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Funny you should ask that - I had a reaction to penicillin when I was a kid, got a rash all over my arms. Nothing serious, but they flagged it in my chart. Haven't had an issue with anything else since."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried cutting back on scotch in the evenings - I was having two or three most nights, figured that might be dragging me down. Didn't help. My wife suggested I go for a run, get some endorphins going. I managed about ten minutes before I just felt utterly drained and came back inside. Nothing seems to shift this fog, no"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Mornings are the worst - I wake up and immediately feel that weight before I've even opened my eyes. By evening I'm a bit more numb than sad, but it's not exactly better. And my kids' laughter... God, I hate saying this, but sometimes it just grates"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been brutal for my work, honestly. I'm a lawyer - my entire job is parsing details and building arguments. Now I read the same paragraph three times and still can't tell you what it said. I had to postpone a deposition last week, which I've never done in twenty years. And at home... my eight-year-old asked me to play catch, and I just told him I was too tired. I saw his face. That's the part that really gets me."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke - never picked it up. The scotch I mentioned though, that's been more of a crutch lately than I'd like to admit. Two glasses most nights, sometimes three if it's been a particularly grey day. I know that's not ideal, but it's the only thing that quiets the noise for an hour or two."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had something similar in his mid-50s, now that you mention it. Not that we ever really talked about it openly - he was from that generation that just soldiered through. But my mother told me later he spent about six months barely getting out of bed, and eventually his GP put him on something that helped. I've been wondering lately if that's relevant."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. I had a rough patch in law school - long hours, self-doubt, all of that - but I"
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's maybe a 2 or 3 - that dull ache in my chest isn't agonising, but it's always there, like a low hum I can't switch off. Emotionally? Probably a 7 or 8. It feels like I'm watching my life through a dirty window, and I can't seem to clean it."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers the big things. Except maybe this: I wake up at 4:30 every morning now, without fail, and just lie there staring at the ceiling. No alarm, no reason - just my brain deciding it's done sleeping. And I keep thinking about my father's depression, wondering if this is the same thing he went through. I don't"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Mostly by trying to push through it, honestly. I've been telling myself it'll lift eventually if I just keep going. I tried reading up on depression - went to the library, even looked at some online forums - but reading about other people's stories just made me feel worse, like I was seeing my own future play out. I haven't told anyone outside my wife. She's been patient, but I can see the worry in her eyes."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I keep a spreadsheet of my moods and sleep - colour-coded, because that's how my brain works. It's mostly red and orange for the past three months. I also started journaling, but I keep abandoning it after a few days because reading my own thoughts is... exhausting, frankly. My wife suggested therapy, but I've been putting it off - I keep telling myself I should be able to fix this on my own."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I keep trying different things, but nothing sticks for more than a few days. I'll make a plan - exercise, eat better, cut back on drinking - and then just... lose the will to follow through. It's like I'm watching myself fail from the outside. And I hate that I can't just pull myself together. I'm a lawyer, I solve problems for a living, and I can't solve this one."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Honestly, I'm not coping well at all. I've been retreating into myself - watching old legal dramas on repeat at night, because they feel predictable and safe. But even that's starting to feel hollow. I think the hardest part is the shame - feeling like I'm failing everyone, including myself, and not having a clear reason why."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "Look, I'm sorry, I know I keep going in circles. It's just that none of the usual strategies work anymore - I've tried willpower, I've tried distraction, I've tried toughing it out. And every time I fail, it just adds another layer of self-contempt. I'm here because I finally realised I can't think my way out of this one, and that's a hard thing for me to admit."
+    }
+  ]
+}

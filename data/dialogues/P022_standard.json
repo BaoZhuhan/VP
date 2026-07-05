@@ -1,0 +1,207 @@
+{
+  "profile_id": "P022",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've had a fever that keeps coming and going for about four days now. The night chills are the worst - I wake up drenched in sweat, shivering so hard I can barely move. And honestly, my whole body just aches, like I've been run over by a truck. I finally figured I should get it checked out."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started last Monday evening. I was just sitting at home after work, and suddenly I felt really hot and flushed, then the chills kicked in that night. It's been like that on and off ever since, with no real break."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The ache is all over, but it's worst in my lower back and my legs. It feels like a deep, dull soreness, like I've been doing heavy lifting all day even though I haven't. My shoulders and neck are pretty stiff too, and when the fever spikes, the whole thing just intensifies. Bending down or even walking to the bathroom feels like a chore."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Yes, definitely. The fever comes in waves - I'll feel fine for a few hours, then suddenly I'm burning up and my temperature spikes. At night especially, the chills are really intense, like I'm shaking uncontrollably under three blankets. I've been checking with a thermometer, and it's been around 101 to 102 degrees when it's at its worst."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I've been taking ibuprofen every few hours to try to bring down the fever and help with the body aches, but it only seems to work for a little while. Other than that, I don't take any prescription meds regularly - just the occasional painkiller for a headache."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions that I know of. I'm generally pretty healthy - just the usual colds or headaches now and then. Nothing serious."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I'm not allergic to anything that I know of, at least not that I've ever noticed. I've taken ibuprofen before without any issues, and no problems with other over-the-counter stuff either."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've just been sticking with the ibuprofen and trying to rest as much as I can. I've also been drinking plenty of water and tea, but I haven't been to the pharmacy for anything else. Honestly, nothing seems to knock it out completely - it just takes the edge off for a few hours. I did try a hot shower for the aches, but that only helped while I was in there."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting in bed or just lying still definitely helps with the body aches—it's when I'm up and moving that I really feel it. But the fever and chills just come and go no matter what I do; they don't seem to follow any pattern I can control. Actually, nighttime is the worst, no matter how much I rest during the day."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really thrown me off. I'm a school teacher, so I've had to call in sick for the past three days, which is tough because I don't like missing class. When I try to do anything around the house, I get winded and the aches just flare up again. Mostly I've been lying on the couch or in bed, trying to sleep, but I don't feel rested at all."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do have a beer every now and then, maybe once or twice a week, but nothing excessive. I haven't had anything to drink since this started, though—didn't feel like it, and I figured it wouldn't help."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My wife and kid are both healthy and haven't had any symptoms like this. I haven't talked to my parents or my brother recently about being sick, but as far as I know, everyone's been fine."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. I've had the flu once or twice before, and it was rough, but it was more about congestion and a sore throat. This time the fever keeps bouncing back, and the night chills are way more intense than anything I remember. I've never had my whole body ache for four days straight like this."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's probably an 8 out of 10 right now — the body aches and fever make it hard to do anything or even get comfortable. Emotionally, maybe a 6? I'm more frustrated and worn out than really anxious, because I just want to get back"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that's about it. Oh, actually—I did notice my appetite has been pretty low the past couple of days. I've had to force myself to eat just a little bit, and even then, nothing really tastes right. Also, one of my students was out sick with something similar a couple weeks ago, but I don't know if that's connected."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to take it one day at a time, honestly. I'm usually pretty active and keep busy with work and family, so being stuck in bed is frustrating, but I keep telling myself it'll pass. My wife's been checking on me and making sure I eat and drink water, which helps. I'm just hoping whatever it is clears up soon so I can get back to teaching."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I know I just said, but honestly, it's been hard to stay patient. I'm not used to being so useless for this long. My wife keeps telling me to rest, but I keep checking my phone for work emails, worrying about lesson plans piling up. The best I can do is just breathe through it and trust it'll end soon."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I know I just said it, but really, the hardest part is feeling like I'm letting my students down by being out. I keep replaying the week in my head, wondering if I could have pushed through. My wife says I need to stop doing that, and she's probably right—I'm just not great at sitting still."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, I know I've said this a few times now, but I guess the main thing is I just feel stuck—I can't rest well, I can't work, and every day feels the same. The fevers keep me from sleeping properly, so I'm always tired, and that makes the whole thing feel longer than four days. I'm coping mostly by telling myself it has to end eventually, but I'm getting pretty tired of it."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I appreciate you asking, but I feel like I'm just repeating myself now. I'm doing what I can—resting, taking ibuprofen, trying not to stress. But honestly, I'm tired of being sick and I just want some answers so I can start feeling better."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P023",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Yes, well, I’ve just returned from a long-haul flight — I’m a flight attendant — and I’ve had watery diarrhea for the past five days now. It’s been constant, and I can’t even keep down small sips of water. I’m feeling extremely weak and a bit dizzy, and frankly, I’m worried about getting dehydrated since it hasn’t let up at all."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about five days ago, right after I got back from a three-day trip to Bangkok. The first episode was early in the morning after I’d landed — just watery and urgent, no blood. I thought it would pass, but it’s been like that every day since. The last episode was just a few hours ago, actually, before I came here."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The discomfort is mostly cramping in my lower abdomen — not sharp, more like a dull, twisting ache that comes and goes. It usually gets worse right before I have to rush to the bathroom. There’s no sharp stabbing or burning sensation, just this annoying, persistent pressure. I also feel bloated and gassy on top of everything else."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "I did feel a bit feverish on the second day — I didn’t check my temperature, but I had hot and cold spells. The night sweats were definitely there, and I’d wake up shivering under my blanket. Nothing since yesterday, though. The chills came on mostly in the evenings and really made me feel awful."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I’m not on any regular prescription medications. I did try some loperamide I had in my bag on day two, but it didn’t really help much — the diarrhea just came back a few hours later. I also took a couple of Tums for the bloating, but that only gave me temporary relief. Other than that, no, I don’t take anything regularly."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Actually, I do have a history of irritable bowel syndrome, but it’s usually well-controlled with diet and stress management. This episode feels much more intense and unrelenting than my typical IBS flare-ups. Also, I have mild hypertension, but it’s completely managed with lifestyle changes — no medication for that either."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don’t have any drug allergies that I know of. I’ve had antibiotics before without problems, and I’ve never reacted badly to over-the-counter medications either. I just try to be cautious, but nothing serious has ever come up."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yes, aside from the loperamide and Tums I mentioned, I’ve been trying to sip water and electrolyte drinks, but honestly, almost everything comes back up within an hour or two. I did try a bland diet — plain rice and crackers — but that didn’t settle well either. The only thing I’ve noticed helps a little is resting upright, but it’s not stopping anything."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting upright helps the nausea a bit, but lying flat actually makes it worse because I feel like I’m going to be sick. Also, any movement — even just standing up quickly — makes the dizziness hit harder. Eating or drinking anything beyond tiny sips triggers the cramps and an urgent trip to the bathroom, so I’ve been avoiding it as much as possible."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It’s been completely debilitating, honestly. I haven’t been able to go to work — I’ve had to cancel my next flights, which is almost unheard of for me. I’m mostly stuck in my apartment, camped out by the bathroom. I’m too weak to even do simple chores, and I feel irritable and worried because I don’t know when this will stop. I’m really anxious about getting dehydrated enough to need IV fluids."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, no. I do have a glass of wine occasionally on my days off, but I haven't had any alcohol since this started — it just seems like it would make everything worse. I’ve been sticking to water and clear fluids only."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, no one in my immediate family has had anything like this recently. My husband is fine, and we ate the same meals during the trip, so it's strange that he hasn't had any symptoms at all. My parents and siblings are all in good health, no gastrointestinal issues that I know of. The only thing I can think of is that I might have picked something up from the food or water during the layover, since I ate at a street stall in Bangkok."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never like this. My usual IBS episodes last a day or two at most, and I’ve always been able to keep fluids down — this is completely different. The duration, the severity of the diarrhea, and especially the nausea and inability to hold water worry me. The fever was also new, so I’m really wondering if this is some kind of infection I picked up on the trip."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I’d say it’s around a 7 or 8 — the constant cramping, the dizziness, and the sheer exhaustion make it hard to function. Emotionally, I’m probably at a 6 or 7 — I’m anxious about getting worse, frustrated that I can’t work or even take care of myself, and I feel pretty irritable from being stuck in this cycle. It’s wearing me down, honestly"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Yes, I think it's important to mention that I ate from a street vendor in Bangkok two days before my symptoms started — grilled chicken and rice, which I thought was safe. Also, the water on the plane sometimes tastes off, so I wouldn't rule that out either. I just really want to rule out anything serious, like a bacterial infection, since this isn't letting up and I'm honestly scared about becoming dangerously dehydrated if it continues much longer."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, I’ve been trying to just rest and let my body recover, but it’s hard when I’m constantly running to the bathroom or feeling nauseous. I’ve been stacking pillows to sleep upright, and I keep a water bottle nearby even though most of it comes back up. I’m also leaning on my husband for support, but I hate feeling this dependent. Mainly, I’m just trying to stay calm and remind myself that I’m doing the right thing by coming in — but I’m very ready for this to be over."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think we already covered that — I've been resting upright, leaning on my husband, and trying to manage the nausea as best I can. Mostly I'm just here because I need real help — whether that's fluids or something to stop this diarrhea, I'm ready for whatever you recommend. I just want to get back to normal and back to work as soon as it's safe."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I’ve been trying to manage it on my own for five days, but clearly that hasn’t worked. I’m just hoping you can give me something stronger than the over-the-counter stuff I tried. I’m coping by being here — that’s the main thing. I just need this to stop before I get any sicker."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I appreciate you asking, but I think I’ve already mentioned how I’ve been managing — resting upright, trying to stay hydrated, leaning on my husband. The honest answer is, it’s been difficult and I’m just not coping well on my own anymore. That’s really why I’m here — I need your help to break this cycle."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I’ve been doing my best with rest, upright sleeping, and small sips of water — but honestly, I’ve reached my limit trying to handle this alone. That’s why I’m here."
+    }
+  ]
+}

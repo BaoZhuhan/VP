@@ -1,0 +1,207 @@
+{
+  "profile_id": "P009",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Hi, Doctor. Thanks for seeing me. I'm really scared — my right hand has gone completely numb for about an hour, and it's happened four times now. I've been reading about MS online, and I can't stop worrying that's what this is."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The first time was about three months ago. I was working late on a deadline, and suddenly my hand just... went dead. I shook it, tried to rub it, but nothing helped for almost an hour. It's happened again since then, always the same hand. I've actually been keeping a little journal of the episodes because I'm so worried."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no real pain, honestly — it's more like the hand just isn't there. A complete loss of feeling, from my palm to my fingertips. It's not tingly or pins-and-needles, just totally numb. And it never spreads to my arm or shoulder, it's always just the hand itself."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I've been completely well otherwise — no fevers, no chills, no flu-like symptoms at all. That's part of why I'm so freaked out. It just comes out of nowhere."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any regular medications, except for birth control pills. No prescriptions for anything else. I did take ibuprofen once after the second episode, but it didn't help at all since there wasn't any pain. I've been really careful to track everything since I started worrying about this."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I'm generally healthy — I exercise, eat okay, no diabetes or high blood pressure. I've had migraines a few times over the years, but nothing diagnosed as a disorder. I've never had anything like this numbness before, which is why it's so alarming."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything before — no trouble with antibiotics or pain relievers. It's just this mysterious numbness that's really got me on edge."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried massaging my hand, shaking it, even running it under warm water — nothing brings the feeling back until it just decides to return on its own. I've also been using ergonomic keyboard pads at work because I thought maybe it was carpal tunnel, but there's no wrist pain and the numbness is too complete for that. I'm honestly terrified it's something neurological."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, nothing I've tried makes it better or worse — it just happens and then goes away. I've noticed it sometimes comes after I've been typing for hours without a break, but other times I've been just sitting on the couch watching TV. Rest doesn't prevent it, and moving doesn't stop it. That unpredictability is what scares me most."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really starting to control my life, to be honest. I'm a graphic designer, so my hands are everything to me — I've been scared to take on big projects because I'm afraid my hand will go numb mid-deadline. I've even stopped holding my coffee mug with my right hand in the morning. The anxiety is making it hard to sleep, hard to focus. I just need to know what's happening to me."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I do drink occasionally — maybe a glass of wine with friends once or twice a week, but never to excess. I've been cutting back even more since this started, just in case it matters. I'm trying to do everything right, but nothing seems to make a difference."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, no one in my family has had anything like this. My grandmother had diabetes, but that's about it. I actually asked my mom specifically about MS and autoimmune stuff, and she said there's nothing like that on either side. So that's another reason I'm so confused — I don't have any obvious risk factors, but here I am with this terrifying symptom."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. This is the first time in my life I've ever had anything like this happen. I've been totally healthy up until now, which is why I'm so scared — it feels like it came out of nowhere. I've even researched whether it could be a pinched nerve or something, but the complete numbness for a full hour just doesn't match up with anything I've read."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, it's barely a one — there's no pain, just this strange deadness that comes and goes. But emotionally, I'm at a solid ten. I've been crying in the car before appointments, waking up in the middle of the night with my heart racing, terrified I'm going to lose the use"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Just that I'm really hoping you can help me figure this out. I've been so anxious I haven't been sleeping well, and I've even started avoiding using my right hand for anything important. I need to know if this is something serious like MS or if it could be something less scary. I'm ready to do any tests you recommend — I just want answers."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, not great. I've been talking to my best friend about it, but I don't want to keep dumping my fear on her. I've also been avoiding using my right hand as much as possible, which sounds ridiculous but it makes me feel a little more in control. Mostly I just obsessively Google symptoms at 2 AM, which I know makes everything worse, but I can't stop. I really need some real answers today, Doctor."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not coping well at all, to be honest. I've been avoiding using my right hand for anything important, and I keep mentally preparing for a worst-case diagnosis. It's exhausting, Doctor. I just want to stop feeling like my body is betraying me, and I'm hoping you can help me get some clarity today."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Honestly, I'm not doing well at all. It's been hard to focus on work or even enjoy time with friends because this fear is always in the back of my mind. I've been having trouble sleeping, and I catch myself staring"
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Wait — I'm sorry, Doctor, but you've asked me that same question about coping four times now. Is that intentional, or did you lose track? I've been telling you I'm scared and not sleeping well. I'm really trying to be open with you, but the repetition is making me feel like you're not hearing me."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm really sorry, but I've already told you three or four times — I'm struggling, I'm not sleeping, I'm terrified. Please, I need you to actually listen to me. I came here for help, not to repeat myself over and over. Can we please move forward with figuring out what's wrong with my hand?"
+    }
+  ]
+}

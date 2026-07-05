@@ -1,0 +1,207 @@
+{
+  "profile_id": "P021",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, it's hard to put a finger on one thing. I guess the best way to say it is everything looks grey - and I don't mean just the weather out there. For months now, I've been dragging myself through the days. My work as a lawyer used to light me up, you know? Now I sit at my desk staring at case files and nothing clicks. And my kids - I love them, but I've been snapping at them over"
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I'd say it crept up over the last six months or so. Maybe longer, if I'm honest. I remember it being particularly noticeable around October - no, maybe it was September. The leaves were changing, but I just felt... flat. There was this one evening I couldn't even get myself to care about a case I'd been building for weeks. That's not like me."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not like a sharp pain or anything. More like a heavy weight sitting in my chest and stomach - kind of hollow, if that makes sense. And I get these tension headaches, right across the forehead, especially by late afternoon after I've been staring at screens all day trying to force myself to focus."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills. I've been checking my temperature now and then because I thought maybe I was fighting something off - it's always normal, around 36.5 or so. But honestly, I feel cold inside anyway, like there's a chill that won't leave even when I'm wrapped up in a blanket at home. It's weird - the body temp is fine but the feeling isn't."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None. I'm not on anything at all right now. I've been prescribed antidepressants in the past, years ago, but I stopped taking them"
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, I've been diagnosed with depression before - that was maybe ten years back. I saw a therapist for a while and it helped, but I tapered off. I figured I was fine, but now... well, here I am. Nothing else chronic that I know of. No diabetes, no heart issues, nothing like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, none at all. I've never reacted badly to anything - penicillin, aspirin, you name it. I'm pretty boring on that front."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried a few things. I cut back on drinking - I used to have a couple of glasses of wine most nights to unwind, but I thought maybe that was making the grey worse. So now it's more like once or twice a week. I also tried forcing myself to go for a run in the morning, but after three days I just couldn't get out of bed. Oh, and I bought some melatonin gummies for sleep, but they didn't do much."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, nothing makes it better. I thought the running might help clear my head, but I just felt more exhausted afterwards. Work stress definitely makes it worse - if I have a difficult client or a deadline looming, I feel like I'm crawling through mud. And if my wife asks me how I'm doing, that sometimes makes me irritable too, which I hate. So... avoidance, I guess? But that doesn't help either."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's pretty much taken over, to be honest. At work, I'm behind on three cases and I keep making stupid mistakes - my assistant had to point out a deadline I completely missed. At home, I'm short with the kids over nothing, like cereal on the counter. My wife says I'm not present, and she's right. I can't even enjoy my morning coffee anymore, and that used to be the highlight of my day. I feel like I'm watching my life from behind a dirty window."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I've never smoked in my life - can't stand the smell. As for alcohol, I used to have a couple of glasses of wine most evenings to take the edge off, but I've cut back to just once or twice a week now. I didn't want it to become a crutch, though honestly, the grey feeling doesn't really care if I drink or not."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, actually. My father was a tough guy to live with - I always thought he was just moody, but now I wonder if he had something similar. He never got help, just drank more. And my sister - she's been on antidepressants for fifteen years now. So I guess the wiring might be in the family."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Yes, about ten years ago. I had a rough patch after a big divorce case I was working on - kind of crashed. I saw a therapist for a few months and it got better. But this time feels different. Deeper, and it's dragging on longer. Back then I still had moments where I could laugh at a joke or enjoy a meal. Now it's just... grey all the time."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically? A 2 or maybe a 3. There's no sharp pain, just that dull heavy ache in my chest and the occasional headache. It's manageable, but it's always there, like wearing a leaden vest. Emotionally? That's a different story — I'd say a solid 7 or 8. It's relentless. The grey"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Well, there's one thing that's been bothering me more than I like to admit. I've started avoiding social situations altogether - I used to enjoy dinners with friends or weekend barbecues with the neighbors, but now I make excuses. It's just too exhausting to pretend to be okay. And my wife has noticed, which leads to these quiet, awkward conversations that go nowhere. I think that part's almost worse than the grey feeling itself - the isolation."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I cope by throwing myself into work, but that's not working anymore. I'll sit down to draft a brief and an hour later realize I've been staring at the same sentence. So I've just been... going through the motions. I'll watch TV but not really see it. I'll eat dinner but barely"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been keeping busy, but it's hollow busy. Like I'll start a project at home - fixing a shelf or something - but I can't finish it. I just walk away halfway through. The only real coping I've got is zoning out in front of the TV until it's time to force myself to sleep. But sleep doesn't come easy either, so I just lie there thinking about all the ways I'm letting everyone down."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've already told you about the TV zoning and the unfinished projects and the not sleeping. I'm not coping, doctor. I'm coasting. If you're asking if I've got some magic strategy, I don't. I'm here because I need one."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "(Looking up, voice a bit sharper) Look, I feel like I keep saying the same thing. I'm not coping. That's why I'm sitting in this chair, in this clinic, on a Thursday afternoon instead of being at work. If I had a way to cope, I'd be using it. I'm here because the grey won't lift, and my usual tricks have all stopped working."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "(Sighs, rubs his eyes) I'm sorry, but I've told you three times now - I'm not really coping. I'm just existing. If you need me to say something different, I don't have it. I'm here for help, not to repeat the same answer. Can we move forward?"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P015",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I’m here because I tweaked my shoulder about three weeks ago while coming down from a headstand in my yoga practice. The initial sharp pain settled somewhat, but it’s still not back to normal—there’s a persistent dull ache that limits my range of motion, especially when I try to bear weight through that arm or reach overhead. Since I teach yoga, I really need to be able to demonstrate poses without this nagging restriction."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started exactly three weeks ago. I remember the moment clearly—I was coming out of a headstand in a vinyasa sequence, and as I lowered my left arm to transition, I felt a sudden sharp pull right in the front of my shoulder. The pain was intense for a few seconds, then faded to a dull ache, but it never fully went away."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is localized right in the front of my left shoulder, near where I imagine the biceps tendon sits. It feels like a dull, persistent ache most of the time, but if I try to lift my arm overhead or twist it outward, I get a sharper, catching sensation. It’s not a burning or stabbing pain—more like a deep soreness that flares up with certain movements."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, not at all. I haven't had any fever, chills, or any other systemic symptoms. It's really just this localized shoulder issue that's been lingering."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a daily multivitamin and magnesium for muscle recovery, but for the shoulder I've been using ibuprofen as needed—usually 200 to 400 mg every few hours when the ache gets worse, especially after teaching a class. Nothing else prescription-wise."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic medical conditions. I'm generally very healthy and active, aside from this shoulder issue."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known allergies to medications. I've never had a reaction to anything I've taken."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yes, I've been resting the arm as much as possible, avoiding any weight-bearing poses in my practice, and I apply ice for about 15 minutes after teaching if it feels particularly sore. I've also been doing some gentle pendulum swings and avoiding overhead reaches, but nothing seems to be helping it fully resolve."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Heat and gentle movement help a bit—like a warm shower or lightly hanging my arm to let gravity decompress the joint feels soothing temporarily. But anything that involves lifting my arm above shoulder height, rotating my arm outward against resistance, or bearing weight through that arm—like coming into downward dog or plank—makes the ache intensify significantly."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been quite disruptive, honestly. I've had to modify my entire teaching style—demonstrating poses verbally rather than physically, and I've cut my personal practice way back. Simple things like lifting a grocery bag or reaching for a mug in a high cabinet now give me that sharp catch, so I'm constantly compensating with my right arm. I can't fully participate in the vinyasa flows I usually lead, and it's frustrating because I feel like I'm not giving my students the full experience."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do have a glass of wine maybe once or twice a week, but I haven't noticed it affecting the shoulder in any way."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. No one in my immediate family has had shoulder problems like this, though my dad did have a rotator cuff issue from an old sports injury, but that was from a direct fall, not something this subtle."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, this is the first time I've had anything like this. I've had the usual muscle soreness from teaching or practicing, but nothing that lasted more than a couple of days. This is definitely different—it just won't settle down."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's around a 3 or 4 out of 10—it's a persistent nagging ache, not excruciating, but definitely present. Emotionally, maybe a 3 as well—I'm frustrated because it's interfering with my work and my personal practice, but I'm optimistic that with the right help I'll get back to normal."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "One thing I forgot to mention—when I rotate my arm outward or reach behind my back, I feel a distinct clicking sensation right in that front shoulder area. It's not painful exactly, just a mechanical feeling, like something is catching or sliding. I don't know if that's relevant, but I thought I'd mention it."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to stay positive by focusing on what I can do rather than what I can't—like using my voice more in class and exploring alternative cues. I've also been doing a lot of gentle stretching and breathing exercises to keep my mind calm. It's not ideal, but I'm trusting that with proper care I'll bounce back."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think I just answered that, but to be thorough—I'm coping by staying optimistic and focusing on what I can still do well in my classes. The breathwork and mindfulness I teach actually help me manage the frustration, so it's not all bad."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I appreciate you asking, but I think I already mentioned—I'm leaning into the things I can still do, like verbal cues and breathwork, and trying not to dwell on the limitation. It helps that I genuinely believe this will heal with the right guidance."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I’m sorry if I wasn’t clear before—I’m coping pretty well overall. I stick to mindfulness and focus on adapting my teaching, which keeps me from getting too down about it. I’m confident that with the right diagnosis and treatment plan, I’ll be back to my full practice soon."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think we've covered this a few times now—I'm managing well emotionally by staying optimistic and adapting my teaching style, and I'm trusting your expertise to help me get back to normal. Could we perhaps move toward what you think might be going on with my shoulder?"
+    }
+  ]
+}

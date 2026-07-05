@@ -1,0 +1,207 @@
+{
+  "profile_id": "P012",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been dealing with pretty severe diarrhea and cramping about once a week for the last six months or so. It started off as a mild occasional thing, but it's definitely been getting worse recently. The cramps are really intense when they hit, almost doubling me over sometimes, and I have to run to the bathroom multiple times when it happens. I'm honestly starting to get pretty worried about it"
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago, maybe a little longer. I remember it was around the beginning of the fall semester. At first, it was just once every few weeks and I didn't think much of it—probably just something I ate. But over the past couple of months, it's become much more regular, like clockwork once a week, and the intensity has really ramped up."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is a sharp, cramping sensation that hits deep in my lower abdomen, usually on the left side but it can radiate across my whole belly. It comes in waves, and it's bad enough that I have to stop what I'm doing and curl up until it passes. The cramps always come right before the diarrhea, and I get this urgent need to go to the bathroom."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I've been checking my temperature every now and then because I was worried it might be an infection, but it's been normal. So that part has been reassuring, at least."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None at all. I don't take any prescription medications, and I haven't been taking anything over-the-counter for this either, because I wasn't sure what would be safe. I've just been trying to ride it out, but it's getting harder to ignore."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I've always been pretty healthy, no ongoing issues like diabetes, high blood pressure, or anything like that. This is really the first time I've had a health problem that's stuck around for more than a few days."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known allergies to medications. I've never had a reaction to anything I've been prescribed or taken over-the-counter, so that's one less thing to worry about."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I haven't tried any medications, but I've been paying attention to my diet and trying to avoid things that might trigger it—like greasy food or too much caffeine. I've also been keeping track of when it happens in case"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, I haven't noticed a single trigger that makes it consistently better. Avoiding heavy, greasy foods seems to help a little, but it doesn't prevent the episodes entirely. Stress seems to make it worse—I'm a graduate student, so there's plenty of that—and lying down with a heating pad on my stomach takes the edge off the cramps. But nothing I've tried stops the diarrhea once it starts."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really starting to take a toll. I've had to miss a few classes and lab sessions because I'm either in the bathroom or too wiped out afterward. Even when I'm not having an episode, I'm constantly anxious about when the next one will hit, and that makes it hard to focus on my research or hang out with friends. I've also been avoiding going out to eat or attending social events because I'm terrified of being caught without a bathroom nearby. And the fatigue after a bad episode leaves me pretty drained for the rest of the day."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I've never smoked, not even tried it. As for alcohol, I do drink occasionally—maybe a beer or two when I'm out with friends from my program. But I've cut back a lot recently because I wasn't sure if it might be making things worse."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. I've never really asked my parents or siblings about bowel issues, but no one has ever mentioned having anything like this. So I don't think there's a strong family history of gastrointestinal problems."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never—this is completely new for me. Before six months ago, I never had any issues with my digestion, no chronic stomach problems, nothing like this. That's part of why it's been so unsettling; my body just started acting up out of nowhere."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say the worst parts of the episode—like when the cramps are doubling me over—are probably a 7 or 8 out of 10. But overall, on a typical day between episodes, it's more like a 2 or 3, just a dull awareness in my gut. Emotionally, though, it's probably an 8 right now. I'm really anxious all the time, and the unpredictability has been wearing me down. I just want to feel normal again."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that's the main picture. One more thing—the fatigue after an episode is really pronounced. It's not just feeling tired; it's a deep, heavy exhaustion that lasts for hours and sometimes the rest of the day. Also, I noticed a small streak of blood on the toilet paper once last week, which really scared me. It hasn't happened again, but"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, I've been trying to stay on top of it by keeping a journal of what I eat and when the episodes happen, but it's been pretty draining. I've been reading a lot online, which I know can be a mixed bag—it tends to make me more anxious than reassured. Mostly, I'm just trying to power through my work and pretend everything's fine, but it's"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to manage it by avoiding trigger foods and always making sure I know where the nearest restroom is before I go anywhere. I've also started drinking a lot more water and electrolyte drinks after an episode because I read that dehydration can make the fatigue worse. Mentally, I've been talking to a couple of close friends about it, but I'm still pretty on edge most of the time."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying not to let it take over my life, but it's hard. I've gotten into a routine of always having a spare change of clothes in my backpack and mapping out bathrooms before I go anywhere new. I guess I've also become pretty good at putting on a brave face in public, but inside I'm really worried this might be something serious. Honestly, coming here today is my way of finally facing it instead of just coping."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've covered most of it—basically, I'm trying to be proactive by tracking my symptoms and making adjustments, but I'm also aware that I've been avoiding some situations and that the anxiety is building. I'm really hoping we can get to the bottom of this, because I don't want to keep living around my symptoms."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I've already mentioned this, but to summarize, I've been tracking my food and symptoms, avoiding known triggers, and trying to stay hydrated. I've also been leaning on a couple of friends for support and finally decided to come in today because the anxiety and physical toll are getting too big to handle on my own."
+    }
+  ]
+}

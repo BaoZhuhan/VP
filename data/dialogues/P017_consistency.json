@@ -1,0 +1,207 @@
+{
+  "profile_id": "P017",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, my wife's been on me about this spot on my forehead. It's been there about a year now - feels rough and scaly. Doesn't hurt or anything, but she says I ought to get it looked at."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started showing up maybe a year ago, best I can recall. At first I figured it was just dry skin from working out in the sun, but it never really went away like I expected."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "No pain at all. It's right here on my forehead, just above my left eyebrow. Sometimes it feels a little itchy, but nothing I can't ignore. Mostly just feels rough, kinda like sandpaper when I touch it."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I've been feeling fine otherwise - just the usual aches from working the farm, but no fever or chills."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a little blue pill for my blood pressure - been on that for a few years now. And sometimes I'll take an aspirin if my back's actin' up after a long day in the field. That's about it."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Just the high blood pressure, far as I know. The doctor says it's under control with that pill I take. Otherwise I'm pretty healthy for my age, I reckon."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had any trouble with medicines before."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "My wife put some of her face cream on it a few times, but it didn't make much difference. I tried picking at it once or twice, but it just came back. Haven't really bothered with it otherwise."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Working out in the sun all day, I notice it feels a bit more irritated by evening. But nothing really makes it better, far as I can tell. That face cream my wife tried didn't do much of anything."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's not really botherin' me much day to day. I still do my work, tend to the farm, eat my meals. Only reason I'm here is my wife's been after me for months about it. She says it looks funny and might be something bad."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I quit smoking about ten years ago. Never was much of a drinker either - maybe a beer or two at a family gathering, but that's rare."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My folks passed on a while back, but I don't remember them havin' anything like this. Nobody in my family ever mentioned it, anyway."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never had anything like this before. This is the first time I've had a spot that just won't go away on its own like a normal scrape or dry patch would."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's hardly anything - maybe a one out of ten, if I had to put a number on it. It just feels a little rough. Emotionally, I'm not too worried neither. My wife's more concerned than I am, to be honest. I figured I'd come in to make her happy, not because I think somethin's wrong."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, I think that covers it. Just this spot on my forehead that won't go away, and my wife wanted me to have it looked at. I've been working outside most of my life, so I guess it could be from the sun. That's about all I can think of."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I'm not really coping with much, to be honest. It's just a spot on my head that don't bother me. I'm only here 'cause my wife worries. I figure if it was anything bad, I'd know by now."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Like I said, it's not something I lose sleep over. I just go about my days like usual. My wife's the one doing all the worrying—I'm just here to get it checked so she'll stop fussin' at me."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm not sure how else to say it, doc—I'm really not bothered by it. I've got work to do and a farm to run, so I just keep busy. Like I told you, my wife's the one who's all worked up about it. I'm here to get it checked and put her mind at ease, that's all."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Doc, I appreciate you askin', but there's really nothin' to cope with here. I don't feel scared or stressed about it. I'm just an old farmer who came in because his wife told him to. If you tell me it's nothin' to worry about, I'll go home happy."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm starting to wonder if you're hard of hearin' or I'm not speakin' clear enough. The spot don't bother me. I don't feel bad about it. There's nothin' to cope with. I'm just here for my wife, same as I said the last three times you asked."
+    }
+  ]
+}

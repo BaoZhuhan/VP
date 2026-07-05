@@ -1,0 +1,207 @@
+{
+  "profile_id": "P024",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "It's been about three years since my last physical. My wife's been on me to get everything checked—blood pressure, cholesterol, all that. Honestly, I feel fine, but she insisted, so here I am."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Well, the wife's been nagging me for a few weeks now. But if you're asking about anything specific, I guess I've been feeling a little more tired than usual the past couple months. Nothing major, just not as much energy as I used to have."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "No real pain to speak of. Just that tiredness I mentioned. Maybe a little heaviness in my chest now and then, but it's not painful or anything—more like I notice it after a long day on the job site."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No fever or chills. Haven't had anything like that. Just a bit run down, like I said."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None. I don't take any meds regularly. Just the occasional ibuprofen if I overdo it at work, but that's maybe once every couple weeks."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I'm overweight, if that counts. My wife's been telling me to lose some pounds for a while. Other than that, nothing diagnosed."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to anything that I know of."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really. I just push through it most days. Sometimes I'll take it easy on the weekend, but that's about it. Didn't think it was serious enough to do anything special."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Hard to say. It doesn't really go away with rest, I guess. But if I have a lighter week at work, I feel a bit better. The heaviness in my chest seems to come on more when I'm hauling materials or climbing ladders — that's when I notice it."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's slowed me down a bit, to be honest. I can't push as hard as I used to on the job—have to pace myself more. And my wife notices I'm dragging when I get home. Not enough to stop me from working, but I can tell I'm not at my best."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "Yeah, I smoke about half a pack a day. Have for years. And I'll have a few beers on the weekends, maybe a couple during the week after work. Nothing too heavy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. My dad passed from a heart attack in his sixties, but he was a heavy smoker and didn't take care of himself. My mom's still around, pretty healthy for her age."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not really. I've always been pretty healthy—never had anything like this come up before. Just the usual aches and pains from the job."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's about a 1 or 2 out of 10. Nothing really hurts, just that tiredness. Emotionally, I'm fine—maybe a 1. I'm not worried about it, just here because my wife wanted me to come in."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, I think that pretty much covers it. Like I said, I feel fine overall. Just doing what my wife asked and getting checked out."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I just keep going, honestly. No point in making a big deal out of it. I rest when I need to, but I don't let it stop me from doing my job or taking care of things around the house."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Same as before—I just keep going. No sense in worrying or changing what I do. I handle it day by day, and it hasn't been bad enough to make me stop or slow down much."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I already told you—I just keep working and don't dwell on it. There's nothing to cope with, really. If there was something serious, I'd deal with it then."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I appreciate you asking, but I've pretty much answered that already. I'm not one to overthink things. I just get on with it and don't let it bother me."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "Look, I've told you a few times now—I'm handling it fine. No need to keep asking the same thing. If we're done here, I'd appreciate knowing what the next steps are."
+    }
+  ]
+}

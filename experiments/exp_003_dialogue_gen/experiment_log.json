@@ -1,0 +1,20 @@
+{
+  "experiment_id": "exp_003",
+  "title": "Dialogue generation pipeline and benchmark construction",
+  "date": "2026-07-05",
+  "status": "completed",
+  "model": "deepseek-v4-flash",
+  "total_profiles": 24,
+  "strategies": [
+    "standard",
+    "consistency",
+    "structured_state"
+  ],
+  "total_dialogues": 72,
+  "turns_per_dialogue": "15-20 (mean 19.9)",
+  "outputs": [
+    "data/dialogues/*.json",
+    "evaluation/dialogue_generator.py"
+  ],
+  "summary": "Generated 72 multi-turn clinician-patient dialogues: 24 profiles x 3 prompting strategies."
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P010",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "After every meal I get this burning pain right here in my stomach. It's been going on for months and I can't ignore it anymore."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "About six months now, maybe a little longer. It's been getting worse lately, though."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's a burning sensation, right here in the upper middle of my stomach. Sometimes it spreads a bit to the sides. It's dull but constant, and it usually lasts for a couple hours after I eat."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. Just the burning and some nausea on and off."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just the omeprazole I take for my reflux. That's all."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, I have GERD. That's about it."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, no allergies. I've never had a reaction to anything."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I take the omeprazole like I'm supposed to, but it doesn't seem to help with this. I've tried cutting back on spicy food and eating smaller portions, but it still happens every damn time I eat."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Lying down after eating makes it worse, that's for sure. And spicy or greasy foods - that really sets it off. But honestly, even bland stuff doesn't seem to help anymore."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's making my job hell. I'm a chef, so I'm around food all day. I can't even taste my own dishes without paying for it later. My appetite's gone, and I've been snapping at my staff. I'm getting real sick of it."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke. I'll have a couple beers with the guys maybe once or twice a week, but that's it."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My mom's healthy, and I never really knew my dad's medical history. So no, nothing comes to mind."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had heartburn off and on for years, but this is different. It's not just regular reflux - I've never had pain that sticks around like this, especially after every single meal. The omeprazole used to help, but now it barely touches it. It's been waking me up at night too."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically it's maybe a 6 or 7 right now. Not the worst I've had, but it's there. Emotionally I'm just fed up with it - it's wearing me down, you know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, I think you've covered it. Just want this sorted out so I can get back to work without dreading every meal."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've just been trying to push through it, honestly. Some days I'll skip meals or just pick at a salad to avoid the pain. But it's not working, and I'm getting short with people. Not really coping, just getting by."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Same as I said - just pushing through it, skipping meals, getting short with everyone. Nothing's changed since last time."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Look, I already told you - I'm just pushing through it. Skipping meals, eating less, and getting irritable. I don't have a better answer than that."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I've already said it three times now. I'm just trying to get by. Can we please move on to what you're going to do about this pain?"
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I've told you how I'm coping. Can we please stop going in circles and focus on what's causing this? I need some answers, not the same question four times."
+    }
+  ]
+}

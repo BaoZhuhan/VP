@@ -1,0 +1,207 @@
+{
+  "profile_id": "P016",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Hi, thanks for seeing me. I woke up yesterday morning with this really red, bumpy rash on both of my arms. It’s super itchy—like, I can’t stop scratching, and it kept me up most of last night. I don’t know what caused it because I haven’t changed anything in my routine. It’s just really uncomfortable."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started yesterday morning when I woke up. I don't remember feeling anything unusual the night before, so it must have popped up while I was sleeping. I've never had anything like this happen before."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It’s more of an intense itching than actual pain—like, a burning kind of itch. It mostly covers my forearms and the backs of my hands, and a little bit above my elbows. Sometimes when I scratch, it stings or feels sore,"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I don’t have a fever or chills. I feel fine otherwise—just really irritated by the itching. It’s making me feel kind of on edge and tired because I couldn’t sleep well last night."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I don't take any daily medications right now. Sometimes I take ibuprofen if I have a headache, but I haven't taken anything recently. I'm not on any prescriptions or anything like that."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I'm pretty healthy overall—just the usual seasonal allergies in spring, but nothing serious. I’ve never had any skin problems before this."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "As far as I know, I'm not allergic to any medications. I've taken ibuprofen and acetaminophen before with no issues. I don't think I've ever had a reaction to anything like that. My mom has a penicillin allergy, but I've never taken it."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried putting some regular lotion on it last night, but that only made the itching worse for a few minutes. I also took a cold shower, which helped a little while I was in there, but it came back as soon as I dried off. I haven't used any creams or antihistamines because I wasn't sure what to use."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Cold water or a cold shower seems to calm it down for a little while, maybe 15 or 20 minutes. But heat makes it way worse—like, a warm shower really seemed to set it off. Also, if I brush against anything rough, like my sweatshirt sleeve, it gets super irritated and I end up scratching more."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly been really distracting. I'm a student, and I couldn't concentrate on my online lecture at all today because the itch kept pulling my attention away. And not sleeping well last night made me feel groggy and grumpy, so I'm just not functioning like normal. It's pretty frustrating."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink occasionally—like maybe a couple of drinks on weekends if I'm out with friends—but I haven't had any alcohol in the past few days, just so you know."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not that I know of. My mom and dad don't have any skin issues, and my brother doesn't either. No one in my family has ever had a rash like this that I've heard about."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had a rash like this in my life. I've had a little dry skin in the winter before, but nothing that looked red and bumpy like this. It's really unusual for me, which is why I came in—I was getting a little worried."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, the itching is probably around a 7 or 8 out of 10 right now — it's really hard to ignore. Emotionally, I'd say maybe a 6? I'm frustrated because it won't stop, and a little anxious since I don't know what caused it. I just want to get some relief so I can focus on my classes and actually sleep tonight."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I don't think so — I've told you everything I can think of. I haven't changed my soap, laundry detergent, or diet recently, and I haven't been around any new animals or plants. I'm just hoping you can help me figure out what's going on and maybe give me something to calm the itching down."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Mostly I've been trying to distract myself — watching shows, keeping my arms still, and trying not to scratch. But it's really hard, especially at night when I'm just lying there. I keep finding myself scratching in my sleep, which is making it worse. Honestly, I'm just hoping for something that actually works so I can stop thinking about it."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I’ve just been trying to keep my mind off it by watching TV or scrolling on my phone, but it’s hard when the itch keeps breaking through. At night, I’ve tried sleeping with my arms outside the covers so they stay cool, but I still wake up scratching. I’m really hoping you can give me something stronger than just willpower."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I’ve been mostly trying to use cold compresses and keeping my arms exposed to the air, but it only takes the edge off for a bit. Distracting myself with schoolwork or shows helps during the day, but once I’m in bed and everything is quiet, the itching just takes over. I’m really just hoping for some kind of treatment so I can get back to normal."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've mentioned it a couple times already, but honestly, it's been pretty rough. I'm just trying to get through each day and hoping for a fix so I can stop thinking about my arms all the time. I really appreciate you asking, though."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I've already mentioned this, but I'm just trying to power through — using cold packs and trying not to scratch. It's not working great, honestly. I'd really appreciate it if we could focus on figuring out what this rash is and how to treat it, because I'm exhausted and just want some relief."
+    }
+  ]
+}

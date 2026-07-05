@@ -1,0 +1,207 @@
+{
+  "profile_id": "P018",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, it's been really frustrating lately. I've gained almost ten kilos in the past six months, and I honestly haven't changed my eating habits or how active I am. On top of that, I'm just exhausted all the time - even after a full night's sleep, I feel like I could nap all day. And my hair has been falling out way more than usual, like I'm finding clumps in my hairbrush and the shower drain. It's gotten"
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago, maybe a little before that. At first I thought it was just stress from work, but it's been getting worse steadily, not better."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Well, I don't really have a sharp pain anywhere, it's more like a dull ache in my muscles, especially in my arms and legs. It's not constant, but after a long day at work, my whole body just feels heavy and sore, like I've"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I run a cool temperature usually – I'm always cold, actually, even when everyone else is comfortable."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on a couple of things. I take levothyroxine for my thyroid, and also sertraline for depression. I've been on them for years now. I don't remember the exact dosages off the top of my head, though."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypothyroidism and depression. I've been managing them pretty well with my meds until recently, honestly. The depression has been stable for a while, but this past six months with the weight gain and fatigue has really been getting me down again."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything I've taken."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really, to be honest. I've tried eating a bit less here and there, but it didn't seem to make a difference, and I gave up pretty quickly because I was so tired. I've thought about taking more vitamins or supplements, but I wasn't sure what would help. I did wonder if maybe I needed to see someone about my thyroid again, but I wasn't sure if that"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Rest doesn't seem to help much, which is frustrating. If I push myself to exercise, I just feel even more wiped out the next day, so I've been avoiding it. I haven't noticed anything that makes it better, honestly. It's like my body just isn't cooperating no matter what I do."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly been really hard. I'm an office manager, so I have to be on my feet and organized all day, but lately I can barely get through the afternoon without feeling like I need to sit down and close my eyes for a bit. And at home, I've been letting things slide – I used to enjoy cooking, but now I'm too drained to even think about making dinner. My husband's noticed I'm not myself, and that makes me feel even worse"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked, and I don't drink alcohol at all. I just never had an interest, and with my medications, I figured it wasn't a good idea anyway."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I really know of, actually. My mom had some health issues, but I think it was more heart-related and diabetes as she got older. I don't recall anyone in my family dealing with this exact combination of weight gain, fatigue, and hair loss, though I suppose thyroid problems can run in families. I'm just not sure."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never felt like this before. Even when my hypothyroidism was first diagnosed, my symptoms were pretty mild compared to this. I'd get a little tired, but not this overwhelming exhaustion, and I never gained weight so quickly or had my hair fall out like this. It's really different and it's scaring me a bit, to"
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Well, I guess I just want to say that the emotional side of this is really getting to me. Physically, I'd rate it maybe a 5 out of 10 - it's not unbearable, but it's constant and draining. Emotionally, it feels more like an 8. I feel really down and anxious about all this, like my body is betraying me and I can't do anything to stop it. I just want to feel like myself again."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, I'm not coping well at all. I just keep hoping it'll get better on its own, but it hasn't. I go to work, come home, and mostly just sit on the couch because I don't have the energy for anything else. I feel guilty for not being more proactive, but I don't know where to start. I'm hoping you can help me figure out what's wrong and get me back on track."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to push through, but it's not really working. Most days I just go through the motions – I show up to work, do the bare minimum, and then collapse at home. I haven't talked to anyone about how bad it really is, not even my husband, because I feel like I'm just complaining. I guess that's why I'm here – I need some help sorting this out before it gets even worse."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Sorry, I know I keep repeating myself, but really I haven't been coping well at all. I used to walk on my lunch break and see friends on weekends, and now I just don't have the energy for any of it. I even stopped going to the gym because I felt so weak afterward. I'm just hoping you can give me some answers and help me get back to my normal self."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Look, I think I've already answered a few times, but I really am just struggling to get through each day. I feel stuck in this cycle of exhaustion and worry. I'm hoping you can help me find a real way forward, because I'm tired of just existing like this."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I understand you're asking, but I've been trying my best to say the same thing each time — I'm really not coping well at all. I'm just dragging myself through each day and hoping for some answers here. Can we talk about what tests or next steps might help me figure this out?"
+    }
+  ]
+}

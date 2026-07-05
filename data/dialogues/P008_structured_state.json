@@ -1,0 +1,207 @@
+{
+  "profile_id": "P008",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, it's this dizzy spell I've been having. Whenever I stand up from sitting or lying down, I get this lightheaded feeling, like the room's spinning just a little. And yesterday, it was so bad I had to grab the kitchen counter to keep from falling. My wife, she's been watching me and says my right hand shakes sometimes when I'm just sitting still. That's really got me worried."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three or four weeks ago, I'd say. First it was just a little dizzy feeling when I got up too fast from my chair in the living room, nothing too bad. But over the last week or so, it's gotten worse, and that near-fall yesterday really spooked me. My wife noticed the hand tremor maybe two weeks back, but I thought it was just being tired or having too much coffee."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Well, it's not really a sharp pain, more like a dull ache or pressure at the back of my head, especially when I feel dizzy. But mostly it's the dizziness itself that's uncomfortable—like I'm swaying or floating even when I'm standing still. I do get a bit of a headache now and then, but it's not that bad. I also feel sort of drained, like my energy is just gone by midday, which I didn't used to have."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. That's one thing I'm pretty sure about—I've been taking my temperature a few times because my wife insisted, and it's been normal. It's more the dizziness and that weird shaky feeling that's been bothering me, not any sign of a cold or flu."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on metoprolol for my blood pressure—that's been years now—and atorvastatin for my cholesterol. I take them both every morning with breakfast. I don't have the exact doses memorized, but I've been on them steady for a long time. No other medications, just those two."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have coronary artery disease and high blood pressure—the hypertension. I've had those for, oh, probably about ten years now. That's why I'm on the metoprolol and the atorvastatin. I've been pretty careful about it, but this new dizziness and the shaking are something I've never dealt with before."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any allergies to medications that I know of. I've had plenty of different pills over the years for my heart and blood pressure, and I've never reacted badly to any of them. My wife always makes sure to ask the pharmacist, but we've never come across anything."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really any medicine or anything. I've been trying to get up slower, you know, taking my time when I stand from a chair or the bed. And I've been sitting down more in the afternoons when the tiredness hits. But nothing seems to stop that dizzy feeling when it comes, and the shaking in my hand just happens on its own, so I haven't found anything that actually helps. I thought maybe it was my blood pressure acting up, so I checked it at home a few times, but it seemed fine."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Standing up fast definitely makes it worse—that's when the dizziness really hits me. Sitting back down or lying flat on the couch for a few minutes seems to help settle it down. As for the shaking in my hand, I've noticed it's more noticeable when I'm tired or stressed, but I haven't figured out anything that specifically makes it better. Sometimes it just stops on its own for a while."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really starting to get in the way, doctor. I used to enjoy puttering around the house and taking short walks in the neighborhood, but now I'm nervous about going out alone because I'm afraid I'll fall. My wife has to help me with things like carrying groceries or even just steadying me when I get up from the dinner table. And the hand shaking makes me clumsy—I've dropped my coffee cup twice this week, and I can't write as neatly as I used to"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke, but I quit about fifteen years ago—just stopped cold turkey one day. These days I have a drink maybe once or twice a month, usually a glass of wine with dinner when my son visits. Nothing heavy, just social. I don't think either one is causing this, but I wanted to be upfront about it."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had some issues with unsteadiness and memory when he got older, but I don't remember him having exactly this kind of dizziness or hand shaking. My mother, she passed away from a stroke, but that was different—she had a sudden collapse and didn't recover. I guess that does cross my mind sometimes now, given what I'm feeling."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this before. I've had the occasional dizzy spell if I got up too fast when I was younger, but that would pass in a second and never lasted weeks. And I've never had a shaking hand until now. That's part of what's got me so anxious—this feels different, more persistent, and it's not going away like it used to. I'm hoping you can help figure out what's going on."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's a 4 or maybe a 5—the dizziness isn't constant, but when it hits, it's strong enough to make me grab for support, and the headache and tiredness wear on me. Emotionally, I'm probably at a 7 or 8. I'm worried because I've never had anything like this before, and I keep thinking about my mother's stroke and my"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that's most of it, doctor. Oh, one more thing—I've noticed a bit of numbness in my fingertips sometimes, especially on my right hand, the same side that shakes. It's not constant, just comes and goes"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "It's been tough, honestly. I try to keep a positive outlook, but I'm finding myself more anxious and on edge than I've ever been. My wife keeps telling me it'll be fine, but I can see the worry in her eyes too. I've been spending more time sitting and reading, or just watching TV, because I don't trust myself to do much else. I just want to get back to normal, you know"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "It's been pretty hard, to be honest. I try to stay calm and keep my mind occupied, but the worry is always there in the back of my head. My wife has been a real help—she's the one who insisted I come in today. I just feel like I'm walking on eggshells in my own body, not knowing when the dizziness or the shaking will pop up. I'm hoping talking to you will finally give us some answers."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm sorry, I think I already answered that—but maybe I can add a bit more. I've been trying to stay positive, but it's wearing me down, honestly. I've stopped going for my morning walks because I'm scared I'll stumble, and I spend a lot of time just sitting in my armchair, watching TV or dozing. My wife has to remind me to eat sometimes because I'm just not"
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry if I'm repeating myself—it's just that this whole thing has been on my mind so much. I guess the main way I've been coping is by leaning on my wife and trying not to panic, but it's hard to shake the feeling that something's wrong. I keep hoping that once I get some answers from you, I'll be able to relax a little."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I appreciate you asking, but I think I've already mentioned it a few times now. I'm coping the best I can, but the constant worry and the physical symptoms are wearing me down. Mostly, I'm just hoping you can point me in the right direction so I can get back to feeling like myself again."
+    }
+  ]
+}

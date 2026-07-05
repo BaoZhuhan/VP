@@ -1,0 +1,207 @@
+{
+  "profile_id": "P008",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been having these spells where I get really lightheaded whenever I stand up too quickly. Yesterday it was so bad that I grabbed the kitchen counter just in time to keep from falling. Also, my wife keeps telling me she's noticed my right hand shakes sometimes, especially when I'm holding my coffee cup in the morning."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I think the dizzy spells started maybe two or three weeks ago, just occasionally at first. But this past week, they've been happening nearly every day. The shaking in my hand—my wife pointed that out maybe a month ago, but I honestly didn't pay much attention until she brought it up again after I almost fell yesterday."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I wouldn't call it pain, exactly. It's more like a wooziness or a swimming sensation in my head, and my vision goes a bit blurry for a few seconds. The discomfort is all in my head, no chest pain or anything like that. As for the hand shaking, there's no pain there either, just a little tremor that comes and goes—it's not constant, but it's noticeable when I'm trying to hold something steady."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills at all. I've been feeling my normal temperature, no sweats or anything like that."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a medication for my blood pressure—lisinopril, I think it's called—and also a baby aspirin every day. My doctor also put me on a statin for cholesterol about a year ago, atorvastatin. That's everything I take regularly."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have high blood pressure—that's why I take the lisinopril—and I've got high cholesterol, which is why my doctor put me on the statin. Nothing else major that I know of, though I suppose my age brings along a few aches and pains."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a bad reaction to anything I've taken."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've just been sitting down when the dizziness hits and waiting for it to pass. I haven't taken anything for it or tried any home remedies, because I wasn't sure what might help or what could interfere with my blood pressure medicine."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Yes, lying down or sitting still for a minute really helps settle the dizziness. But standing up quickly, especially from a chair or getting out of bed in the morning, definitely makes it worse. The hand shaking seems to be worse when I'm tired or when I'm trying to hold something steady, like my coffee cup or a book."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Well, it's been worrying my wife quite a bit. She doesn't want me to go up and down the stairs by myself anymore, and I've been a bit nervous about driving, to be honest. I used to enjoy taking a short walk after dinner, but now I'm afraid I might get dizzy and stumble, especially if I"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke—I quit about ten years ago, after a bit of a scare with my heart. I used to have a glass of wine with dinner maybe once or twice a week, but since this started, my wife has been after me to cut that out completely, so I've been staying away from alcohol for now."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My father had high blood pressure and passed away from a stroke when he was in his seventies, but I don't recall him ever complaining about dizziness or shaking like this. My mother is still alive at 93, and she's never mentioned anything like it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. That's why it's been so unsettling, you know—it's all new to me, and I can't help but worry it might be something serious."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 4 out of 10—the dizziness isn't constant and there's no real pain, but it's enough to make me feel unsteady and on edge. Emotionally, I'm probably at a 7 or 8 out of 10. I keep thinking about my father's stroke, and it's making me pretty anxious."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Well, my wife did mention that she's noticed my handwriting seems a bit smaller and shakier lately, but I just put it down to getting older. I'm not sure if that's related, but I thought I should mention it just in case."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to stay calm, but honestly, it's hard not to imagine the worst. My wife's been a big help—she keeps an eye on me and makes sure I don't rush around too much. I'm also trying to take it easy and avoid doing things that might trigger the dizziness, but I wish I knew why this is happening so I could stop worrying."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I try to keep myself busy with reading and crossword puzzles to take my mind off it, but I find myself checking my hand more often than I'd like. I've also been sitting down slowly and taking my time before standing up, which helps a little. Mostly, I just want to get to the bottom of it so I can stop feeling so nervous all the time."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been reading more and doing crossword puzzles to keep my mind busy, and my wife has been a real rock—she reminds me to take things slowly and not to get up too fast. I also try to stay positive, but I can't deny the worry is always there in the back of my mind."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I appreciate you asking. My wife's been watching over me like a hawk, and I've been trying to take things slower and not let my mind run wild. Honestly, though, the best coping strategy would be finding out what's causing this so I can stop imagining the worst."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "Well, I've been trying to adapt—I sit on the edge of the bed for a moment before I stand up, and I'm careful not to rush around the house. But I can't shake the feeling that something's wrong, you know? Every time I get dizzy, I worry it might turn into a fall or something worse, like what happened to my dad."
+    }
+  ]
+}

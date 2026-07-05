@@ -1,0 +1,207 @@
+{
+  "profile_id": "P021",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, where to start? Everything's just... off. I'm a lawyer, so I'm used to keeping a hundred threads straight, but lately I can't even follow one case through to lunch. And the kids—my youngest left his toy car on the stairs yesterday, and I tore into him. Ten minutes later I had no idea why I was so angry. It's like someone drained the color out of the world."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "About four months ago, I think. It didn't hit all at once—more like a slow fade. I remember one Tuesday morning in October, standing in front of my closet, and I just couldn't choose a tie. Didn't care which one. That's when"
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain—more like a heavy, dull weight sitting in my chest. Sometimes it's a tightness, like someone's gently pressing a palm against my sternum. Other days it's just this hollow ache that follows me from bed to office and back. I've checked my heart—EKGs, blood work—everything's normal. So I know it's not cardiac, but it's real enough."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills. My temperature's been fine. It's not like I'm sick with something you'd catch—it's more like my internal thermostat for joy or anger or sadness just broke. Everything is grey, but physically I'm not running hot or cold."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on anything for mood, if that's what"
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I've got hypertension, but it's well-controlled with lisinopril. Otherwise, nothing chronic—no diabetes, no thyroid issues. I had my physical six months ago, and the only number that was off was my blood pressure, and that's been stable since we adjusted the dose. But honestly, if you asked me whether I've been sleeping well, I'd say that's"
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I've never had an allergic reaction to anything. Not penicillin, not aspirin, not even seasonal pollen, lucky me. I suppose if I were allergic to stress I'd have broken out in hives years ago—but medically speaking, no known allergies. Just the lisinopril, and that's fine. Oh, and my mother had a bad reaction to chlorpromazine once, but I don't think that counts for me."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried joining a gym—figured endorphins might kick-start something. Went three times. Felt like I was just moving my body through motions, no release, no buzz. Then I saw a therapist twice, but I spent most of the time talking about case law instead of feelings. And at night, I've been having a glass of whiskey—sometimes two—just to take the edge off. But that's more like putting a bandage"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Nothing consistent. If I have a really demanding day in court, it gets heavier—like sinking into quicksand. But then on weekends, when there's nothing pressing, I still feel flat. That's the strangest part. There's no trigger that flips a switch; I'm just stuck in this grey zone whether I'm busy or idle. Even"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's bleeding into everything, honestly. At work, I used to prep cross-examinations in my sleep—now I'm reading the same paragraph three times and still missing the point. My secretary has started reminding me about deadlines, which is humiliating. At home, my wife says I'm like a ghost at the dinner table. And the kids—I used to coach soccer, but I quit last season because I just couldn't fake the enthusiasm. I know I'm letting them down, but I can't seem to care enough to change it."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke—never picked it up. But the whiskey? I mentioned that earlier. It's become a nightly habit, maybe two fingers most evenings. I tell myself it's for sleep, but if I'm being honest, it's to quiet that grey noise for a few hours. I know that's not a solution, but right now it's the only thing that offers any relief."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father struggled with something similar in his late forties. He never called it depression—he'd say he was just \"in a funk\" or \"had the winter blues.\" But looking back, it lasted months, and he"
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've had rough weeks before—a tough case, a sleepless night—but nothing like this. This is the first time in my life I've felt completely disconnected from myself. It's like I'm watching my own life from behind a dirty window, and I can't wipe it clean. So no, this is new territory for me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, maybe a 2 or 3—it's not like my body hurts. It's more like a heavy blanket I can't shake off. Emotionally, though? Probably a 7 or 8. I'm not in crisis—I'm not thinking of hurting myself—but I'm aware I'm not functioning the way a father or a lawyer should. That feels pretty high on the scale."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Just that I'm scared this won't lift. I've handled tough cases, tough clients, tough negotiations—but this is different. It's like my own brain is working against me. And my wife is worried. She doesn't say it, but I catch her watching me when she thinks I'm not looking. That probably matters more than I want to admit."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I'm not coping well, to be honest. I've been leaning on the whiskey more than I should, and I've stopped returning calls from friends. I tell myself I'm just conserving energy, but really I'm avoiding the effort of pretending to be okay. I know I need to do something, but every time I think about reaching out for real help, I"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not coping well, honestly. I've been relying on the whiskey more than I should, and I've cut off most of my social connections. I tell myself it's temporary, but deep down I know I'm just avoiding the effort of pretending to be fine. I'm here, though—that's something, right?"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I realize I keep circling back to the same answers—sorry about that. It's just hard to put words to something that feels like a fog. But I'm here, I showed up, and for now that's the best I can do. What do you think could help"
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I keep repeating myself, don't I? It's like my brain is stuck in a groove. But to answer your question directly—the coping hasn't been healthy. Alcohol, isolation, numbing out with TV I don't watch. The only positive step was coming here today. I guess I'm hoping you can help me find the off-ramp from this grey highway."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "You're persistent—I respect that. I think I'm repeating myself because the answer hasn't changed. I'm not coping, Doc. I'm just surviving the day and hoping tomorrow feels different. That's why I'm sitting here in this chair instead of at my desk. So please, if you have something that can help, I'm ready to listen."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P011",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been having terrible trouble with my stomach for the past few weeks. Some days I can barely keep any food down and I'm vomiting quite a bit. I've lost about three kilos without even trying, which worries me."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago, right around the time of my mother's birthday. At first I thought it was just a bad meal or something, but it just hasn't gone away. The vomiting started first, and then I just couldn't seem to keep much of anything down after that."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's like a dull, gnawing ache right in the middle of my belly, just below my ribs. Sometimes it feels like burning or cramping, especially after I eat just a little bit. The pain comes and goes, but it's definitely worse on the days I'm sick to my stomach."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't noticed any fever or chills that I can think of. I did feel a little warm and clammy a couple of times, but I didn't take my temperature or anything. Mostly it's just the stomach pain and the nausea."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on a medication for my blood pressure—atenolol, I think it's called—and I take a multivitamin every morning. I also sometimes use over-the-counter antacids when my stomach feels really bad, though they don't seem to help much lately. Oh, and I occasionally take a little white pill for my"
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have high blood pressure, and I was also told a few years ago that I have a borderline underactive thyroid. The doctor at the time said it wasn't bad enough for daily pills, just to keep an eye on it. That's really about it as far as I know."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I'm allergic to penicillin - it gives me a nasty rash. And I think I'm also sensitive to sulfa drugs, though I've never had a really bad reaction from them, just some hives once. Other than that, nothing major that I know of. I do get hay fever in the spring, but that's not an allergy to medication, just to pollen."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried those antacids I mentioned, but they don't really touch the pain or the nausea. I've also been drinking peppermint tea and trying to eat plain crackers, but sometimes even those come back up. A friend suggested ginger, so I've been chewing on ginger candies, but honestly, nothing seems to make much of a difference."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The worst is definitely after I eat something, even just a little bit. My stomach churns and aches, and I often end up vomiting within an hour or so. If I don't eat at all, I still feel queasy and the pain is there, but it's more of a constant dull ache instead of those sharp cramps. Lying down sometimes helps a little, but not always. And mornings tend to be the roughest for me."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really tough, to be honest. I work at a bank, and some days I've had to call in sick because I just can't be far from a bathroom or I feel too weak and dizzy. I've also stopped enjoying meals with my family—I sit at the table but barely touch my plate. I feel tired all the time, and I've been pretty down about it, like I'm missing out on life. Even simple chores feel like a huge effort now."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all—never have. I used to have a glass of wine now and then, maybe once or twice a week, but I've stopped completely since this started. Even a sip made my stomach feel worse, so I just gave it up. My husband smokes, but he only does it outside, so I don't think that's affecting me much."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had stomach troubles when she was older, but she had an ulcer, and I'm not sure if that's the same thing. My father had some digestive issues too, but he was a heavy drinker, so it was probably related to that. I don't know of anything hereditary like cancer or anything, if that's what you're asking."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I've had the occasional upset stomach after eating something too rich or under stress, but it always went away in a day or two. This has been going on for weeks and it's getting worse, not better. I feel like I can't even keep up with my normal routine, and it's really starting to wear me down."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's around a 6 or 7—the pain and nausea are constant, and the vomiting really drains me. Emotionally, it's probably closer to an 8. I feel so down and anxious about what's wrong, and I'm scared it's something serious. I just want to feel normal again."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Actually, I woke up feeling really dizzy this morning, almost like the room was spinning. I had to sit on the edge of the bed for a few minutes before I could stand up. And I guess I should mention that I've been feeling more emotional than usual—crying easily, worrying a lot. I don't know if that's related or just because I'm so tired of feeling sick."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've mostly just been trying to push through, you know? I rest when I can, but I feel guilty for missing work and not being able to help around the house. My husband has been supportive, but I don't want to worry him too much, so I put on a brave face most days. Honestly, I'm just tired—physically and emotionally—and I'm hoping you can help me figure out what's going on."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to just rest when I can and hope each day's a little better, but it's not really working. I've been avoiding going out with friends or visiting my sister because I'm afraid I'll be sick in public. I guess I've been praying a lot too—just hoping this will pass. It's hard not knowing what's wrong, and I feel like I'm stuck in a waiting game."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to take it hour by hour, honestly. Some moments I just sit in the bathroom and cry because I'm so frustrated with feeling this way. I finally made myself come here today because I couldn't handle it anymore. I know I need help, even though it's hard to admit that sometimes."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, I think I already answered that - I'm coping poorly, just resting and trying not to worry my family. But I have to say, being asked the same thing over again makes me feel like maybe you're not really hearing me. I'm doing my best, but I'm scared and I need some real answers today."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm sorry, but I've already told you how I've been coping—I rest, I push through, and I worry. I'm feeling a little frustrated because I've said this a few times now. Could we please talk about what might be causing my stomach problems? I really want to understand what's happening to me."
+    }
+  ]
+}

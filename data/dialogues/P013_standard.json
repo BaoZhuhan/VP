@@ -1,0 +1,207 @@
+{
+  "profile_id": "P013",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, it's my knees. They ache something fierce, especially when I first get up in the morning. Lately, it's been hard just to get out of bed without feeling like I'm gonna seize up."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It's been coming on slow for years, but I'd say the worst of it started maybe six months ago. At first I figured it was just getting older, but it's not letting up."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Right here, around the front of my knees, sort of under the kneecaps. It feels like a deep, dull ache, not sharp or stabbing. Kind of like they're worn out and sore to the touch."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I haven't felt feverish or had the chills at all. It's just the knees, that's all."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take metformin for my sugar, and lisinopril for my blood pressure. And I'll take over-the-counter ibuprofen when my knees act up bad, maybe a couple times a week."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I've got high blood pressure and type 2 diabetes. That's about it, aside from these worn-out knees."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, none that I know of. Well, I had a bad reaction to sulfa drugs once, a while ago. That's all I can think of."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just the ibuprofen I mentioned. Sometimes I put a heating pad on them when it gets real stiff, and that helps a little. But standing too long at the sink or walking too much makes it worse, so I try to take breaks."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The heat helps ease it up in the morning. Resting with my legs up feels better too. But if I'm on my feet for a while or walk too far, it gets worse. Stairs are the worst — I dread going up and down."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Honestly, it's made me slow down a lot. I used to walk to the grocery store and tend my little garden, but now I have to drive and I'm lucky to get out there for ten minutes before I need to sit. It's frustrating,"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No smoking. I'll have a glass of wine or a beer with dinner maybe once or twice a week, but that's it. Nothing heavy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had bad knees too, especially when she got older. She'd complain about them seizing up in the morning just like I do now. So maybe it runs in the family."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I've had some achy joints off and on for years, but nothing this steady or bad. This is different—it's every day now, and it's not going away on its own."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's a steady 4 out of 10 most days — not unbearable, but it's always there. Emotionally, maybe a 2. I'm not panicked or anything, just worn down by it. I've accepted it as part of getting older, but it's getting harder to shrug off."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I don't think so. Just that I'm not looking for any big fuss. I just want to be able to get around without wincing every time I stand up. Anything that could help with that would be fine by me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I just take it day by day. I try not to complain about it too much—no point in fussing. I use the heating pad, take my ibuprofen when I need it, and mostly I just push through. But I won't lie, it does wear on me sometimes."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I just take it one day at a time. I rest when I need to, use the heat, and take the ibuprofen. I don't let it stop me from doing what I have to do, but I'd be lying if I said it didn't get me down now and then."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I manage. I try not to let it show too much. But some mornings it's like climbing a mountain just to get my socks on. I guess I just keep going because there's no other choice."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I just push through, mostly. Keep to my routine and try not to dwell on it. But I'll admit, there are days it really gets to me—when I can't get out to the garden or I need help carrying groceries. That's when it feels harder. But I don't like to make a fuss."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I've already told you, doc. I cope the best I can—heat, rest, and ibuprofen when I need it. I don't like to make a fuss, but it's wearing me down, plain and simple. That's all there is to it."
+    }
+  ]
+}

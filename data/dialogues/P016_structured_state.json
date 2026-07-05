@@ -1,0 +1,207 @@
+{
+  "profile_id": "P016",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Hi, thanks for seeing me. So, I woke up yesterday morning and noticed this red, bumpy rash on both of my arms. It's really itchy — like, I can't stop scratching, and it kept me up last night. I don't know what caused it or if it's something serious."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started yesterday morning. I woke up and there they were — just these red, itchy patches on both arms. It wasn't there when I went to bed the night before. So it's been about a day now."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain — more of a constant, intense itching. I'd say it's more annoying than painful, but the itching gets so bad at night that I can't sleep. It's on both arms, from my elbows down to my wrists, mostly on the inner sides. I haven't noticed it anywhere else."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I don't feel sick in that way at all. It's really just the rash and the itching that's bothering me. I checked my temperature yesterday, and it was normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any medications right now, no prescriptions or anything. I did take some over-the-counter antihistamine last night because I thought it might help with the itching, but it didn't really do much."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions that I know of. I'm generally pretty healthy, aside from this rash. I do have a peanut allergy, but that's been around since I was a kid and I'm careful about it."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I'm aware of. I've never had a reaction to any medication before. I mean, I know I'm allergic to peanuts, but that's food, not medicine. I don't think I have any drug allergies."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yeah, I tried that antihistamine last night, like I mentioned, but it didn't really help. I also put some cold compresses on my arms a couple of times today — that gave me a little relief for maybe an hour or so. Otherwise, I've just been trying really hard not to scratch, which is honestly pretty tough."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The cold compresses helped a little, but honestly, the itching seems to get worse when I'm warm or if I start sweating. I noticed it got really bad after I took a hot shower last night — the steam made it so much itchier. And at night, when I'm lying in bed, it just gets unbearable."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's made it really hard to focus on my schoolwork, honestly. I couldn't sleep last night because of the itching, so I'm exhausted today and kind of irritable. I had to skip my morning class because I was just too tired and distracted by the rash. I'm worried it's going to get worse or spread, and I just want to figure out what it is so I can get some sleep."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke. I do drink occasionally — like, maybe a couple of drinks at parties or with friends on weekends, but not regularly. I didn't have anything to drink before the rash showed up, so I don't think it's related to that."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My parents and siblings don't have any skin issues like this. Nobody's ever mentioned having a sudden rash like mine before, so I don't think it runs in the family."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. This is the first time I've ever had a rash like this. It came out of nowhere, so I'm pretty confused about what it could be."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 7 out of 10? The itching is really constant and intense, and it's messing up my sleep. Emotionally, I'm more like a 6 or 7 — I'm frustrated and kind of anxious because I don't know what's causing it or if it's going to get worse. I just want it to stop so I can feel normal again."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I don't think so — I think I've told you everything I can remember. I just really want to figure out what this is, because it came on so suddenly and I haven't changed my soap, laundry detergent, or diet recently. I'm not taking any supplements or new medications either, so it's kind of a mystery to me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, I've just been trying to distract myself — focusing on schoolwork or watching shows to keep my hands busy so I don't scratch. But it's wearing me down. I feel tired and kind of grumpy from the lack of sleep, and I'm worried this is going to last longer. I've been avoiding looking at my arms too much because it just makes me more anxious."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to just manage it, but it's tough. The lack of sleep makes everything harder, and I've noticed I'm a lot more irritable with my friends and family. I've also been really self-conscious about showing my arms in public — I keep wearing long sleeves even though it's warm out, because I don't want people staring or asking questions. So I guess I've been coping okay on the surface, but inside I'm pretty stressed and worn out."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've already mentioned, but honestly, not great. The itching drains my energy, and I'm pretty short-tempered right now. I'm doing what I can — keeping cool, trying not to scratch — but I'm really hoping you can help me figure this out so I can get back to normal."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've already covered that — sorry, I keep repeating myself. The main thing is, I'm really struggling with the itching and lack of sleep, and I'm anxious to get some answers. Can you help me figure out what this rash is so I can treat it?"
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I already answered that one, sorry — I'm just really tired and a bit frustrated. But yes, I've been struggling with the itching and lack of sleep, and I'm anxious to get this sorted. Can we maybe talk about what this might be or what I should do next?"
+    }
+  ]
+}

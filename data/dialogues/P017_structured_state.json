@@ -1,0 +1,207 @@
+{
+  "profile_id": "P017",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc. I've got this patch on my forehead that's been there for about a year now. It's rough, feels scaly to the touch. My wife's been on me to have someone take a look at it."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started showing up around last harvest time, so maybe a year ago. Didn't think much of it at first, but it never went away."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's right here, above my left eyebrow. No real pain to speak of. Just feels kinda rough and dry. Doesn't bother me unless I rub it."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I've been feeling just fine otherwise. No fevers or chills."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None, doctor. I don't take any pills or anything like that."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, sir. I'm pretty healthy for my age. No high blood pressure or diabetes that I know of."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No allergies that I know of. Never had a bad reaction to any medicine before."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "No, I haven't done anything for it. Just left it alone, figured it wasn't anything serious."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Not that I've noticed. It's just been there, same as always. Doesn't change with the weather or anything I put on it."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It ain't really affecting much. I get on with my work just fine. It's just my wife keeps nagging me to come in, so here I am."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke, but I quit a few years back. As for drinking, I'll have a beer now and then, maybe a couple on the weekend. Nothing heavy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My folks never mentioned anything like this, and I don't recall any of my relatives having rough spots like mine."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. Just showed up one day and stuck around. I've been working outside all my life, so I've had some sun spots, but nothing that felt rough like this."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's maybe a 1 or 2. It barely bothers me at all. Emotionally, maybe a 2 as well—I'm not worried about it, just here because the missus wanted me to come in."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, I think that's about it, doc. Just that rough spot on my forehead. If there's something you can do about it, that'd be fine, but it's not keeping me up at night."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I just go about my days same as always. It doesn't stop me from doing my work or sleeping at night. Nothing to really cope with, if I'm being honest."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Same as I told you—just living my life. No big changes or worries. I appreciate you checking, though."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Well, you've asked me that a couple times now, so I guess I'll say it the same way—I'm doing fine. No need to cope with much of anything, really."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Doc, I think you've already asked me that a few times. I'm doing just fine—nothing to cope with. I'm just here about the spot on my forehead."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "Doc, with all due respect, I think we've covered that. I'm not really coping with anything—I'm just here about this patch on my forehead. Can we maybe move on to what you think it is?"
+    }
+  ]
+}
