@@ -1,0 +1,17 @@
+{
+  "experiment_id": "exp_004",
+  "title": "Design and implement state reconstruction evaluator",
+  "date": "2026-07-05",
+  "status": "completed",
+  "model": "host.llm (kernel utility default)",
+  "metrics": [
+    "exact_match",
+    "jaccard",
+    "ordinal_mae",
+    "fuzzy_categorical"
+  ],
+  "outputs": [
+    "evaluation/evaluator.py"
+  ],
+  "summary": "Built LLM-based state reconstruction evaluator with normalization layers for clinical and affective attributes."
+}

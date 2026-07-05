@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "project": "AMICA — Consistency in LLM-based Virtual Patient Simulation",
+  "project": "Consistency in LLM-based Virtual Patient Simulation",
   "description": "Structured patient state representation defining both latent clinical and affective attributes. Each attribute has a type, valid values, and evaluation designation.",
   "patient_state": {
     "patient_id": {

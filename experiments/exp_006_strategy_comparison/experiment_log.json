@@ -1,0 +1,34 @@
+{
+  "experiment_id": "exp_006",
+  "title": "Prompting strategy comparison experiments",
+  "date": "2026-07-05",
+  "status": "completed",
+  "strategies": [
+    "standard",
+    "consistency",
+    "structured_state"
+  ],
+  "total_dialogues_evaluated": 72,
+  "results": {
+    "standard": {
+      "clinical": 0.449,
+      "affective": 0.76,
+      "overall": 0.588
+    },
+    "consistency": {
+      "clinical": 0.464,
+      "affective": 0.797,
+      "overall": 0.612
+    },
+    "structured_state": {
+      "clinical": 0.613,
+      "affective": 0.742,
+      "overall": 0.67
+    }
+  },
+  "finding": "structured_state prompting yields highest clinical (0.613) and overall (0.670) faithfulness. Consistency prompting yields highest affective (0.797).",
+  "outputs": [
+    "figures/strategy_comparison.png",
+    "data/results/strategy_results.csv"
+  ]
+}

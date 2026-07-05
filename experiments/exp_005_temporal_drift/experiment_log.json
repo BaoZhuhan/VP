@@ -1,0 +1,11 @@
+{
+  "experiment_id": "exp_005",
+  "title": "Temporal drift analysis",
+  "date": "2026-07-05",
+  "status": "completed",
+  "method": "Evaluated faithfulness as a function of dialogue length (15-20 turns)",
+  "finding": "Weak negative correlation between turn count and clinical faithfulness. Affective faithfulness remains stable across dialogue lengths.",
+  "outputs": [
+    "figures/temporal_drift_analysis.png"
+  ]
+}

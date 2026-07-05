@@ -1,0 +1,39 @@
+{
+  "experiment_id": "exp_007",
+  "title": "Cross-model analysis (placeholder for future models)",
+  "description": "Framework for comparing state faithfulness across LLM families. The evaluation pipeline is model-agnostic \u2014 drop in any model's dialogues and run the same evaluator.",
+  "models_tested": [
+    {
+      "model_id": "deepseek-v4-flash",
+      "role": "generation",
+      "status": "completed",
+      "profiles": 24,
+      "dialogues": 72,
+      "strategies": [
+        "standard",
+        "consistency",
+        "structured_state"
+      ]
+    },
+    {
+      "model_id": "host.llm (utility default)",
+      "role": "evaluation (reconstruction)",
+      "status": "completed",
+      "profiles": 24,
+      "dialogues": 72
+    }
+  ],
+  "future_models": [
+    "deepseek-v4-pro",
+    "gpt-4o",
+    "claude-sonnet-4",
+    "claude-haiku-3.5"
+  ],
+  "workflow": {
+    "step_1": "Generate dialogues with new model using existing dialogue_generator.py",
+    "step_2": "Evaluate with evaluator.py using host.llm (consistent evaluator across models)",
+    "step_3": "Compare faithfulness scores across models to assess model-dependence of consistency",
+    "step_4": "Check if structured_state prompting provides the same improvement across all models"
+  },
+  "key_question": "Is state faithfulness model-dependent? Does structured_state prompting help universally?"
+}

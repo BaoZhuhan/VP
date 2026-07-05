@@ -1,4 +1,4 @@
-"""dialogue_generator.py — Generate clinician–patient dialogues for AMICA benchmark."""
+"""dialogue_generator.py — Generate clinician–patient dialogues for Consistency benchmark."""
 
 import json, time, os, sys
 from openai import OpenAI

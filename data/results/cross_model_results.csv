@@ -1,0 +1,5 @@
+model,strategy,n_profiles,mean_clinical,mean_affective,mean_overall,notes
+deepseek-v4-flash,standard,24,0.449,0.76,0.588,completed
+deepseek-v4-flash,consistency,24,0.464,0.797,0.612,completed
+deepseek-v4-flash,structured_state,24,0.613,0.742,0.67,completed
+,,,,,,[add rows for new models]
