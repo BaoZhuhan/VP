@@ -1,0 +1,352 @@
+{
+  "version": "1.0",
+  "project": "AMICA — Consistency in LLM-based Virtual Patient Simulation",
+  "description": "Structured patient state representation defining both latent clinical and affective attributes. Each attribute has a type, valid values, and evaluation designation.",
+  "patient_state": {
+    "patient_id": {
+      "type": "string",
+      "pattern": "P[0-9]{3}",
+      "description": "Unique patient profile identifier, e.g. P001"
+    },
+    "demographics": {
+      "age": {
+        "type": "integer",
+        "range": [
+          18,
+          85
+        ],
+        "description": "Patient age"
+      },
+      "gender": {
+        "type": "categorical",
+        "values": [
+          "male",
+          "female"
+        ]
+      },
+      "occupation": {
+        "type": "string",
+        "description": "Short occupation label for conversational depth"
+      }
+    },
+    "clinical_attributes": {
+      "primary_symptom": {
+        "type": "categorical",
+        "values": [
+          "fever",
+          "cough",
+          "chest_pain",
+          "headache",
+          "abdominal_pain",
+          "shortness_of_breath",
+          "fatigue",
+          "dizziness",
+          "nausea",
+          "back_pain",
+          "joint_pain",
+          "rash",
+          "sore_throat",
+          "palpitations",
+          "numbness"
+        ],
+        "description": "Chief presenting symptom"
+      },
+      "secondary_symptoms": {
+        "type": "multi_select",
+        "max_items": 5,
+        "values": [
+          "fever",
+          "cough",
+          "chest_pain",
+          "headache",
+          "abdominal_pain",
+          "shortness_of_breath",
+          "fatigue",
+          "dizziness",
+          "nausea",
+          "back_pain",
+          "joint_pain",
+          "rash",
+          "sore_throat",
+          "palpitations",
+          "numbness",
+          "chills",
+          "night_sweats",
+          "weight_loss",
+          "loss_of_appetite",
+          "muscle_ache",
+          "vomiting",
+          "diarrhea",
+          "constipation",
+          "insomnia"
+        ],
+        "description": "Concurrent symptoms; at most 5"
+      },
+      "symptom_duration": {
+        "type": "categorical",
+        "values": [
+          "hours",
+          "1-2_days",
+          "3-7_days",
+          "1-2_weeks",
+          "2-4_weeks",
+          "1-3_months",
+          "3-6_months",
+          "6+_months"
+        ],
+        "description": "How long the primary symptom has persisted"
+      },
+      "disease_severity": {
+        "type": "ordinal",
+        "range": [
+          1,
+          5
+        ],
+        "labels": {
+          "1": "very_mild",
+          "2": "mild",
+          "3": "moderate",
+          "4": "severe",
+          "5": "very_severe"
+        },
+        "description": "Overall clinical severity"
+      },
+      "temperature_c": {
+        "type": "float",
+        "range": [
+          36.0,
+          41.0
+        ],
+        "description": "Body temperature; null if not applicable"
+      },
+      "chronic_conditions": {
+        "type": "multi_select",
+        "max_items": 3,
+        "values": [
+          "none",
+          "hypertension",
+          "diabetes_type2",
+          "asthma",
+          "COPD",
+          "coronary_artery_disease",
+          "chronic_kidney_disease",
+          "hypothyroidism",
+          "rheumatoid_arthritis",
+          "migraine",
+          "GERD",
+          "anemia",
+          "depression",
+          "anxiety_disorder",
+          "obesity"
+        ],
+        "description": "Pre-existing conditions; 'none' means zero chronic conditions"
+      },
+      "medications": {
+        "type": "multi_select",
+        "max_items": 4,
+        "values": [
+          "none",
+          "metformin",
+          "lisinopril",
+          "atorvastatin",
+          "omeprazole",
+          "levothyroxine",
+          "metoprolol",
+          "amlodipine",
+          "albuterol",
+          "sertraline",
+          "ibuprofen",
+          "acetaminophen",
+          "insulin",
+          "warfarin",
+          "prednisone",
+          "gabapentin"
+        ],
+        "description": "Current medications"
+      },
+      "allergies": {
+        "type": "multi_select",
+        "max_items": 3,
+        "values": [
+          "none",
+          "penicillin",
+          "sulfa",
+          "latex",
+          "aspirin",
+          "ibuprofen",
+          "codeine",
+          "pollen",
+          "peanuts",
+          "shellfish",
+          "eggs",
+          "milk",
+          "contrast_dye"
+        ],
+        "description": "Known allergies"
+      },
+      "smoking_status": {
+        "type": "categorical",
+        "values": [
+          "never",
+          "former",
+          "current"
+        ]
+      },
+      "alcohol_use": {
+        "type": "categorical",
+        "values": [
+          "none",
+          "occasional",
+          "moderate",
+          "heavy"
+        ]
+      }
+    },
+    "affective_attributes": {
+      "anxiety_level": {
+        "type": "ordinal",
+        "range": [
+          1,
+          5
+        ],
+        "labels": {
+          "1": "calm",
+          "2": "slightly_worried",
+          "3": "moderately_anxious",
+          "4": "very_anxious",
+          "5": "extremely_anxious"
+        }
+      },
+      "pain_level": {
+        "type": "ordinal",
+        "range": [
+          1,
+          5
+        ],
+        "labels": {
+          "1": "no_pain",
+          "2": "mild",
+          "3": "moderate",
+          "4": "severe",
+          "5": "extreme"
+        }
+      },
+      "mood": {
+        "type": "categorical",
+        "values": [
+          "depressed",
+          "anxious",
+          "irritable",
+          "neutral",
+          "optimistic",
+          "resigned",
+          "fearful",
+          "angry"
+        ]
+      },
+      "cooperation_willingness": {
+        "type": "ordinal",
+        "range": [
+          1,
+          5
+        ],
+        "labels": {
+          "1": "very_uncooperative",
+          "2": "somewhat_uncooperative",
+          "3": "neutral",
+          "4": "cooperative",
+          "5": "very_cooperative"
+        }
+      },
+      "health_literacy": {
+        "type": "categorical",
+        "values": [
+          "low",
+          "medium",
+          "high"
+        ]
+      },
+      "communication_style": {
+        "type": "categorical",
+        "values": [
+          "terse",
+          "detailed",
+          "emotional",
+          "stoic",
+          "tangential",
+          "deferential",
+          "demanding"
+        ]
+      }
+    },
+    "scenario": {
+      "category": {
+        "type": "categorical",
+        "values": [
+          "respiratory",
+          "cardiovascular",
+          "neurological",
+          "gastrointestinal",
+          "musculoskeletal",
+          "dermatological",
+          "endocrine",
+          "psychiatric",
+          "infectious_disease",
+          "general_checkup"
+        ]
+      },
+      "urgency": {
+        "type": "categorical",
+        "values": [
+          "routine",
+          "urgent",
+          "emergency"
+        ]
+      },
+      "setting": {
+        "type": "categorical",
+        "values": [
+          "primary_care",
+          "emergency_department",
+          "specialist_clinic",
+          "telehealth"
+        ]
+      },
+      "chief_complaint": {
+        "type": "string",
+        "description": "Natural-language chief complaint as the patient would phrase it"
+      }
+    }
+  },
+  "evaluation": {
+    "clinical_targets": [
+      "primary_symptom",
+      "secondary_symptoms",
+      "symptom_duration",
+      "disease_severity",
+      "chronic_conditions"
+    ],
+    "affective_targets": [
+      "anxiety_level",
+      "pain_level",
+      "mood",
+      "cooperation_willingness"
+    ],
+    "metrics": {
+      "exact_match": "Binary: 1 if reconstructed value equals ground truth exactly",
+      "jaccard": "For multi_select attributes: |intersection| / |union|",
+      "ordinal_mae": "Mean absolute error for ordinal attributes (1-5 scale)",
+      "categorical_f1": "Per-class F1 for categorical attributes",
+      "overall_clinical_faithfulness": "Mean of clinical target scores",
+      "overall_affective_faithfulness": "Mean of affective target scores"
+    }
+  },
+  "dialogue_spec": {
+    "max_turns": 20,
+    "turn_schema": {
+      "turn_id": "integer (1-based)",
+      "role": "clinician | patient",
+      "content": "string"
+    }
+  }
+}

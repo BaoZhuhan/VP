@@ -1,0 +1,10 @@
+{
+  "experiment_id": "exp_001",
+  "title": "Define patient state schema and attribute taxonomy",
+  "date": "2026-07-05",
+  "status": "completed",
+  "outputs": [
+    "data/patient_schema.json"
+  ],
+  "summary": "Defined structured schema with 10 clinical attributes, 6 affective attributes, demographics, and scenario metadata. 5 clinical + 4 affective evaluation targets."
+}
