@@ -1,0 +1,207 @@
+{
+  "profile_id": "P005",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been having episodes where my heart feels like it's fluttering or skipping beats. This started about two weeks ago, and it happens maybe three or four times a day now. Each episode lasts roughly a minute, and when I take my pulse during one, it definitely feels irregular — not just fast, but uneven."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about two weeks ago, maybe a little less. At first I thought it was just stress or maybe too much caffeine, but it kept happening, so I figured I should get it checked."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really painful — more of a fluttering or pounding sensation right in the center of my chest. Sometimes it feels like my heart does a little flip or skips a beat. I don't have any sharp pain or pressure with it, just that odd irregular feeling."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. My temperature has been normal — I checked it a few times just to be thorough, and it's been consistently around 36.5°C. No night sweats or anything like that either."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take lisinopril for my blood pressure and levothyroxine for my hypothyroidism. I've been on both for years without any issues. I should also mention I'm allergic to sulfa drugs, just in case that comes up."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypertension and hypothyroidism. The blood pressure is pretty well controlled with the lisinopril, and the levothyroxine keeps my thyroid levels stable. I had my thyroid checked about six months ago and it was within normal range."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to sulfa drugs. I found out the hard way years ago — broke out in a rash and had some swelling. I always make sure to mention it before any new medication is prescribed."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried sitting down and resting when the fluttering started, and I also cut back on coffee just in case. Neither really made a difference — the episodes still come and go on their own. I've been keeping a log of when they happen, though."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Not really, to be honest. Rest doesn't stop it, and activity doesn't seem to trigger it either. I've noticed it sometimes happens when I'm just sitting and reading or watching TV. At night, lying in bed, I feel it more because there are fewer"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been a bit unsettling, honestly. I'm a retired nurse, so I know enough to be concerned but not panicked. The episodes themselves are brief, but I've noticed I feel more tired than usual by late afternoon, and I've had a couple of dizzy spells that made me pause and hold onto something. It's not stopping me from doing my daily routines, but I'm definitely more aware of my heart now."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke, but I quit about fifteen years ago. I don't drink alcohol at all — haven't had a drink in years."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had heart trouble later in life — I believe he had some kind of arrhythmia, though I'm not sure of the specifics. He passed away from a stroke in his late seventies. My mother"
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, this is completely new to me. I've never had palpitations or any heart rhythm issues in the past. That's actually one of the reasons I decided to come in — it's unusual for me, and I know enough to take new symptoms seriously at my age."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say the fluttering itself is maybe a 2 out of 10 — it's more unsettling than painful. Emotionally, I'm probably around a 4 out of 10. I'm not panicked, but I'm paying close attention, and I'd feel better once we figure out what's going on."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers the main points. I have been keeping a little log in my notebook — the episodes don't seem to follow any pattern with meals, activity, or time of day. One more thing: I haven't fainted or felt like I was going to, but those dizzy spells did make me feel a bit unsteady on my feet a couple of times."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying not to let it worry me too much — I know stress can make these things worse. I'm keeping busy with my usual routines and making sure I rest when I feel off. As a former nurse, I also know the value of staying proactive, so coming in today felt like the right step. I trust we'll sort it out."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think I've been handling it fairly well, all things considered. I try not to dwell on it, but I'm aware enough to know when something needs attention. Keeping that log and coming here today"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've been managing okay, really. I'm not losing sleep over it, and I've been talking it through with my daughter a bit. Mostly I'm just glad I came in — I'd rather know what's happening than keep guessing."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "Well, you've asked me that a few times now — I appreciate the thoroughness. To be honest, I'm coping fine. I'm not losing sleep over it, and I'm keeping busy with reading and light walks. I trust your expertise, so I'm just waiting to see what we find out today."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I've answered that already — I'm doing just fine, honestly. I'm not losing any sleep over it, and I feel much better now that I'm here talking to you about it. Let's just focus on figuring out what's going on with my heart."
+    }
+  ]
+}

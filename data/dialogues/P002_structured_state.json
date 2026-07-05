@@ -1,0 +1,207 @@
+{
+  "profile_id": "P002",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "（wheezing, struggling to get words out） Doc... can't breathe. Three days now. Getting worse. Feel like I'm drowning in my own chest."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Started with a cough a few days ago. Then the breathing got real tight real fast."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "（pressing hand to chest） Right here. Heavy, like something's sitting on it. And I can't... can't get air deep enough."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Yeah. Felt hot. Shivery too. My wife said I had a fever when she checked this morning."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Lisinopril for my blood pressure. And that blue inhaler - albuterol - for my breathing when it gets bad."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Got COPD. And high blood pressure. That's it."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No. None that I know of. （shakes head） Never had a problem with any pills."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Used my inhaler a bunch. Ain't helping though. Just sat around hoping it'd pass. It didn't."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "（struggling） Lying down makes it worse. Can't catch my breath at all if I'm flat. Sitting up... helps a little. But moving? Forget it. Just getting over here wiped me out."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Can't even walk to the bathroom without stopping to gasp for air. Haven't eaten proper in two days. Just... just sitting here breathing takes all my damn energy."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "Used to smoke. Heavy. Quit a while back when the lungs started acting up. Don't drink."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "（shaking head） No. Just my old man - he had lung trouble too from the coal mines. But nobody else."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this. Had bad days with my breathing before, sure. But this...（pauses to catch breath）...this is different. Scares me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "（wheezes, takes a moment） Physically... feels like an 8 or 9. Can't breathe right. And scared... damn scared. Maybe a 9. Feels like I'm gonna die if I don't get help fast."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "（struggling to speak） Just... please help me quick. That inhaler usually works some. It ain't doing nothing now."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "（shallow breaths） Ain't coping. Just trying to stay alive until you folks can figure this out. Scared I'll pass out or worse. Just... fix me, doc."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I told ya, I ain't coping. Just sitting here trying not to... not to stop breathing. That's all I got."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "（struggles for breath, voice strained） Look, I already said it. I can't cope. This is bad. Real bad. Just need you to do... whatever you gotta do."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "（raspy, frustrated tone） Quit askin' me that same question, doc. I told ya twice. I'm not coping. I need help to breathe. That's all that matters right now."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "（barely getting words out, frustrated） I'm... done answering that. Just look at me. I'm drowning here. Need air. Need something now."
+    }
+  ]
+}

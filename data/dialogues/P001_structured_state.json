@@ -1,0 +1,157 @@
+{
+  "profile_id": "P001",
+  "strategy": "structured_state",
+  "total_turns": 15,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've had this cough for about two weeks now—it started as a dry tickle but it's gotten a bit worse. And lately, when I go up the stairs at school or at home, I feel like I can't catch my breath. It's a little scary, honestly."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I think it started about two weeks ago, maybe a little more. I remember noticing it right after a really busy week at school—I was talking a lot in class, and it just wouldn't go away like a normal cold would."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain—more like a tightness in my chest when I try to breathe deeply, especially after climbing stairs or walking fast. Sometimes my throat feels raw from coughing, but that's mostly just scratchy, not terrible."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "I think I felt a little warm a couple of evenings last week, but I never checked my temperature. No real chills or shaking, just a bit of a flushed feeling and I felt extra tired."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I use an albuterol inhaler sometimes when my asthma flares up, but I don't take any other medications regularly. I haven't been using it much lately, actually—just a couple of puffs the past few days when the coughing got bad."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have asthma—it's usually pretty mild and well-controlled, but I've had it since I was a teenager. That's why I have the albuterol inhaler. I also have seasonal allergies to pollen, but I manage those pretty well."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've taken things like ibuprofen and antibiotics before without any problems. The only thing I'm allergic to is pollen, which makes my eyes and nose runny in the spring."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been using my albuterol inhaler a few times when the cough feels really tight or I'm short of breath, but it doesn't seem to help as much as it usually does. I've also tried drinking warm tea with honey and resting more, but the cough just keeps coming back."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The stairs definitely make the breathlessness worse—every time I climb a flight, I feel like I have to stop for a second. Cold air seems to trigger more coughing too, especially in the morning when I head out for work. And honestly, nothing really makes it better for long."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's making teaching harder, that's for sure. I have to stop talking mid-sentence sometimes to catch my breath, and I worry my students notice. At home, I'm just so tired by the end of the day that I've been falling asleep on the couch instead of doing things I usually enjoy. It's really starting to get to me."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked cigarettes or anything else, and I don't drink alcohol either. I've always been pretty careful about my health because of my asthma—so that's actually why I'm so worried now, since this feels different from my usual flare-ups."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mom and my older brother both have asthma, so it runs in the family. My grandmother had lung problems too, but she was a heavy smoker. Nobody's had anything like what I'm going through right now, though—not that I can remember."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had asthma flare-ups before, where I felt winded or had a tight chest, but it usually got better with my inhaler pretty quickly. This time, the cough has lasted for two whole weeks, and the breathlessness feels different—it's happening even when I'm just walking up a flight of stairs, not just during exercise. I've never had something that stuck around like this."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's maybe a 4 or 5—the cough and breathlessness aren't disabling, but they're definitely there and they're wearing me down. Emotionally, I'm closer to a 7. I'm really worried that something's wrong with my lungs or my asthma is getting worse, and it's frustrating feeling so tired and short of breath all the time."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that's about everything. I just want to get to the bottom of this because it's scaring me a bit, and I hate feeling like I can't do my job properly. Thank you for listening—it helps to talk it through."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P007",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been dealing with these migraines that have really ramped up over the past month. I'm getting them about twice a week now, and when they hit, the light sensitivity is unbearable—I literally can't keep my eyes open. It's starting to interfere with my work and daily life."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about a month ago, maybe a little more. At first it was just once a week, but it's been getting more frequent and intense over the last couple of weeks."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's a throbbing, intense pain that's usually on one side of my head, often behind my eye or at my temple. When it's bad, it feels like a pulsing pressure, and any light or noise makes it so much worse. I also get pretty nauseous and dizzy during the worst episodes."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills at all. It's really just the head pain, nausea, and that awful sensitivity to light that bothers me most."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on sertraline daily for anxiety, which I've been taking for a while. For the migraines, I've been trying ibuprofen when they start, but honestly, it barely touches the pain anymore. I haven't tried anything else for them."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I've been diagnosed with migraine and anxiety disorder. The anxiety is usually well-managed with the sertraline, but these worsening migraines are really throwing me off lately."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known allergies to medications. I've taken ibuprofen and other over-the-counter stuff without any issues, it just doesn't help much with these migraines."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Beyond the ibuprofen, I've tried lying down in a dark, quiet room with a cool cloth on my forehead, which takes the edge off a bit, but it doesn't stop the migraine. I've also been drinking more water, thinking maybe dehydration was a trigger, but that hasn't made a noticeable difference."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Definitely light and noise make it much worse—that's why I have to shut myself in a dark, quiet room. Stress also seems to be a trigger. The only thing that helps even a little is lying still in the dark, but it doesn't stop the migraine, just makes it more bearable until it passes."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really disruptive, honestly. As a software engineer, I'm staring at screens all day, and when a migraine hits, I can't work at all—I'm practically useless. I've had to take a few sick days and leave early multiple times. It's also made me more irritable and anxious because I'm constantly worried about when the next one will strike."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all—never have. I do drink occasionally, maybe a glass of wine with dinner once or twice a week, but I've noticed that even that small amount of alcohol can sometimes trigger a headache the next day, though not always. I haven't had any since the migraines got worse, just in"
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. My mother had occasional headaches, but nothing like these migraines. I don't think anyone in my immediate family has been diagnosed with migraines."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had occasional migraines in the past, maybe one every few months, but nothing like this frequency or intensity. It's never been this bad or this consistent before, which is why I'm really concerned now."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Right now, physically I'd say about a 6 or 7—the residual headache from my last episode is still nagging, and I feel drained. Emotionally,"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Just that I've been feeling more drained and anxious overall because of these migraines. The constant worry about when the next one will hit is wearing me down, and I've noticed I'm more tired than usual, even on days without a headache."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to manage by avoiding triggers as much as I can—wearing sunglasses indoors sometimes, dimming my screens at work, and taking breaks. But honestly, it feels like I'm just tiptoeing around my own life, and the unpredictability is making me more irritable and anxious. I'm hoping we can find something more effective than ibuprofen to either prevent them or stop them when they start."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to adapt by avoiding triggers like bright lights and loud noises, and I've adjusted my workspace at home to be more dim and quiet. But it's honestly been exhausting—I feel like I'm walking on eggshells, and it's taking a toll on my mood and focus. I'm really hoping we can find a better solution so I can stop worrying about when the next one will hit."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've been managing as best I can, but it's wearing me down—the constant vigilance against triggers and the disruption to my work and sleep are making me more irritable and anxious. I really need something that works better than ibuprofen to get some control back."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I appreciate you asking, but I think I've mentioned how it's been affecting me—between the missed work, the disrupted sleep, and the constant worry, it's just been really draining. I'm doing my best, but I'm hoping we can focus on finding a treatment that actually helps."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I've already explained a few times—trying to avoid triggers, adjusting my environment, but it's exhausting and I'm getting frustrated. Can we please talk about what can actually be done for these migraines?"
+    }
+  ]
+}

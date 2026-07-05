@@ -1,0 +1,207 @@
+{
+  "profile_id": "P001",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've had this cough for about two weeks now. It started off as just a little tickle, but it hasn't gone away. What really worries me is that when I walk up the stairs at school or even just a quick flight at home, I feel like I can't catch my breath properly. It's like I'm breathing but the air isn't quite getting there."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The cough started about two weeks ago, but the shortness of breath has only been noticeable for the last four or five days. At first I thought it was just from being tired or maybe allergies, but it's not letting up."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain, more like a tightness or heaviness in the center of my chest when I try to breathe deeply or exert myself. Sometimes I also feel a bit of an ache around my ribs after a bad coughing spell, but the main discomfort is that heavy, stuffed-up feeling in my chest."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I've been checking my temperature because I was worried, but it's been normal the whole time."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any regular prescription medications right now. I've just been taking some over-the-counter cough syrup and lozenges, but they don't seem to be doing much. Sometimes I take ibuprofen if my chest feels really achy, but that's not often."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have mild asthma, but I've always managed it well. I use an inhaler only when I really need it, and I haven't had to use it much in the past year. That's partly why I'm a bit concerned - this breathlessness feels different from my usual asthma symptoms."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to penicillin. I found out years ago when I took it for a sinus infection and broke out in a rash. Nothing too severe, but the doctor at the time said to avoid it. I don't have any other allergies that I know of."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been using my rescue inhaler a couple of times, but it doesn't seem to help as much as it usually does for my asthma. I also tried drinking hot tea with honey and using a steam shower to loosen things up, but the cough just keeps coming back, especially at night."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting and sitting upright definitely helps me breathe easier. But lying down seems to make the cough worse, especially at night when I'm trying to sleep. And any kind of physical activity, like walking up stairs or carrying things, really brings on that breathless feeling."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty disruptive, honestly. I'm a teacher, so I'm on my feet a lot, and I've been really struggling to get through the school day. Taking the stairs between floors has become a real challenge, and I feel embarrassed having to pause and catch my breath in front of students. At home, I'm exhausted by evening and I haven't"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked cigarettes or anything like that. I do have a glass of wine maybe once or twice a month with friends, but nothing regular. I don't think it's related to the cough. I work in a school, so I'm around a lot of kids, but no one smokes around me."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No one in my immediate family has had a cough or breathing trouble like this recently. My mother has asthma too, but hers is well-controlled, and she's never had a spell like this. So I'm not sure if it's genetic or just bad luck."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had asthma flare-ups before, but they usually responded well to my inhaler. This time it feels different—more like a heaviness in my chest and the cough is much more persistent. I've never had a cough last this long or felt this out of breath from just a bit of walking."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's maybe a 2 or 3—not constant pain, just that uncomfortable tightness and the worry when I can't breathe. Emotionally, it's more like a 3 or 4. I'm anxious because it's not going away like I expected, and it's starting to interfere with my work and sleep. I just want to figure out what's wrong so I can get back to normal."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think I've covered most of it. Oh, one thing—I did take a home COVID test last week, and it came back negative. I also work with a lot of young kids who always seem to have runny noses and coughs this time of year, so I may have picked something up from them. Other than that, I don't have anything else I can think of. I'm just hoping we can figure out what's going on so I can breathe easier and get back to teaching without worrying."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to take it easy when I can, but honestly, it's hard because I feel like I need to keep up with my responsibilities. My coworkers have been helpful, offering to cover some of my busier moments, and I've been sitting down more during breaks instead of running around. But it's frustrating—I don't like feeling limited, and"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to rest more and not push myself, but it's hard because I'm used to being active and on top of things. I've been using my inhaler and staying hydrated, but I'll admit I've been worrying about it more than I let on. It helps to talk to you and finally get this checked out properly."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to rest more and not push myself, but honestly it's been tough. Part of me wants to just power through it, but the breathlessness forces me to slow down whether I like it or not. I've been drinking more fluids and using my inhaler, but deep down I'm pretty worried—I just keep hoping it'll go away on its own."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I already mentioned it a bit, but I'm just taking it day by day and trying not to stress too much. I'm doing my best to rest, use my inhaler when needed, and hope for answers. That's really all I can do right now."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I've just been trying to manage as best I can—resting when I need to, using my inhaler, and hoping it passes. I haven't wanted to make a big deal out of it, but I'm glad I came in today. I think I needed to hear that it's okay to ask for help."
+    }
+  ]
+}

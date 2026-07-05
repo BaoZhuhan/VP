@@ -1,0 +1,207 @@
+{
+  "profile_id": "P006",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "My left arm hurts real bad and I'm sweaty all over. I'm scared it might be a heart attack."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Started about an hour ago. I was driving my truck and it just came on."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's a dull ache down my left arm, from shoulder to my elbow. And my chest feels tight too, like something's sitting on it."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No fever. Just the pain and sweating, and I feel kinda sick to my stomach too."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a couple things for my blood pressure and some pills for my sugar, but I can't remember the names. I think it's metformin and something else."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, I got high blood pressure and diabetes. That's what the pills are for."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "No, I just came straight here. Didn't know what else to do."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Nothing makes it better. It just stays the same. Moving around might make it feel a little worse, but I ain't trying to do much."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Well, I couldn't finish my route today. Had to pull over and call my boss. Can't drive when I feel like this."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I smoke about a pack a day. Been doing that for 20 years. And yeah, I drink some beer on weekends, nothing crazy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yeah, my dad had a heart attack when he was about my age. He didn't make it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. Sometimes I get heartburn or feel a bit winded, but nothing like this. This is different."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically it's maybe an 8. Emotionally? I'm scared out of my mind, so that's a 10."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "No, that's it. Just please do something fast, this ain't normal for me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I'm just sittin' here waitin', tryin' not to panic. I need this dealt with fast."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Just tryin' to keep breathing and hoping you guys help me quick."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I already told you, I'm just sitting here trying not to lose it. What more do you want me to say? Just help me."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm coping by waiting for you to help me, that's all. I'm not doing anything else. My arm hurts and I'm scared - I need you to do your job."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm not coping well, alright? I told you, I'm scared. Just please stop asking that and tell me what's going on."
+    }
+  ]
+}

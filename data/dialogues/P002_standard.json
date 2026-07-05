@@ -1,0 +1,207 @@
+{
+  "profile_id": "P002",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Can't breathe, doc. Started a few days ago, just keeps getting worse. Feels like I'm drowning."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Three days ago. It was bad then, now it's real bad. Can't even walk to the bathroom without gasping."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Right here in my chest. It's tight, like something's squeezing me. Coughing brings up thick, sticky stuff."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No fever. Just the trouble breathing and the tight chest."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just my heart pill and a water pill. Can't remember the names. Little blue one and a white one."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, got a bad heart. Had breathing trouble before, but nothing like this. Doctor said something about my lungs before too."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Don't think so. I've had penicillin before, broke out in a rash. That's it."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Ain't got no inhaler. Just tried sitting up, but that don't help. Nothin' works."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Lying down makes it worse. Can't breathe at all flat. Sitting up helps a little, but not much."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Can't do nothin'. Can't sleep, can't eat, can't even get my own water. Just sittin' here starin' at the wall, fightin' for air."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "Used to smoke. Quit a few years back. I'll have a beer now and then, but not much."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My old man had breathing problems. Not sure what exactly, but he was always coughing. Died in his sixties from somethin' with his lungs."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Yeah, had some breathing trouble a couple years ago. But nothin' like this. This is way worse. Never felt this bad before."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physical pain, maybe a 9. Chest feels like it's gonna explode. Emotionally? I'm scared, doc. Real scared. That's a 10."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Just that it came on fast. Felt like a cold at first, then this heaviness hit. Now I can't even get across the room."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I ain't copin'. I'm just tryin' to breathe. Can't think straight. Nothin' helps. Just sittin' here waitin' for you to fix me."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Told you, I ain't. Just gaspin' and waitin'. That's all I can do right now."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm not copin'! I'm just tryin' to stay alive. Please, doc, just help me. I can't keep doin' this."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm dyin' here. That's how I'm copin'. Now can you please just do somethin'? I can't keep answerin' this."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I already told you! I ain't copin'! I'm suffocatin'! Are you listenin' to me? Just help me breathe!"
+    }
+  ]
+}

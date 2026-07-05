@@ -1,0 +1,207 @@
+{
+  "profile_id": "P005",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been experiencing episodes of heart palpitations - about three to four times daily. They last roughly a minute each, and when I check my pulse during these episodes, I can feel it's irregular. I'm a retired nurse, so I'm fairly confident in my pulse assessment."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago. At first it was just once or twice a day, but it's become more frequent over the past week. I've been keeping a little log, actually - I'd say it's happening three to four times daily now."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no actual pain, just a fluttering sensation right in the center of my chest, around the precordial area. It feels almost like my heart is doing a little skip or a flip, and then it settles back to normal after about a minute. No radiation to the arms or jaw, and no shortness of breath accompanying it."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I've been monitoring my temperature daily since this started, just out of habit from my nursing days, and it's been perfectly normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm currently on lisinopril 10 mg daily for hypertension, metformin 500 mg twice a day for type 2 diabetes, and a baby aspirin once daily. I also take a multivitamin and vitamin D supplement, but I don't think those are relevant here."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypertension and type 2 diabetes, both of which I mentioned are well-controlled with my current medications. I also have osteoarthritis in my knees, but that's managed with over-the-counter acetaminophen as needed. And I have GERD, though that's mostly under control with diet modifications."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to penicillin - it gives me hives, so I've been avoiding that class of antibiotics. I also have a mild sensitivity to codeine, as it makes me quite nauseous. Other than that, I've never had any issues with medications."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "No, I haven't taken anything specifically for the palpitations. I've just been monitoring them closely. I did check my blood pressure during an episode once, and it was 128/76, which is normal for me, so that was reassuring. Since I'm not in any pain and the episodes are brief, I wasn't sure if I should try anything."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Actually, I've noticed they tend to happen more when I'm active - like when I'm walking to the mailbox or doing light housework. Resting seems to help them subside. Lying down doesn't necessarily trigger them, but I have noticed they occur less frequently when I'm sitting quietly reading or watching television."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It hasn't stopped me from doing anything yet, but I'll admit I've become a bit more cautious. I used to take my daily walks without a second thought, but now I find myself staying closer to home just in case an episode happens. It's a nagging worry in the back of my mind rather than a complete disruption, but I'd like to get to the bottom of it before it gets worse."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked, and I only have an occasional glass of wine at family gatherings - maybe once every few months at most. I haven't had any alcohol since these palpitations started, just to be on the safe side."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had atrial fibrillation in his later years - he was in his 80s when it started. My mother had hypertension but no documented heart rhythm problems. My older sister has mentioned occasional palpitations, though hers are benign and she's never needed treatment."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything quite like this before. I've had the occasional skipped beat or fluttering feeling maybe once or twice a year in the past, but nothing that lasted this long or happened this frequently. This is definitely a new pattern for me, which is why I wanted to get it checked sooner rather than later."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's fairly mild - maybe a 2 out of 10, just that fluttering sensation but no real pain or discomfort. Emotionally, I'm probably at a 3 or 4 out of 10. It's not constant fear, more of a wary vigilance. I'm a retired nurse, so I know enough to be concerned when heart rhythms change, but I also know most palpitations aren't immediately dangerous. I just want to make sure we catch whatever it is early."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Yes, I should mention that I had an ECG done at my primary care physician's office last week. The nurse said it was normal, but I wasn't having palpitations at the time, so I'm not sure how reliable that snapshot is. I also have my glucose and blood pressure logs with me if you'd like to see them."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been managing well enough. I keep telling myself that knowledge is power, so I've been logging everything meticulously and staying up to date on my readings. My daughter calls me every evening to check in, which helps ease my mind a bit. I'm not letting this consume me, but I'd be lying if I said I wasn't eager to get some answers today."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm doing okay, honestly. I keep busy with my crossword puzzles and I've been reading more to take my mind off things. My background as a nurse helps - I know the difference between being cautious and being anxious, and I think I'm managing that line well. I'll admit there are moments, especially when I feel that flutter, when I get a little worried, but I take a deep breath and remind myself that I'm taking the right steps by being here with you today."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've been handling it reasonably well. I'm a practical person by nature, so I've approached this the same way I would have as a nurse - documenting symptoms, noting patterns, and seeking professional advice at the right time. There's some underlying worry, of course, but I feel much better now that I'm here talking to you about it."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, I feel like I've already answered this a couple of times. I'm coping well overall, but I think the repetition makes me wonder if you're sensing something I'm not saying. To be completely honest, there are quiet moments - usually late at night - when I do worry a bit more. But I've been talking with my daughter about it, and being here with you now has been reassuring."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I appreciate you asking, but you've actually asked me this question about four times now. I'm coping just fine, really - I'm a retired nurse, I know how to manage my health concerns logically. If there's something specific you're worried I'm not telling you, please just ask me directly. I'd rather we focus on figuring out what's causing these palpitations."
+    }
+  ]
+}

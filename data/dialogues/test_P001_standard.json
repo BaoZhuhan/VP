@@ -1,0 +1,87 @@
+{
+  "profile_id": "P001",
+  "strategy": "standard",
+  "total_turns": 8,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've had this cough for about two weeks now. It started off kind of mild, but it just won't go away. And something else that's really worrying me is that when I walk up the stairs at school, I sometimes feel like I can't catch my breath. That's never happened to me before."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The cough started about two weeks ago, right after a bad cold I had. As for the breathlessness, I think that started maybe five or six days ago—it's hard to say exactly, but it's been getting more noticeable."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I wouldn't say it's sharp pain, more of a tight, heavy feeling right in the center of my chest. It's not constant—it mostly happens when I'm active or when I have a bad coughing spell. It's almost like someone's pressing down on me from inside, if that makes any sense."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "I haven't had a fever that I've measured, but I did feel a little flushed and clammy one evening last week. No real chills, though. Mostly it's just the cough and that heavy chest feeling that bother me."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on anything regularly, just an over-the-counter allergy pill sometimes when the seasons change. I do have an old inhaler from a few years ago, but I haven't needed to use it until this past week—I tried it once or twice for the breathlessness, but it didn't seem to help much."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions that I'm aware of. I've always been pretty healthy, just occasional colds and seasonal allergies."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've taken things like ibuprofen and antibiotics before without any problems."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been drinking lots of warm tea with honey, and I've been trying to rest more, but it doesn't seem to make a difference. I also took that old inhaler I mentioned a couple of times, but it barely touched the tightness, so I stopped using it."
+    }
+  ]
+}

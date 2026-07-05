@@ -1,0 +1,207 @@
+{
+  "profile_id": "P005",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been experiencing episodes of heart palpitations - probably three to four times a day. They last about a minute each, and when I checked my pulse during one of these episodes, it felt irregular and skipping beats. I'm usually pretty healthy, so I thought it was worth mentioning during this routine visit."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about two weeks ago, very suddenly. I remember I was just sitting reading, not exerting myself at all, when I felt my heart skip a couple of beats. Since then it's been happening pretty regularly throughout the day."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no real pain, to be honest. It's more of a fluttering sensation right in the center of my chest, maybe slightly to the left. Sometimes it feels like my heart is doing a little somersault, but it's not sharp or crushing — just unsettling. I'd call it more of an awareness of my heartbeat than actual discomfort."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills at all. I've been feeling perfectly fine otherwise - no sweats, no nausea, just these episodes of fluttering that come and go. I've been taking my temperature each morning out of habit, and it's been normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on lisinopril 10 mg daily for my blood pressure, and atorvastatin 20 mg for cholesterol. I also take a baby aspirin - 81 mg - each morning. I've been on these for years with no issues."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have high blood pressure and high cholesterol, both well-controlled with my medications. I also have mild osteoarthritis in my knees, but that's really it. No diabetes, no thyroid issues, and no history of heart problems until now, as far as I know."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known drug allergies. I've been on quite a few different medications over the years and never had a reaction to any of them."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I haven't tried anything specific yet. I thought about taking an extra deep breath or sitting down when it happens, but honestly, the episodes are so brief I just wait for them to pass. I did notice that changing my position or taking a few slow breaths didn't seem to stop it one way or another."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, I haven't found a clear pattern. It doesn't seem to matter if I'm active or resting, and coffee doesn't seem to make it worse - I've tested that a few times. If anything, lying down quietly sometimes seems to help the fluttering settle faster, but it's not consistent."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It hasn't stopped me from doing anything yet, but I'll admit I'm more aware of my heartbeat throughout the day. As a retired nurse, I find myself checking my pulse more often than I probably should - it's made me a bit hypervigilant. I'm still going about my normal routine, though I have been avoiding heavy yard work just in case."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke - about half a pack a day - but I quit 25 years ago. As for alcohol, I might have a glass of wine at a family dinner or on holidays, but that's maybe once every couple of months. Definitely not a regular thing."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, actually. My father had atrial fibrillation later in life - he was in his 80s when he was diagnosed. And my older brother, who is 76 now, was just diagnosed with paroxysmal atrial fibrillation about two years ago. So there's definitely a family pattern there."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. This is completely new to me. I've always had a very steady, regular heartbeat during my annual checkups, so these palpitations are quite unusual for my experience. The only time I remember feeling anything close was once during a very stressful period about 10 years ago, but that was just a single skipped beat, nothing like these recurring episodes."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's a 1 - just that fluttering sensation with no real pain or discomfort to speak of. Emotionally, I'd put it at a 3. I'm not overly worried, but I am paying closer attention to my body than usual, and knowing my family history makes me want to be sure everything's okay. I'd rather address it now than wait."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "One other thing - I did have a brief episode of dizziness yesterday, just for a few seconds during one of the fluttering spells. It wasn't severe enough to make me stagger or fall, but I did have to pause and steady myself against the counter. I should have mentioned that sooner."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I'm managing fine, really. I've been trying to stay calm and logical about it - it helps that I understand what these symptoms could mean from my nursing background. I'm not losing sleep or avoiding activities, but I am mindful and keeping a little log of the episodes in case you needed that. I'd say I'm cautiously curious rather than frightened, but I'll be relieved once we know exactly what's going on."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been coping pretty well, all things considered. I know enough from my years in nursing to keep a level head and not jump to worst-case scenarios. My husband has been supportive, and I've made sure to stay active and not obsess over every little twinge. I'm just ready to get some answers and a plan - that will help me feel fully at ease."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've been handling it quite well, honestly. I'm not panicking or letting it consume my days, but I do keep a mental note of each episode. My husband has been great about it - he jokes that my nursing instincts are kicking in, but I think he's quietly a little worried. I'm just taking it one day at a time and trusting you'll help me figure it out."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I appreciate you asking, but I think we've covered that pretty well. Overall, I'm coping just fine - my background helps me stay grounded. I'm more focused on getting to the bottom of these palpitations than on any worry, so I'm ready for whatever next steps you recommend."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I've already mentioned that I'm coping fine — I think we've covered that. Is there something specific you're concerned about that makes you keep asking? Otherwise, I'd really like to move forward and hear what you recommend for these palpitations."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "profile_id": "P007",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been dealing with frequent migraines over the past month - about twice a week. They're really intense, and the photophobia is severe. I can't even keep my eyes open when the light hits them, which has been interfering with my work and daily life."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started pretty abruptly about four weeks ago. I've had occasional headaches before, nothing like this, but now they're coming with this awful sensitivity to light and sometimes nausea, and they last anywhere from four to twelve hours. The pattern has been getting worse rather than better."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is usually on one side of my head, like a throbbing or pounding sensation right behind my eye and temple. It starts as a dull ache and then builds into this intense pressure that radiates to the back of my skull. At its worst, I just have to lie still in a dark room - any light or movement makes it spike."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills at all. I've been checking my temperature because I wondered about that too, but it's always normal. It's really just the headache and the light sensitivity - nothing that feels like an infection."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I've been taking ibuprofen 400 mg when the migraine starts, but it barely touches the pain. I also tried sumatriptan that a friend gave me once, and that helped a little, but I don't have a prescription for it. Otherwise, I don't take any daily medications right now."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have hypothyroidism, which is well-controlled with levothyroxine. Other than that, I don't have any chronic conditions like diabetes or high blood pressure. I do have a history of tension headaches and some TMJ issues, but nothing like these migraines before."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've taken ibuprofen and other NSAIDs without any problems, and the sumatriptan didn't cause any allergic reaction either."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been lying down in a completely dark room with a cold cloth on my forehead, which helps take the edge off, but the pain always comes back once I get up. I've also tried caffeine, but that seemed to make it worse. The sumatript"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, the only thing that helps is complete darkness and silence. Light is torture, and even slight noise makes the throbbing worse. On the flip side, I've noticed that skipping meals or not sleeping well seems to trigger them. Also, looking at computer screens for long stretches at work definitely makes the pain ramp up."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really disruptive. As a software engineer, I'm in front of screens all day, and I've had to take multiple sick days or leave early because the light sensitivity makes it impossible to work. I'm also irritable and anxious, constantly worried about when the next one will hit, which is affecting my focus and mood at home too."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink alcohol socially, maybe a glass of wine once or twice a week, but I've actually cut back recently because I noticed it sometimes seems to trigger a migraine the next day."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my mother has a history of migraines, though hers started later in life, in her early 50s. Her pattern sounds very similar to mine — one-sided throbbing, light sensitivity, and nausea. I know genetics can play a role, so that might be relevant."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've never had migraines like this before. I've had the occasional tension headache — that dull, band-like tightness around my forehead — but these are completely different. The one-sided pounding, the light sensitivity, the nausea — it's new territory for me, and honestly, it's scary. I did notice a weird visual aura before the last one, like shimmering zigzags in my vision, which I've never experienced."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Right now, physically, it's a solid 8 out of 10 — the throbbing behind my eye is intense and I'm having to squint even in this dim light. Emotionally, I'd say I'm around a 7 or 8 as well, mostly because I feel so helpless and frustrated that I can't predict when the next one will hit or do anything to stop it. It's wearing me down."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "One thing I didn't mention — before the last migraine, I saw shimmering zigzag lines in my vision for about 15 minutes, then it faded into the headache. That's never happened before, and it really unnerved me. Also, my work schedule has been stressful lately with tight deadlines, so I'm wondering if that's a contributing factor."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, not very well. I've been pushing through at work during the day and then crashing at home, avoiding anything that might trigger another attack. It's made me withdrawn and on edge — I snap at my family and cancel plans because I'm afraid to be in bright environments. I'm just trying to get by, but it feels unsustainable."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think I've been barely keeping my head above water. I've been isolating myself at home, canceling social plans, and feeling constantly on edge. My sleep has been disrupted because I'm afraid to wake up with another migraine, and I'm just feeling pretty defeated by the whole situation. It's hard to see this getting better on its own."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm sorry, I feel like I've already described this a couple times. But to summarize: it's been really tough — I've withdrawn from friends and family, I'm irritable and anxious constantly, and my sleep is a mess. I just want to get back to feeling like myself."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think I've mentioned this already, but essentially, I'm coping poorly — I'm irritable, withdrawn, and anxious all the time. I know I need help because this isn't sustainable, which is why I came in today."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I apologize if I'm repeating myself — I know you've asked this a few times. To be direct: I'm not coping well at all. The constant fear of the next migraine, the light sensitivity, the lost time at work and with my family — it's taking a real toll on my mental health. That's the main reason I'm here today, because I need a plan to break this cycle."
+    }
+  ]
+}

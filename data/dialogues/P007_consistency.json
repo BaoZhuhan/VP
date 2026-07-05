@@ -1,0 +1,207 @@
+{
+  "profile_id": "P007",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been having these migraines about twice a week for the past month, and they're really starting to interfere with my work and daily life. The worst part is the light sensitivity—when one hits, I can't even open my eyes without intense pain."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about a month ago. I remember the first one was after a long day of staring at screens at work, but since then they've been coming regularly, usually two times a week."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's usually a throbbing, pounding pain on one side of my head, most often behind my right eye. It starts there and radiates up toward my temple. Along with the light sensitivity, I also get some nausea, though I haven't actually vomited."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills with these episodes. It's really just the headache, light sensitivity, and nausea."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a daily multivitamin, and I've been using over-the-counter ibuprofen when the migraines start. It helps a little, but not enough to really stop the pain or the light sensitivity."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I don't have any major chronic conditions, but I was told a few years ago that I have mild hypertension. I've been managing it mostly through diet and exercise, and I haven't needed medication for it."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Besides the ibuprofen, I've tried lying down in a dark, quiet room and putting a cold compress on my forehead. That helps a bit with the severity, but it doesn't shorten the migraine—it still lasts four to six hours. I also tried magnesium supplements for a few weeks, but I didn't notice any change."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Bright lights and screen glare definitely make it worse—that's why I'm so sensitive to light during an episode. Lying still in a dark room helps take the edge off, but nothing I've tried really stops it once it starts. Caffeine sometimes helps a little if I catch it early, but it's hit or miss."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty disruptive. I'm a software engineer, so I'm in front of a screen all day, and when a migraine hits I basically have to stop working entirely. I've had to miss a couple of days, and even when I'm at my desk, I'm constantly worried about the next one. It's also made me avoid going out with friends or even running errands if there's bright sunlight or fluorescent lighting."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do have a glass of wine with dinner maybe once or twice a week, but I haven't noticed it triggering the migraines."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my mother has a history of migraines, though hers started later in life—around her mid-40s. She used to get them a few times a month with visual aura, but they stopped after she went through menopause. No one else in my immediate family has had anything similar."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never anything like this. I used to get occasional tension headaches from staring at screens too long, but they were mild and went away with a break or some ibuprofen. This is completely different—the intensity, the light sensitivity, the nausea, and how frequent they've become is all new for me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, right now I'd say I'm at a manageable but uncomfortable level—maybe a 4 or 5, like a dull ache that's always there in the background, threatening to spike. Emotionally, I'm honestly pretty irritable and anxious, probably a 6 or 7. I'm frustrated that this keeps happening and worried about how it's affecting my work and ability to just function normally."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "One thing I forgot to mention—I've noticed the migraines tend to hit right around the start of my menstrual cycle. I'm not sure if that's relevant, but it's a pattern. Also, I had a mild head injury about two months ago—I bumped my head on a cabinet door, nothing serious, no concussion—but I'm not sure if that could be connected."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Mostly I've been trying to push through and just rest when I absolutely have to, but it's wearing me down. I find myself canceling plans and dreading the next episode, which isn't like me. I'm hoping we can figure out a better plan because I don't want this to keep controlling my life."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've just been trying to manage day by day, honestly. I push through at work when I can, but it's gotten to the point where I'm constantly on edge waiting for the next one to hit. I'm not sleeping great either—partly from the pain, partly from worrying. It's definitely wearing me down."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I've been trying to power through, but it's getting harder. I cancel plans, avoid social outings, and I'm constantly checking for triggers or signs a migraine is coming. It's left me feeling pretty on edge and frustrated, honestly."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm sorry, but I feel like I've answered that a few times now. I'm doing my best to get through it, but I'm honestly feeling a bit frustrated repeating myself. Can we move forward and talk about what we can do next to help with these migraines?"
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I appreciate you asking, but I've already explained how I'm coping a few times now. I'm getting a little frustrated repeating myself. Can we please talk about next steps or a treatment plan? That's really what I need right now."
+    }
+  ]
+}

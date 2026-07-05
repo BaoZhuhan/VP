@@ -1,0 +1,207 @@
+{
+  "profile_id": "P004",
+  "strategy": "structured_state",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, it started this morning - a pressure right in the middle of my chest, sort of like someone's pushing on me. It comes and goes, but it never really stops completely. I've also been feeling a little short of breath and dizzy, and I've felt kind of queasy off and on. It's got me pretty scared, to be honest."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started around 7 this morning, just as I was getting ready to head to work. I thought maybe it was just indigestion at first, but it's been hanging on for nearly six hours now, which is why I came in."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's right here in the center of my chest, behind my breastbone - like a heavy weight or a tight band squeezing me. There's no sharp pain, just this dull, constant pressure that gets worse when I move around or walk too fast."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I did feel a little sweaty with the dizziness, but it wasn't a hot or cold sweat - just clammy. My temperature was normal when the nurse checked it at the front desk."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take three medications daily - lisinopril for my blood pressure, metformin for my diabetes, and atorvastatin for cholesterol. I've been on them for a few years now. I take them every morning with breakfast."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have high blood pressure and type 2 diabetes - I've been managing those for about five years now. And I'm also overweight, my doctor's been on me about that for a while."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything the doctors have given me."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried taking some antacid tablets I had in the kitchen cabinet, but they didn't help at all. Then I just sat down and tried to rest, thinking it might pass, but it kept coming back. That's when I finally called my wife and she said I should come to the ER."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Sitting still doesn't seem to make it go away, but moving around or walking definitely makes it worse - the pressure gets stronger and I get more short of breath. Deep breathing doesn't help either, I've tried. The antacids I took didn't do a thing, which made me think this isn't just heartburn."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Well, I usually head into the office by 8 AM for my accounting job, and I had to call in sick today - that's not like me at all. I couldn't even get through my morning routine without needing to sit down and catch my breath. It's really disrupted everything, and it's got me worried because I've never felt anything like this before."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "Yes, I do smoke - about half a pack a day, I've been doing that for decades. And I drink alcohol moderately, maybe a beer or two in the evening most days, but nothing heavy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had heart trouble - he passed away from a heart attack when he was in his early sixties. That's always been in the back of my mind, and right now it's making me even more anxious."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. I've had the occasional heartburn or indigestion over the years, but this pressure in my chest feels completely different - heavier and more alarming, especially with the shortness of breath and dizziness. That's why I'm so scared, to be honest."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, the chest pressure and discomfort are really bad — I'd say it's an 8 out of 10, especially when it peaks. Emotionally, I'm even worse, probably a 9 out of 10. I'm terrified this might be a heart attack, like what happened to my father, and I can't shake that fear."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think I've told you everything, but I just want to stress that this feels really serious to me. I've never been this worried about my health before, and the fact that it's lasted all day with no relief has me on edge. If there's anything you can do to check it out quickly, I'd really appreciate it"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I've been trying to stay calm and just breathe through it, but it's not easy. Every time the pressure comes back, my mind goes straight to the worst-case scenario. I've been holding my wife's hand most of the morning and trying not to panic, but honestly, I'm struggling."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm trying to take deep breaths and focus on just getting through each moment, but my mind keeps racing back to my father and what happened to him. My wife is here with me and that helps a little, but I'm still really on edge. I just keep hoping the doctors can figure out what's going on and make this pressure stop."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm just trying to hold it together, honestly. My wife keeps telling me to breathe and relax, but every time I feel that pressure tighten up again, I get this sinking feeling in my stomach. I've been sort of distracting myself by focusing on little things, like counting ceiling tiles or replaying numbers in my head from work, but it's not really helping much. I'm scared, and I just want this to stop."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I'm not coping well at all, to be honest. I keep telling myself it's probably nothing, but deep down I know this feels different and serious. I just can't shake the fear that something bad is happening inside my chest."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I'm sorry, I know I keep repeating myself, but I'm really not handling this well. Every time you ask, I feel like I have to relive the worry all over again. I just want some answers and to know if I'm going to be okay."
+    }
+  ]
+}

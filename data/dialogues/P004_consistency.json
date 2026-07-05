@@ -1,0 +1,157 @@
+{
+  "profile_id": "P004",
+  "strategy": "consistency",
+  "total_turns": 15,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been having this pressure in the middle of my chest since this morning. It sort of comes and goes, but it hasn't really stopped all day. It's worrying me quite a bit, to be honest."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started around 9 o'clock this morning. I was at my desk, just starting on some paperwork, when I first noticed it. It wasn't too bad then, but it's been bothering me off and on ever since."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It feels like a heavy pressure, right in the center of my chest, behind my breastbone. Not really a sharp pain, more like someone is pressing down or squeezing from the inside. Sometimes it radiates a little toward my left shoulder, but mainly it's right there in the middle."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't noticed any fever or chills. I don't feel hot or cold, just that pressure in my chest. I did take my temperature earlier because I was worried, but it was normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a couple of things for my blood pressure and cholesterol — a small white pill in the morning and a larger one at night. I also take an aspirin every day, on my doctor's advice. I don't have the bottles with me, but I can tell you the names if you need them."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have high blood pressure and high cholesterol. My doctor's been managing those for a few years now. Other than that, I'm generally pretty healthy, though I know I could stand to lose a few pounds."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to penicillin. I found out a few years ago when I had a rash from it. Nothing else that I know of, though."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I took an antacid around noon, thinking it might just be indigestion, but it didn't help much. I've also been trying to sit still and breathe slowly, but the pressure keeps coming back. My wife told me to come in, said it's not worth taking chances."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting helps a little, but not completely. If I move around too much, like walking to the kitchen, it seems to get a bit stronger. It doesn't go away with changing positions, and like I said, the antacid didn't do anything."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Well, I couldn't focus on work at all today. I work from home sometimes, and I kept stopping what I was doing just to pay attention to how I was feeling. It's been hard to concentrate, and honestly, it's been a little frightening. I'm"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke about half a pack a day, but I quit about ten years ago. As for drinking, I'll have a glass of wine with dinner maybe two or three times a week, but nothing heavy. My doctor already told me to keep it moderate, so I do."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had a heart attack when he was about my age, maybe a little older. He survived it, but it was a real scare for the whole family. I've always tried to be careful, but that's part of why I'm so worried right now."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this. I've had heartburn before, but this feels different — heavier and more persistent. That's why I decided to come in. I don't usually run to the emergency room for things, but this time it just feels different."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say it's around a 6 or 7 right now — not the worst pain I've ever felt, but it's steady and worrying. Emotionally, I'm probably at a 7 or 8. I'm pretty scared, to tell you the truth. I've been trying to stay calm for my wife's sake, but I know what this could mean."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers everything, honestly. I just want to know what's going on so I can get through this. Thank you for taking me seriously — I know I'm not the type to make a fuss, but I had a bad feeling today, and I'm glad I came in."
+    }
+  ]
+}

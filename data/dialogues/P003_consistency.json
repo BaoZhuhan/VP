@@ -1,0 +1,207 @@
+{
+  "profile_id": "P003",
+  "strategy": "consistency",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Hi, thanks for seeing me. I’ve had a sore throat and a dry cough for about three or four days now. It started with a scratchy feeling in my throat, and the cough has been persistent, especially at night. My roommate was sick with the flu last week, but I don’t have a fever or body aches, so I’m hoping it’s just a cold. I just wanted to get it checked out to be safe."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about four days ago. First it was just a mild scratchiness in my throat, and then the cough developed a day later."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The soreness is mostly in the back of my throat, right around my tonsils—it feels raw and scratchy, like I’ve been breathing dry air or talking too much. It’s not sharp or stabbing, just a constant dull discomfort, especially when I swallow. The cough feels like it’s coming from my upper chest or throat, and it’s dry with no phlegm."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "I’ve been checking my temperature regularly, and it’s been normal—around 98.6°F or 98.8°F at most. No chills or sweats either, though I did feel a bit chilly one evening, but it passed quickly after I had some warm tea."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I’m not on any prescription medications right now. I did take some over-the-counter lozenges and drank a lot of honey and lemon tea for my throat, but nothing stronger than that."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don’t have any chronic medical conditions. I’m generally healthy and don’t have any ongoing issues like asthma, diabetes, or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I’m not allergic to any medications as far as I know. I’ve taken common antibiotics and pain relievers before without any issues."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yes, I’ve been gargling with warm salt water a couple times a day, using a humidifier in my room at night, and drinking warm fluids like tea with honey. I also tried a few menthol cough drops for the scratchiness, but they only provide temporary relief."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The warmth from tea and honey helps ease the scratchiness for a little while, and the humidifier seems to calm the cough at night. But talking for too long or swallowing saliva makes the soreness more noticeable. Dry air also seems to irritate it more."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It’s been mostly manageable, but the cough does wake me up at night, so I’ve been a bit more tired during the day. My focus has been a little off during lectures, and I’ve been skipping the gym since I don’t want to overexert myself."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, and I only drink alcohol occasionally—maybe a glass of wine or a beer at social events, but nothing heavy. I haven't had anything since the symptoms started, just to be cautious."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My parents and siblings are all healthy right now, and none of them have mentioned having a sore throat or cough recently. My roommate had the flu, but she’s already recovered, so I think the timing might just be a coincidence."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I’ve had occasional sore throats and coughs before, usually with a cold, but they typically resolve on their own within a few days. This time, the cough feels more persistent and the throat rawness is a bit more intense than what I’m used to."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I think that covers everything relevant. I’ve been trying to rest and stay hydrated, and I’ll definitely follow whatever advice you give. If you think I need a strep test or anything like that, I’m happy to do it."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "I’ve been managing okay, honestly. I’m not too worried since the symptoms are mild and I don’t have a fever. I’ve just been taking it easy, drinking lots of fluids, and trying to get extra sleep. The only thing that bugs me is the nighttime coughing, but I’m not panicking about it—just a little tired. I figured it was worth checking in to make sure it’s nothing more serious."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I’ve just been taking it day by day, really. Staying hydrated, resting when I can, and trying not to push myself too hard with schoolwork. I’m pretty calm about it overall—just a bit tired from the disrupted sleep. A quick check-up was all I wanted to put my mind at ease."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I’ve been keeping up with my usual routine as much as possible, just with a bit more rest and less socializing. The cough at night is the main annoyance, but I’m not stressed about it—I know these things usually pass. A visit like this is just to be thorough, not because I’m really concerned."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I’ve been doing fine, honestly. I’ve been drinking warm herbal tea with honey, using a humidifier at night, and taking it easy when I can. The cough is a bit annoying but not unbearable, and I’m just glad there’s no fever. I’d rather be proactive and get checked than let it linger."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "I think I’ve been handling it pretty well, all things considered. I’m not overly worried, just a bit tired from the coughing at night. I’ve been resting, drinking fluids, and trying not to let it disrupt my day too much. Honestly, I just wanted to make sure it’s nothing that needs antibiotics or anything beyond what I’m already doing."
+    }
+  ]
+}

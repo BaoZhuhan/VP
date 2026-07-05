@@ -1,0 +1,207 @@
+{
+  "profile_id": "P004",
+  "strategy": "standard",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, it started this morning while I was having breakfast. I felt this strange pressure right in the middle of my chest — not really sharp pain, more like someone pushing on me. It keeps coming and going, but it hasn't gone away completely, and that's been worrying me all day."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started this morning, around 9 o'clock or so, while I was eating some toast and coffee. It just came on suddenly, and it's been going on for several hours now, on and off."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's right in the center of my chest, behind the breastbone. It feels like a heavy, pressing sensation — not sharp, more like a dull tightness. Sometimes it spreads into my left shoulder and even my jaw"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills at all. I haven't felt hot or cold, really — just that concerning pressure in my chest and the tightness in my shoulder and jaw."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on a couple of things for my blood pressure and cholesterol — I think one is called lisinopril and the other is atorvastatin. I'm not entirely sure about the doses, but I take them every morning with breakfast."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Well, I've got high blood pressure and high cholesterol — they've been monitoring that for about five years now. My doctor said they're under control, but obviously with this chest pressure, I'm wondering if something else is going on."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to penicillin. I found out years ago when I got a rash from it. Nothing else that I know of, though."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I took a couple of antacid tablets a few hours ago, thinking it might just be indigestion from my breakfast. But it didn't help at all — the pressure was still there, so that's when I started to get really nervous and decided to come in."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting in my chair seems to take the edge off a little bit, but it doesn't make it go away entirely. Walking or moving around — even just getting up to get a glass of water — seems to make the pressure feel a bit worse. And when I get anxious about it, I think it feels heavier too."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "I ended up leaving work early — I just couldn't concentrate on the spreadsheets with this pressure in my chest and the worry. Normally I'm pretty steady, but today I canceled my lunch plans and just sat in my office, feeling scared something bad might happen."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke about half a pack a day, but I quit about eight years ago when my doctor told me my blood pressure was getting high. As for alcohol, I'll have a glass of wine with dinner maybe once or twice a week, nothing more than that."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had a heart attack when he was about my age — 56, I think. He survived, but it was a big scare for the whole family. My older brother also had bypass surgery a few years ago. So I guess those things are on my mind today too."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not really. I mean, I've had some occasional heartburn in the past, but nothing that felt quite like this. This pressure is different — deeper and more persistent. That's why I got so worried and came to the emergency department instead of just waiting it out."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now — physically, and also emotionally?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Physically, I'd say the pressure is a solid 7 or 8 — it's not the worst pain I can imagine, but it's constant and unsettling. Emotionally, I'm quite scared, maybe an 8 as well. I keep thinking about my dad and brother, and I just want to make sure I'm not having a heart attack."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Well, I also noticed I feel a little short of breath when I walk from the parking lot to my office, but I thought that might just be my anxiety playing tricks. And I've felt a bit nauseous off and on today — not enough to throw up, but just a queasy feeling in my stomach. That's really everything I can think of."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Honestly, not well. I've been trying to stay calm by taking deep breaths and telling myself it's probably nothing serious, but with my family history and the fact that the antacids didn't help, I can't shake the fear. I just keep thinking if I waited any longer, something bad might happen. That's why I came in — I needed someone to check me out and tell me I'm going to be okay."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been trying to keep busy, you know, distract myself with work or TV, but my mind keeps circling back to that pressure in my chest and the fear that it might be something serious. I caught myself checking my pulse a few times today, and that just made me more anxious. So no, I'm not coping very well — I just need to know what's going on."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I'm not coping great, to be honest. I keep going over worst-case scenarios in my head, and every time the pressure comes back, I tense up all over again. I tried watching some TV to take my mind off it, but I couldn't focus — my heart was racing and I just felt really on edge."
+    },
+    {
+      "turn_id": 19,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 19,
+      "role": "patient",
+      "content": "I think the hardest part is not knowing what's happening. Every time I feel that pressure, my mind jumps to the worst, and I just sit there gripping the armrest of my chair, waiting for it to pass. It's exhausting, honestly — I'm not used to feeling this helpless."
+    },
+    {
+      "turn_id": 20,
+      "role": "clinician",
+      "content": "And how have you been coping with all of this?"
+    },
+    {
+      "turn_id": 20,
+      "role": "patient",
+      "content": "Sorry, I know I've been repeating myself a bit — it's just that this whole situation has me on edge. I'm not sleeping well tonight, I keep tensing up every time I feel that pressure, and I can't think about anything else. I'm normally a pretty calm guy, but today has really shaken me."
+    }
+  ]
+}
