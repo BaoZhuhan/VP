@@ -1,0 +1,1068 @@
+{
+  "profiles": [
+    {
+      "patient_id": "P001",
+      "demographics": {
+        "age": 34,
+        "gender": "female",
+        "occupation": "teacher"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "cough",
+        "secondary_symptoms": [
+          "shortness_of_breath",
+          "fatigue"
+        ],
+        "symptom_duration": "1-2_weeks",
+        "disease_severity": 2,
+        "temperature_c": 37.2,
+        "chronic_conditions": [
+          "asthma"
+        ],
+        "medications": [
+          "albuterol"
+        ],
+        "allergies": [
+          "pollen"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 2,
+        "mood": "anxious",
+        "cooperation_willingness": 4,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "respiratory",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I've had this cough for two weeks, and sometimes I can't catch my breath when I walk up stairs."
+      }
+    },
+    {
+      "patient_id": "P002",
+      "demographics": {
+        "age": 67,
+        "gender": "male",
+        "occupation": "retired_construction_worker"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "shortness_of_breath",
+        "secondary_symptoms": [
+          "cough",
+          "fever",
+          "fatigue",
+          "chest_pain"
+        ],
+        "symptom_duration": "3-7_days",
+        "disease_severity": 4,
+        "temperature_c": 38.8,
+        "chronic_conditions": [
+          "COPD",
+          "hypertension"
+        ],
+        "medications": [
+          "lisinopril",
+          "albuterol"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "former",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 5,
+        "pain_level": 4,
+        "mood": "fearful",
+        "cooperation_willingness": 3,
+        "health_literacy": "low",
+        "communication_style": "terse"
+      },
+      "scenario": {
+        "category": "respiratory",
+        "urgency": "urgent",
+        "setting": "emergency_department",
+        "chief_complaint": "Doc, I can barely breathe. It's been getting worse over the last three days and now I feel like I'm drowning."
+      }
+    },
+    {
+      "patient_id": "P003",
+      "demographics": {
+        "age": 22,
+        "gender": "female",
+        "occupation": "university_student"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "sore_throat",
+        "secondary_symptoms": [
+          "cough",
+          "fever",
+          "fatigue"
+        ],
+        "symptom_duration": "3-7_days",
+        "disease_severity": 2,
+        "temperature_c": 37.8,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "penicillin"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 2,
+        "mood": "neutral",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "respiratory",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I've had a sore throat and a cough for a few days. My roommate had the flu but I think I'm fine, just wanted to check."
+      }
+    },
+    {
+      "patient_id": "P004",
+      "demographics": {
+        "age": 55,
+        "gender": "male",
+        "occupation": "accountant"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "chest_pain",
+        "secondary_symptoms": [
+          "shortness_of_breath",
+          "dizziness",
+          "nausea"
+        ],
+        "symptom_duration": "hours",
+        "disease_severity": 5,
+        "temperature_c": 36.9,
+        "chronic_conditions": [
+          "hypertension",
+          "diabetes_type2",
+          "obesity"
+        ],
+        "medications": [
+          "lisinopril",
+          "metformin",
+          "atorvastatin"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "current",
+        "alcohol_use": "moderate"
+      },
+      "affective_attributes": {
+        "anxiety_level": 4,
+        "pain_level": 4,
+        "mood": "fearful",
+        "cooperation_willingness": 4,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "cardiovascular",
+        "urgency": "urgent",
+        "setting": "emergency_department",
+        "chief_complaint": "I've been having this pressure in the middle of my chest since this morning. It comes and goes but it's not stopping."
+      }
+    },
+    {
+      "patient_id": "P005",
+      "demographics": {
+        "age": 72,
+        "gender": "female",
+        "occupation": "retired_nurse"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "palpitations",
+        "secondary_symptoms": [
+          "fatigue",
+          "dizziness"
+        ],
+        "symptom_duration": "1-2_weeks",
+        "disease_severity": 2,
+        "temperature_c": 36.5,
+        "chronic_conditions": [
+          "hypertension",
+          "hypothyroidism"
+        ],
+        "medications": [
+          "lisinopril",
+          "levothyroxine"
+        ],
+        "allergies": [
+          "sulfa"
+        ],
+        "smoking_status": "former",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 1,
+        "mood": "neutral",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "cardiovascular",
+        "urgency": "routine",
+        "setting": "specialist_clinic",
+        "chief_complaint": "I've been noticing my heart fluttering a few times a day. It lasts maybe a minute. I checked my pulse and it feels irregular."
+      }
+    },
+    {
+      "patient_id": "P006",
+      "demographics": {
+        "age": 45,
+        "gender": "male",
+        "occupation": "truck_driver"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "chest_pain",
+        "secondary_symptoms": [
+          "nausea",
+          "fatigue",
+          "numbness"
+        ],
+        "symptom_duration": "hours",
+        "disease_severity": 4,
+        "temperature_c": 37.0,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "ibuprofen"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "current",
+        "alcohol_use": "heavy"
+      },
+      "affective_attributes": {
+        "anxiety_level": 5,
+        "pain_level": 4,
+        "mood": "fearful",
+        "cooperation_willingness": 3,
+        "health_literacy": "low",
+        "communication_style": "terse"
+      },
+      "scenario": {
+        "category": "cardiovascular",
+        "urgency": "urgent",
+        "setting": "emergency_department",
+        "chief_complaint": "My left arm hurts and I feel sweaty. I don't know if this is a heart attack but I'm scared."
+      }
+    },
+    {
+      "patient_id": "P007",
+      "demographics": {
+        "age": 41,
+        "gender": "female",
+        "occupation": "software_engineer"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "headache",
+        "secondary_symptoms": [
+          "nausea",
+          "fatigue",
+          "dizziness"
+        ],
+        "symptom_duration": "1-3_months",
+        "disease_severity": 3,
+        "temperature_c": 36.6,
+        "chronic_conditions": [
+          "migraine",
+          "anxiety_disorder"
+        ],
+        "medications": [
+          "sertraline",
+          "ibuprofen"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 4,
+        "mood": "irritable",
+        "cooperation_willingness": 4,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "neurological",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I've been getting migraines about twice a week for the last month. The light kills me and I can't open my eyes."
+      }
+    },
+    {
+      "patient_id": "P008",
+      "demographics": {
+        "age": 68,
+        "gender": "male",
+        "occupation": "retired_teacher"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "dizziness",
+        "secondary_symptoms": [
+          "numbness",
+          "headache",
+          "fatigue"
+        ],
+        "symptom_duration": "2-4_weeks",
+        "disease_severity": 3,
+        "temperature_c": 36.4,
+        "chronic_conditions": [
+          "coronary_artery_disease",
+          "hypertension"
+        ],
+        "medications": [
+          "metoprolol",
+          "atorvastatin"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "former",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 4,
+        "pain_level": 2,
+        "mood": "anxious",
+        "cooperation_willingness": 4,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "neurological",
+        "urgency": "urgent",
+        "setting": "primary_care",
+        "chief_complaint": "I keep feeling dizzy when I stand up, and yesterday I almost fell. My wife says sometimes my hand shakes."
+      }
+    },
+    {
+      "patient_id": "P009",
+      "demographics": {
+        "age": 29,
+        "gender": "female",
+        "occupation": "graphic_designer"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "numbness",
+        "secondary_symptoms": [
+          "dizziness",
+          "fatigue"
+        ],
+        "symptom_duration": "1-2_weeks",
+        "disease_severity": 2,
+        "temperature_c": 36.7,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 5,
+        "pain_level": 1,
+        "mood": "anxious",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "emotional"
+      },
+      "scenario": {
+        "category": "neurological",
+        "urgency": "routine",
+        "setting": "specialist_clinic",
+        "chief_complaint": "Sometimes my right hand goes completely numb for like an hour. It's happened four times. I'm worried it's MS."
+      }
+    },
+    {
+      "patient_id": "P010",
+      "demographics": {
+        "age": 38,
+        "gender": "male",
+        "occupation": "chef"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "abdominal_pain",
+        "secondary_symptoms": [
+          "nausea",
+          "loss_of_appetite"
+        ],
+        "symptom_duration": "3-6_months",
+        "disease_severity": 3,
+        "temperature_c": 36.8,
+        "chronic_conditions": [
+          "GERD"
+        ],
+        "medications": [
+          "omeprazole"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "moderate"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 3,
+        "mood": "irritable",
+        "cooperation_willingness": 3,
+        "health_literacy": "medium",
+        "communication_style": "terse"
+      },
+      "scenario": {
+        "category": "gastrointestinal",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "After every meal I get this burning pain right here in my stomach. It's been going on for months and I can't ignore it anymore."
+      }
+    },
+    {
+      "patient_id": "P011",
+      "demographics": {
+        "age": 50,
+        "gender": "female",
+        "occupation": "bank_teller"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "nausea",
+        "secondary_symptoms": [
+          "vomiting",
+          "abdominal_pain",
+          "fatigue",
+          "loss_of_appetite"
+        ],
+        "symptom_duration": "2-4_weeks",
+        "disease_severity": 3,
+        "temperature_c": 36.9,
+        "chronic_conditions": [
+          "anemia"
+        ],
+        "medications": [
+          "metformin"
+        ],
+        "allergies": [
+          "shellfish"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 3,
+        "mood": "depressed",
+        "cooperation_willingness": 3,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "gastrointestinal",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "My stomach has been upset for weeks. Some days I can't keep anything down, and I've lost maybe three kilos."
+      }
+    },
+    {
+      "patient_id": "P012",
+      "demographics": {
+        "age": 27,
+        "gender": "male",
+        "occupation": "graduate_student"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "abdominal_pain",
+        "secondary_symptoms": [
+          "diarrhea",
+          "fatigue",
+          "nausea"
+        ],
+        "symptom_duration": "3-6_months",
+        "disease_severity": 2,
+        "temperature_c": 36.6,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 4,
+        "pain_level": 3,
+        "mood": "anxious",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "gastrointestinal",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I get terrible diarrhea and cramps about once a week. It started maybe six months ago but it's getting worse."
+      }
+    },
+    {
+      "patient_id": "P013",
+      "demographics": {
+        "age": 63,
+        "gender": "female",
+        "occupation": "retired_factory_worker"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "joint_pain",
+        "secondary_symptoms": [
+          "fatigue",
+          "back_pain"
+        ],
+        "symptom_duration": "3-6_months",
+        "disease_severity": 3,
+        "temperature_c": 36.5,
+        "chronic_conditions": [
+          "rheumatoid_arthritis",
+          "obesity"
+        ],
+        "medications": [
+          "ibuprofen",
+          "acetaminophen"
+        ],
+        "allergies": [
+          "aspirin"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 4,
+        "mood": "resigned",
+        "cooperation_willingness": 4,
+        "health_literacy": "low",
+        "communication_style": "stoic"
+      },
+      "scenario": {
+        "category": "musculoskeletal",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "My knees ache all the time, especially in the morning. I can barely get out of bed without groaning."
+      }
+    },
+    {
+      "patient_id": "P014",
+      "demographics": {
+        "age": 44,
+        "gender": "male",
+        "occupation": "delivery_driver"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "back_pain",
+        "secondary_symptoms": [
+          "numbness",
+          "muscle_ache"
+        ],
+        "symptom_duration": "1-3_months",
+        "disease_severity": 3,
+        "temperature_c": 36.7,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "ibuprofen"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "current",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 4,
+        "mood": "irritable",
+        "cooperation_willingness": 3,
+        "health_literacy": "low",
+        "communication_style": "terse"
+      },
+      "scenario": {
+        "category": "musculoskeletal",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "My lower back has been killing me. I sit in the van ten hours a day. Sometimes the pain shoots down my leg."
+      }
+    },
+    {
+      "patient_id": "P015",
+      "demographics": {
+        "age": 31,
+        "gender": "female",
+        "occupation": "yoga_instructor"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "joint_pain",
+        "secondary_symptoms": [
+          "muscle_ache"
+        ],
+        "symptom_duration": "2-4_weeks",
+        "disease_severity": 2,
+        "temperature_c": 36.5,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 3,
+        "mood": "optimistic",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "musculoskeletal",
+        "urgency": "routine",
+        "setting": "specialist_clinic",
+        "chief_complaint": "I tweaked my shoulder doing a headstand three weeks ago and it still hasn't healed. I can't teach like this."
+      }
+    },
+    {
+      "patient_id": "P016",
+      "demographics": {
+        "age": 19,
+        "gender": "female",
+        "occupation": "student"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "rash",
+        "secondary_symptoms": [
+          "insomnia",
+          "fatigue"
+        ],
+        "symptom_duration": "hours",
+        "disease_severity": 1,
+        "temperature_c": 36.5,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "peanuts"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 3,
+        "mood": "irritable",
+        "cooperation_willingness": 4,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "dermatological",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I have this weird rash on both my arms that showed up yesterday. It's really itchy and I can't sleep."
+      }
+    },
+    {
+      "patient_id": "P017",
+      "demographics": {
+        "age": 58,
+        "gender": "male",
+        "occupation": "farmer"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "rash",
+        "secondary_symptoms": [],
+        "symptom_duration": "6+_months",
+        "disease_severity": 1,
+        "temperature_c": 36.9,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "former",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 1,
+        "mood": "neutral",
+        "cooperation_willingness": 4,
+        "health_literacy": "low",
+        "communication_style": "stoic"
+      },
+      "scenario": {
+        "category": "dermatological",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I've had this patch of rough, scaly skin on my forehead for about a year. My wife keeps telling me to get it checked."
+      }
+    },
+    {
+      "patient_id": "P018",
+      "demographics": {
+        "age": 49,
+        "gender": "female",
+        "occupation": "office_manager"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fatigue",
+        "secondary_symptoms": [
+          "weight_loss",
+          "muscle_ache"
+        ],
+        "symptom_duration": "3-6_months",
+        "disease_severity": 3,
+        "temperature_c": 36.4,
+        "chronic_conditions": [
+          "hypothyroidism",
+          "depression"
+        ],
+        "medications": [
+          "levothyroxine",
+          "sertraline"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 2,
+        "mood": "depressed",
+        "cooperation_willingness": 4,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "endocrine",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I've gained almost ten kilos in the last six months without changing anything. I'm tired all the time and my hair is falling out."
+      }
+    },
+    {
+      "patient_id": "P019",
+      "demographics": {
+        "age": 62,
+        "gender": "male",
+        "occupation": "retired_engineer"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fatigue",
+        "secondary_symptoms": [
+          "dizziness",
+          "nausea",
+          "numbness"
+        ],
+        "symptom_duration": "1-3_months",
+        "disease_severity": 3,
+        "temperature_c": 36.8,
+        "chronic_conditions": [
+          "diabetes_type2",
+          "hypertension"
+        ],
+        "medications": [
+          "metformin",
+          "insulin",
+          "lisinopril"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "former",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 1,
+        "mood": "resigned",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "endocrine",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "My blood sugar has been all over the place for the last month. I check religiously but I can't get it down."
+      }
+    },
+    {
+      "patient_id": "P020",
+      "demographics": {
+        "age": 26,
+        "gender": "female",
+        "occupation": "phd_candidate"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fatigue",
+        "secondary_symptoms": [
+          "insomnia",
+          "headache",
+          "loss_of_appetite",
+          "palpitations"
+        ],
+        "symptom_duration": "2-4_weeks",
+        "disease_severity": 3,
+        "temperature_c": 36.6,
+        "chronic_conditions": [
+          "anxiety_disorder"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 5,
+        "pain_level": 2,
+        "mood": "anxious",
+        "cooperation_willingness": 5,
+        "health_literacy": "high",
+        "communication_style": "emotional"
+      },
+      "scenario": {
+        "category": "psychiatric",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I can't sleep, I can't focus. Every morning I wake up and my heart is racing before I even get out of bed."
+      }
+    },
+    {
+      "patient_id": "P021",
+      "demographics": {
+        "age": 52,
+        "gender": "male",
+        "occupation": "lawyer"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fatigue",
+        "secondary_symptoms": [
+          "insomnia",
+          "loss_of_appetite",
+          "headache"
+        ],
+        "symptom_duration": "3-6_months",
+        "disease_severity": 3,
+        "temperature_c": 36.5,
+        "chronic_conditions": [
+          "depression"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "moderate"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 2,
+        "mood": "depressed",
+        "cooperation_willingness": 2,
+        "health_literacy": "high",
+        "communication_style": "tangential"
+      },
+      "scenario": {
+        "category": "psychiatric",
+        "urgency": "routine",
+        "setting": "specialist_clinic",
+        "chief_complaint": "Everything feels grey. For months. I don't enjoy anything, I can't focus at work, and I snap at my kids for no reason."
+      }
+    },
+    {
+      "patient_id": "P022",
+      "demographics": {
+        "age": 35,
+        "gender": "male",
+        "occupation": "school_teacher"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fever",
+        "secondary_symptoms": [
+          "chills",
+          "muscle_ache",
+          "headache",
+          "cough"
+        ],
+        "symptom_duration": "3-7_days",
+        "disease_severity": 3,
+        "temperature_c": 39.1,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "acetaminophen"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 4,
+        "mood": "resigned",
+        "cooperation_willingness": 4,
+        "health_literacy": "medium",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "infectious_disease",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I've had a fever on and off for four days, and the chills at night are brutal. My whole body hurts."
+      }
+    },
+    {
+      "patient_id": "P023",
+      "demographics": {
+        "age": 47,
+        "gender": "female",
+        "occupation": "flight_attendant"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "diarrhea",
+        "secondary_symptoms": [
+          "fever",
+          "nausea",
+          "vomiting",
+          "abdominal_pain"
+        ],
+        "symptom_duration": "3-7_days",
+        "disease_severity": 4,
+        "temperature_c": 38.3,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "penicillin"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 3,
+        "mood": "irritable",
+        "cooperation_willingness": 3,
+        "health_literacy": "high",
+        "communication_style": "detailed"
+      },
+      "scenario": {
+        "category": "infectious_disease",
+        "urgency": "urgent",
+        "setting": "primary_care",
+        "chief_complaint": "I just got back from a trip and I've had diarrhea for five days. I can't keep water down either. I feel so weak."
+      }
+    },
+    {
+      "patient_id": "P024",
+      "demographics": {
+        "age": 42,
+        "gender": "male",
+        "occupation": "construction_manager"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fatigue",
+        "secondary_symptoms": [],
+        "symptom_duration": "1-3_months",
+        "disease_severity": 1,
+        "temperature_c": 36.7,
+        "chronic_conditions": [
+          "obesity"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "current",
+        "alcohol_use": "moderate"
+      },
+      "affective_attributes": {
+        "anxiety_level": 1,
+        "pain_level": 1,
+        "mood": "neutral",
+        "cooperation_willingness": 3,
+        "health_literacy": "medium",
+        "communication_style": "stoic"
+      },
+      "scenario": {
+        "category": "general_checkup",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "It's been three years since my last physical. My wife wants me to get everything checked — blood pressure, cholesterol, the works. I feel fine honestly."
+      }
+    }
+  ],
+  "count": 24,
+  "description": "24 diverse patient profiles for AMICA virtual patient simulation benchmark"
+}

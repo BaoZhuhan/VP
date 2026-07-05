@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_002",
+  "title": "Create patient profile bank",
+  "date": "2026-07-05",
+  "status": "completed",
+  "outputs": [
+    "data/patient_profiles.json"
+  ],
+  "profile_count": 24,
+  "category_distribution": {
+    "respiratory": 3,
+    "cardiovascular": 3,
+    "neurological": 3,
+    "gastrointestinal": 3,
+    "musculoskeletal": 3,
+    "dermatological": 2,
+    "endocrine": 2,
+    "psychiatric": 2,
+    "infectious_disease": 2,
+    "general_checkup": 1
+  },
+  "summary": "Created 24 patient profiles across 10 clinical categories."
+}
