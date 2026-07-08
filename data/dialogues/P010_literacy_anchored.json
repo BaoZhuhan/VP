@@ -1,0 +1,187 @@
+{
+  "profile_id": "P010",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "This burning pain in my stomach after meals. Right here (gestures to upper abdomen). Been going on for months."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Hard to say exactly. Maybe five or six months ago? It started off mild but it's gotten worse lately."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's right in the middle, up here (points to upper abdomen). Like a burning, gnawing feeling. Worse after eating, especially if I've had something spicy or heavy."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No. No fever. No chills or anything like that. Just the burning."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just some Rolaids now and then. Doesn't do much though."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No. Well, I've been told my blood pressure's a bit high at a checkup a couple years back, but I'm not on anything for it."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I don't think so. I've taken ibuprofen a couple times for sore muscles, but it made my stomach worse so I stopped."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yeah, like I said, I tried those antacids from the store. And someone told me to take some over-the-counter acid pills. Didn't help much, kind of made it worse actually."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Definitely worse after eating. Especially if it's something spicy or greasy - I'm a chef so I can't avoid all of it. Lying down after meals makes the burning come back up too. Sitting up or walking a bit sort of helps."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's making my job tough. I'm a chef, so I have to taste food all day. Can't exactly avoid eating at work. I've been snapping at my staff more too. And I'm getting worried I'll have to take time off."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I smoke, about half a pack a day. And yeah, I drink. Usually a couple beers after work, sometimes more on weekends."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had something like this, I think. He always complained about heartburn and took some medication for it. Not sure exactly what it was though."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this. I've had heartburn before like everyone else, but this is different. This burning sticks around for hours and comes back every single day. I can't ignore it anymore."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah, I think so. You're saying it could be reflux or some kind of inflammation in my stomach. Might need to run some tests to be sure."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, it's like a 6 or 7 after meals. Right now it's maybe a 3. Emotionally, I'm just tired of dealing with it. It's wearing me down."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yeah. Can I still work while we figure this out? And do you think this is something that's going to need a big change in my diet or my schedule? I can't just stop cooking, that's my job."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Probably an ulcer or something like that. My dad had one. And the burning after eating... I don't know, seems like it fits. I'm worried it might be more serious though."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "No, I think that's pretty much it. Except... I should mention I've been taking ibuprofen sometimes for my back. It does seem to make the burning worse, but I figured it couldn't hurt since it was over-the-counter."
+    }
+  ]
+}

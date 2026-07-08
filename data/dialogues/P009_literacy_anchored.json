@@ -1,0 +1,187 @@
+{
+  "profile_id": "P009",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been having these really concerning episodes where my right hand just goes completely numb. It's not just tingling \u2014 it's like the hand is dead for about an hour. It's happened four times in the past two months, and I'm honestly terrified it could be multiple sclerosis. That's why I needed to see a specialist."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The first time it happened was about two months ago, late one evening while I was working on a design project. I just brushed it off as my hand falling asleep or something. But then it kept happening, and the last episode was just four days ago. That's when I really started panicking and booked this appointment."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really painful at all \u2014 it's just completely numb, like the hand isn't even part of my body. There's no tingling or burning, just a total loss of sensation from my wrist down to my fingertips. I can't feel anything I touch, and I can't really grip things properly. It's very localized to just my right hand."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, not at all. I haven't had any fever or chills with these episodes. That's actually one of the reasons I'm so scared \u2014 it comes out of nowhere, I feel completely fine otherwise, and then my hand just... dies for an hour. There's no sickness or flu-like feeling accompanying it."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. I take a women's multivitamin daily and occasionally use ibuprofen for headaches, but nothing regular or related to these symptoms. That's part of why this is so unsettling \u2014 I don't have any known conditions that would explain it."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I'm generally very healthy \u2014 I exercise, eat well, and I've never been diagnosed with anything like diabetes, thyroid issues, or autoimmune diseases. That's honestly what makes this so frightening for me. I'm 29 and otherwise totally fine, so to have something like this happening out of the blue... it's really shaken me up."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known allergies to medications. I've never had a bad reaction to anything I've taken, including ibuprofen or any antibiotics I've had in the past."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I haven't really tried anything specific, because I don't know what would help. During the episodes, I've tried shaking my hand or massaging it, but nothing changes. It's like my hand just isn't connected to me for that hour. Once it passes, everything goes back to normal completely. I haven't taken any medication for it because I wasn't sure what I'd even take."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The only pattern I've noticed is that"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly affecting me more than I want to admit. I'm a graphic designer, so my right hand is everything \u2014 my mouse hand, my drawing hand. Every"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I do drink occasionally \u2014 maybe a glass of wine with dinner once or twice a week, but nothing beyond that. I've never had issues with alcohol or substance use."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not at all. I've asked my parents and siblings, and no one in my immediate family has ever had anything like this \u2014 no numbness, no neurological issues, no MS. That's one reason I'm so scared, because there's no family history to point to and I feel completely alone in figuring this out."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. This is completely new for me. I've always been healthy and never had any neurological symptoms or weird sensations before this started two months ago. That's probably the scariest part \u2014 it came out of nowhere, and I have no framework for understanding what's happening to my body."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it makes sense. I appreciate you walking me through all of this \u2014 it helps to hear it laid out clearly. But I have to admit, I'm still really scared. I can't stop my mind from jumping to MS or some nerve condition, and I'm hoping you can help me figure out what's actually going on."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd honestly say it's like a 1 \u2014 there's no pain during the episodes, just that unsettling dead feeling. But emotionally? I'm probably"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, actually. I have so many questions running through my head. First \u2014 is it possible this could be MS? And if not, what else could cause a hand to go completely numb like that? Also, what would the next steps be \u2014 would you recommend an MRI or nerve tests? I just want to understand what we're looking at and what I should expect."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I honestly don't know, and that's what terrifies me. My mind keeps going to MS because of the numbness and the way it comes and goes, but I've also read about things like carpal tunnel or even a pinched nerve in my neck. I just don't have the medical knowledge to sort out which fits best. That's why I'm here \u2014 I need your expertise to give me some clarity, because my own research has only made me more anxious."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've covered pretty much everything I can think of. But if you're asking if there's anything I haven't mentioned \u2014 maybe I should say that I've been under a lot of stress at work lately, with tight deadlines and long hours at my computer. I don't know if that matters, but I've read that stress can make some neurological issues worse. Does that fit with what we're talking about?"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P011",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been having trouble with my stomach for a few weeks now. Some days I just can't keep anything down - I'll eat a meal and it comes right back up. I've lost maybe three kilos without really trying, and it's got me pretty worried. It's been affecting my work at the bank too, because I just don't feel like myself."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago, I think. At first it was just a little queasiness now and then, but it's been getting worse, especially in the last week or so. I can't even keep down my morning coffee some days, and that's never happened before."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's sort of a dull, gnawing ache right here, in my upper belly. It feels like there's a heavy weight inside, especially after I try to eat. Sometimes it's just a mild discomfort, but other times it's more like sharp cramping, and that's when I end up getting sick."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had a fever or any chills that I've noticed. Just the stomach issues and feeling kind of washed out overall. Like I said, I don't have much energy, and I've been feeling pretty down about it all."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a small dose of lisinopril for my blood pressure, and sometimes an antacid when the pain gets bad. Nothing else, except maybe a Tylenol now and then. I stopped taking ibuprofen a few weeks ago because I worried it might be making things worse."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have high blood pressure, that's the main thing. It's been pretty well controlled with the lisinopril. Otherwise, nothing else that I'm aware of. I don't have diabetes or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything before, not even penicillin."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried taking those over-the-counter antacids, the chewy tablets, but they don't seem to help much. I also tried eating smaller meals and cutting out spicy foods, but it still upsets my stomach. Nothing really gives me lasting relief."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Eating definitely makes it worse - I'll feel okay if my stomach is empty, but about thirty minutes after a meal, the pain starts up and I often end up throwing up. Lying down after eating seems to make the nausea stronger too. The only thing that seems to help a little is sitting up straight or walking around slowly, but even that doesn't stop it completely."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Honestly, it's been really tough. At work, I'm a bank teller so I'm on my feet a lot and dealing with customers face to face, and I find myself rushing to the restroom or just feeling too sick to concentrate. I've called in sick a couple times, which I never used"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, but I do have a glass of wine maybe once or twice a week with dinner. Lately though, even that small amount makes my stomach feel worse, so I've mostly stopped. I've also cut back on coffee because it just seems to aggravate things now."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "(I nod slowly, thinking about it.) My mother had stomach ulcers when she was about my age, actually. I remember her complaining about a similar kind of gnawing pain, but she never told me exactly what they did for it. Nobody else in the family seems to have had this kind of trouble."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never like this. I've had maybe a little heartburn or indigestion after a big meal before, but nothing that lasted more than a day. This is completely new for me - the constant nausea, the vomiting, and the weight loss. It's honestly scaring me a bit, to be honest."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think so. You're saying it could be something like gastritis or an ulcer, especially with my family history. And you want to run some tests to be sure, maybe look inside my stomach with that camera. I guess I'm just worried about what you'll find, and if there's anything else I should be doing in the meantime."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "(She sighs, looking down at her hands for a moment.) Physically, I'd say it's about a 5 or 6. The ache and nausea are pretty constant, but I can still get through my day, even if it's rough. Emotionally... well, I think it's closer to an 8. I'm really worried something serious is wrong, and on top of"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "(She looks up, hesitating a bit before speaking.) Yes, actually. I was wondering \u2014 if you do find an ulcer or something, will I need to change my diet for good, or is there a treatment that can fix it completely? And how long before I might start feeling better?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not sure, but I keep wondering if it could be an ulcer, like what my mother had. Or maybe something worse, like stomach cancer. I've been trying not to think about that, but it's hard when the weight keeps dropping and nothing stays down. That's why I came in today \u2014 I just need to know what's really going on."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, now that you ask \u2014 there is one more thing. I've noticed my bowel movements have been a little darker than usual this past week. I thought maybe it was from the iron in my multivitamin, but I'm not sure if that's normal or something I should be worried about."
+    }
+  ]
+}

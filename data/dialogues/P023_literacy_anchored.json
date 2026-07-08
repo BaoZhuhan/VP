@@ -1,0 +1,187 @@
+{
+  "profile_id": "P023",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I just got back from a three-day international trip about a week ago, and five days ago the diarrhea started. It's been completely watery, about eight to ten times a day, and now I can't even keep down sips of water without feeling nauseous. I'm feeling incredibly weak and drained."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started abruptly five days ago, right after I landed back from my trip. I had a normal bowel movement the morning of my last day abroad, but by that evening I had full-blown watery diarrhea, and it hasn't let up since."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is mainly in my lower abdomen, just around my belly button area. It feels like cramping or twisting spasms that come in waves, especially right before I have to use the bathroom. There's no sharp or stabbing pain, just a constant dull ache and that awful urgency. Even when I'm not on the toilet, I feel queasy and completely washed out."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Yes, actually. I've had a low-grade fever on and off for the past three days. I checked my temperature a few times \u2014 it's been around 100.8\u00b0F, nothing terribly high, but I've also had chills and felt really hot one moment then cold the next. It's not constant, but definitely noticeable."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on levothyroxine for hypothyroidism, and I take an over-the-counter ibuprofen maybe once or twice a month for flight-related backaches. Other than that, I recently started using an oral rehydration solution I bought at the pharmacy \u2014 just to try and get some electrolytes back, but I still can't keep much down. I haven't taken any antibiotics or antidiarrheals."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypothyroidism, as I mentioned\u2014it's well-controlled with my current levothyroxine dose. Other than that, I don't have any other chronic conditions like diabetes, high blood pressure, or anything gastrointestinal. No history of IBD or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything I've taken, including antibiotics or pain relievers."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been using an oral rehydration solution, but as I said, even small sips often come back up within ten or fifteen minutes. I also tried just resting and eating bland foods like crackers, but that didn't help either\u2014the diarrhea just got worse. Honestly, I'm getting worried because nothing I've done seems to make any difference, and I've started wearing those anti-nausea wristbands from the pharmacy, but they're not doing much either"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, nothing really makes it better. Lying down flat sometimes eases the cramping slightly, but the diarrhea and nausea don't let up. Eating or drinking anything\u2014even water\u2014triggers those explosive bowel movements within twenty minutes, and the nausea gets worse. I've stopped trying to eat altogether for the past day. Prolonged standing or walking just makes me feel dizzy and weaker."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's completely derailed everything. I missed two flights already this week because I can't even stand for a full hour without feeling faint, and the thought of being stuck in a tiny lavatory or on a long-haul flight terrifies me. At home, I'm basically confined to my bathroom or bed. I haven't been able to cook, clean, or even walk my dog\u2014I'm too weak and constantly running to the toilet. It's really frustrating because I feel like I'm losing control."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, never have. I do have a glass of wine maybe once or twice a week when I'm home, but I haven't had anything to drink since this started\u2014obviously, with the vomiting and dehydration, alcohol is the last thing I'd touch."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. I live alone, and none of my close relatives have reported anything like this recently. I was traveling alone for work, so no one else from my crew mentioned similar symptoms either. My mother has irritable bowel syndrome, but she's never had an acute episode like this with vomiting and fever."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've had the occasional mild stomach bug over the years, maybe a day of loose stools after eating something questionable on a layover, but it always resolved on its own quickly. This is completely different\u2014five days of relentless watery diarrhea, vomiting, and that awful weakness is far beyond anything I've dealt with before."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes sense to me. I appreciate you walking through it step by step. I just want to be sure we don't miss anything, because I really need to get this under control before I'm expected to fly again. Is there any specific test you're thinking of, or something I should watch out for at home?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's about a 6 or 7 \u2014 the cramping and constant urgency are exhausting, and the weakness is honestly scary. Emotionally, maybe a 4 or 5 \u2014 I'm anxious and irritable because I can't function normally, and I'm worried about getting back to work, but I'm not completely panicking yet. I just want some answers and relief."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, actually. Given my job and the fact that this started right after an international trip, could this be something infectious, like a specific foodborne illness or traveler's diarrhea? And what kind of tests would help figure out the cause \u2014 a stool culture or something else? I'm also wondering if I should be concerned about dehydration severe enough to need IV fluids, since I really can't keep anything down."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I honestly suspect it's some kind of infectious gastroenteritis \u2014 maybe norovirus or a bacterial infection from something I ate on the trip. The timeline fits perfectly with contaminated food or water exposure, and the combination of vomiting, fever, and watery diarrhea is classic. I'm also worried about the dehydration progressing despite my efforts with rehydration solutions. But I'm not a doctor, so I really want to hear what you think could be causing this, especially given how long it's lasting."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that's all I can think of for now. The only other thing is that I haven't traveled anywhere unusual \u2014 just a standard European routing, and I only ate at hotel restaurants and airport lounges. I haven't been in contact with anyone who was sick, and I wash my hands frequently, especially given the job. So I'm really puzzled why this hit me so hard and won't let go."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P012",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been dealing with really bad episodes of diarrhea and cramping about once a week for the last six months. At first, it was manageable, but over the past month or two, the episodes have become more intense and are really starting to interfere with my work and daily life."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago, around late winter or early spring. At first, it was just occasional \u2014 maybe once every couple of weeks \u2014 and I didn't think much of it. But over the past two to three months, it's become much more frequent and severe."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is a deep, cramping sensation that usually starts in my lower abdomen, kind of centered around my belly button and then radiates down to the lower left quadrant. It builds up before the diarrhea starts, peaks during the episode, and then gradually fades after I've been to the bathroom. It's not constant, but when it hits, it's pretty intense \u2014 maybe a 6 or 7 out of 10 on the worst days."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. No night sweats either. That's one thing I've been keeping an eye on, because I was worried it might be something infectious."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. I did try taking over-the-counter loperamide a few times when the episodes were really bad, but it didn't seem to help much with the cramping. I also tried a probiotic for a couple of weeks, but I can't say it made a noticeable difference."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I'm generally healthy \u2014 no diabetes, high blood pressure, or anything like that. I've never had any gastrointestinal issues before this either."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known allergies to medications. I've taken antibiotics and pain relievers in the past without any problems."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Aside from the loperamide and probiotic I mentioned, I've also tried adjusting my diet. I cut out dairy and spicy foods for a week or two to see if that helped, but the episodes still happened. I've also tried eating smaller, more frequent meals, though I haven't noticed a clear pattern linking the attacks to any specific food."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Passing the stool usually brings some relief, though the cramping can linger for a bit afterward. As for what makes it worse, I haven't nailed down a specific food trigger, but I've noticed the episodes seem more likely to happen on days when I'm under a lot of stress \u2014 like before a big presentation or exam. I also feel like it's worse after large meals, but again, it's not consistent."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty disruptive, honestly. I'm a graduate student, so I spend a lot of time in seminars, the lab, and meetings. I've had to leave a few classes early because the cramping hit suddenly, and I'm constantly scanning for the nearest bathroom whenever I go anywhere. It's also making me anxious about traveling or even going out to eat with friends. I find myself planning my day around these episodes, which is exhausting."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink alcohol occasionally \u2014 maybe a beer or two with friends once or twice a week \u2014 but I haven't noticed a clear link between drinking and the episodes. I've actually cut back recently just to be safe, but it didn't seem to change the pattern."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "I don't think so. No one in my immediate family has had anything like this \u2014 my parents and siblings don't have chronic GI issues. I'm not aware of any history of inflammatory bowel disease or celiac disease, either."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not at all. Before this started six months ago, I never had any digestive issues. My bowel habits were completely normal \u2014 regular and pain-free. That's part of why this has been so concerning for me; it came out of nowhere."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes sense to me. I appreciate you laying it out clearly. I guess I'm just wondering \u2014 what do you think might be going on, and what would be the next steps to figure it out?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, right now I'm not in the middle of an attack, so it's maybe a 2 or 3 out of 10 \u2014 just some mild residual soreness in my lower abdomen. But emotionally, it's probably more like an 8 out of 10. The unpredictability and the constant worry about when the next episode will hit are really wearing me down."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, actually \u2014 I have several questions. First, based on what I've described, what conditions are you considering as possibilities? I've read a bit about irritable bowel syndrome and inflammatory bowel disease, but I'm not sure how to tell them apart. Also, are there any"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Given what you've described \u2014 the cramping, diarrhea, stress connection, and lack of fever or blood \u2014 irritable bowel syndrome, or IBS, is certainly on my list. But I also want to rule out things like inflammatory bowel disease, celiac disease, or a chronic infection, especially since it's been going on for six months and getting worse. That's why I think some initial testing \u2014 like blood work, a stool study"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that covers everything important. The only thing I'd add is that I've been keeping a loose food and symptom journal, but I haven't found any obvious trigger foods yet. Also, while the physical symptoms are bad, the anxiety about when the next episode will happen is almost as draining \u2014 so if stress management or something else could help, I'd really like to explore that."
+    }
+  ]
+}

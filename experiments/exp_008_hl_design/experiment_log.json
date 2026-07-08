@@ -1,0 +1,52 @@
+{
+  "experiment_id": "exp_008_hl_baseline",
+  "title": "Health Literacy Consistency Baseline Evaluation",
+  "date": "2026-07-08",
+  "status": "completed",
+  "model": "deepseek-v4-flash (generation), rule-based (evaluation)",
+  "profiles": 24,
+  "dialogues_evaluated": 96,
+  "conditions": {
+    "standard (C1)": 24,
+    "consistency (C2)": 24,
+    "structured_state (C3)": 24,
+    "literacy_anchored (C8)": 24
+  },
+  "results": {
+    "mean_composite_score": 0.7858,
+    "by_strategy": {
+      "standard": 0.7823,
+      "consistency": 0.7720,
+      "structured_state": 0.7898,
+      "literacy_anchored": 0.7995
+    },
+    "by_hl_level": {
+      "low": 0.8114,
+      "medium": 0.7806,
+      "high": 0.7778
+    }
+  },
+  "key_findings": [
+    "Response length, preference expression, and decision activeness show significant differentiation by HL level (p<0.001) — model partially sensitive to HL setting in profile.",
+    "Question-asking is universally low across all conditions (<3 per dialogue vs literature norm of 4-9). The fixed clinician prompt set may suppress patient questions.",
+    "Pretend understanding (unqualified affirmation) never occurs. The LLM never produces this hallmark low-HL behavior regardless of strategy.",
+    "Literacy-anchored prompting improves low-HL alignment on response length (25→18 words), question count (2.8→1.2), and decision passivity (-0.2→-1.0).",
+    "Lexical diversity moves in the wrong direction under literacy-anchored (0.56→0.63 for low HL). Low-HL patients should have lower, not higher lexical diversity.",
+    "Most per-dimension improvements are not statistically significant due to small sample size (only 5 low-HL profiles).",
+    "Three existing strategies (standard/consistency/structured_state) show minimal differentiation — composite scores differ by <0.02."
+  ],
+  "limitations": [
+    "Only 5 low-HL profiles — insufficient statistical power for per-HL analysis.",
+    "Fixed clinician prompt set may suppress patient-initiated behaviors (esp. question-asking).",
+    "Composite scoring may overstate consistency (combines well-predicted and poorly-predicted dimensions)."
+  ],
+  "next_steps": [
+    "Generate 3 additional low-HL profiles to balance the dataset (8/8/8).",
+    "Deploy PatientSim for C4-C5 comparison.",
+    "Design per-turn temporal drift analysis."
+  ],
+  "outputs": [
+    "evaluation/hl_evaluator.py",
+    "evaluation/analyze_baseline.py"
+  ]
+}

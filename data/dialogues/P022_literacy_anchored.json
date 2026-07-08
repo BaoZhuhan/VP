@@ -1,0 +1,187 @@
+{
+  "profile_id": "P022",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, it's been about four days now with this fever that comes and goes. Last night was terrible - I woke up shivering so hard my teeth were chattering, and then I was drenched in sweat. And every muscle in my body feels like I've run a marathon. I'm a teacher, and I just can't keep going like this."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started last Saturday evening, I think. I felt a little off during the day, but by night I had a real fever. That's four days ago now."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "[API ERROR: Connection error.]"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Oh yes, the fever's been coming and going - I'd feel hot and take my temperature, and it was around 101 or 102 degrees Fahrenheit. But the chills are the worst part, especially at night. I had to pile on three blankets last night and I was still shivering uncontrollably for about an hour."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I've been taking ibuprofen and acetaminophen, kind of alternating them to bring down the fever and help with the body aches. But they only seem to work for a few hours. I'm not on any regular prescription medications."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions that I know of. I'm generally pretty healthy, other than getting the occasional cold or flu."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications as far as I know. I've never had a reaction to anything."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been trying to rest as much as I can, drinking lots of water and tea. I've also been taking cool cloths to my forehead when the fever spikes. But honestly, nothing seems to give me more than a couple hours of relief before the symptoms come roaring back. I was hoping it would pass on its own, but it's just not letting up."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The ibuprofen helps a bit with the body aches and fever, but it wears off fast. Lying still in bed feels best, but when I have to get up to go to the bathroom or get water, the muscle pain gets really bad. And I've noticed that cold drafts or getting uncovered at night makes the chills much worse immediately."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really knocked me out, to be honest. I've missed three days of teaching now, which is hard because I don't like leaving my students with a substitute. Normally I'm pretty active, but I've barely left my bed except to get water or use the bathroom. Even walking to the kitchen feels exhausting"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I'll have a beer or a glass of wine maybe once or twice a week, but I haven't had anything since this started - it just doesn't sound good right now."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My wife had a mild cold about a week and a half ago, but nothing this severe - she just had a stuffy nose and a bit of a cough. Nobody else in the house is sick right now, and I don't know anyone else who's had symptoms like this."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had bad flus before, but nothing quite like this, honestly. Back in college I had a terrible flu that kept me in bed for a week, but with that one the fever was more constant. This on-and-off pattern with the brutal night chills feels different and worse."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that makes sense. You've explained everything clearly so far, and I appreciate that. I'm just hoping we can figure out what's going on so I can get back to feeling normal again."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's an 8 out of 10. The body aches and chills are relentless, and the fever leaves me feeling completely drained. Emotionally, it's probably a 6 or 7 - I feel pretty worn down and frustrated that I"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yeah, I do have a couple questions. First, what do you think might be causing all this - is it just a really bad flu or could it be something else? And also, is there anything stronger you can give me for these symptoms, or should I just keep resting and taking over-the-counter stuff? I'm also curious about how long this might last, because I'm worried about missing more work."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Honestly, I'm not sure. I've been wondering if it's the flu or maybe even COVID-19, since a few kids at my school were out sick last week. But what really has me puzzled is how the fever keeps coming and going instead of just staying put. That's why I came in - I figured you'd have a better idea than I do."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, now that you mention it, I did have a bit of a dry cough start up yesterday - nothing too bad yet, but it's there. And I've noticed I feel a little nauseous in the mornings, though I haven't actually vomited. I don't know if those things matter, but I figured I should mention them."
+    }
+  ]
+}

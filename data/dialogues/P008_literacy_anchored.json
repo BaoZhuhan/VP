@@ -1,0 +1,187 @@
+{
+  "profile_id": "P008",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, it's this dizziness that's been bothering me. Every time I stand up from sitting or lying down, I get really lightheaded, and yesterday it was so bad I nearly toppled over in the kitchen. My wife grabbed my arm just in time. And she's also noticed that sometimes my right hand shakes a bit, especially when I'm trying to hold a cup of coffee steady."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It's been going on for maybe two or three weeks now, the dizziness. At first I just thought I was tired or not eating right, but it's been getting more frequent. The hand tremor, my wife says she noticed it about a week ago, but honestly I didn't pay it much mind until she pointed it out."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain, more of a washed-out, spinning feeling in my head when I get up\u2014like the room is tilting. No chest pain or headache, just that woozy sensation. As for the shaking, it's not painful at all, just a little embarrassing when I can't hold my tea"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, not at all. I haven't had any fever or chills, and I haven't felt like I was coming down with anything. My temperature has been normal, as far as I know."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a small pill for my blood pressure\u2014I think it's called lisinopril, 10 milligrams once a day. And I also take a baby aspirin every morning, just to keep things moving. My wife keeps a list at home if you need the exact names."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I've had high blood pressure for about eight years now, and I was told last year that my blood sugar was a little high\u2014pre-diabetic, they called it. Nothing too serious, but I try to watch what I eat. My wife's been on my case about cutting back on sweets."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I don't think so, but I've never really had any trouble with medicines. My wife says I had a rash once from an antibiotic years ago, but I don't remember which one. Other than that, nothing comes to mind."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really, no. I've just been trying to take it easy when I feel dizzy, and my wife makes me drink more water. I haven't taken any over-the-counter stuff for it, because I wasn't sure what would be safe with my blood pressure medicine. That's why I finally decided to come in and see you."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Sitting or lying down makes the dizziness go away completely, but as soon as I stand up, it comes right back. The hand tremor seems to be worse when I'm trying to do something precise, like buttoning my shirt or picking up a key. If I just rest my hand on my lap, it calms down a little. I haven't noticed any particular food or activity making it better or worse otherwise."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really slowed me down. I used to take a short walk in the morning, but now I'm afraid to because I might get dizzy and fall, especially out on the uneven pavement. Around the house, I've been holding onto walls or furniture whenever I stand up, and my wife watches me like a hawk. The shaking makes me spill things sometimes, so I've stopped pouring my own coffee. Honestly, it's making me feel old and a bit helpless, which I don't like at all."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked a day in my life, and I only have a glass of wine maybe once or twice a month at dinner, if that. My wife says I'm too much of a lightweight to handle more. So no, nothing regular or heavy."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had high blood pressure, and he had a small stroke when he was in his seventies, but I don't recall him having dizziness or a tremor like this. My mother passed away from cancer when she was young, so I don't know much about her health. My older brother has some arthritis, but nothing like what I'm experiencing."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. Up until a few weeks ago, I felt just fine\u2014no dizziness, no tremors, nothing like this. I've always been pretty steady on my feet, so this is all new and honestly a bit frightening. That's why I'm here."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, doctor, that all makes sense. I'm just glad you're taking the time to listen. I know I'm not always the best at describing things, but you've covered most of what's been worrying me. Is there anything else you need to know, or any tests you think I should have done?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 2 out of 10\u2014it's more uncomfortable and scary than truly painful. Emotionally, though, I'd put it at a 4 or 5. I'm worried about what this might mean, and I hate feeling like I can't trust my own legs. My wife's trying not to show it, but I can tell she's anxious too. That part weighs on me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, actually. Do you think my blood pressure medicine could be causing this dizziness? I've been on it for years without trouble, but maybe it's too strong now? And my wife mentioned something called \"orthostatic something\" \u2014 could that be what I have? I just want to know what we're dealing with, so I can stop worrying about every little thing."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I think it's possible that your dizziness when standing up is related to something called orthostatic hypotension, which could be connected to your blood pressure medication, your pre-diabetes, or even just getting older and a bit dehydrated. The hand tremor might be a separate issue, maybe something like an essential tremor, though we'd want to rule out other causes. I'd like to check your blood pressure lying down and standing up, and maybe do some blood work to look at your sugar and electrolyte levels. That should help us figure out what's really going on."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Well, there is one thing I just remembered. My wife mentioned that sometimes during the day, even when I'm just sitting, I seem a bit off-balance or foggy-headed, not just when I stand up. And I had a fall a few months back\u2014nothing serious, just tripped over a rug\u2014but I didn't think to bring it up until now. I'm not sure if that's related, but I wanted you to know."
+    }
+  ]
+}

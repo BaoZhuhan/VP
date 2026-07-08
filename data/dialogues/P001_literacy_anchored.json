@@ -1,0 +1,147 @@
+{
+  "profile_id": "P001",
+  "strategy": "literacy_anchored",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've had this cough that just won't go away for about two weeks now. It's not really a deep, phlegmy cough \u2014 more of a dry, tickly thing that comes and goes. But the part that worries me is sometimes, especially when I'm walking up the stairs at school, I feel like I just can't get enough air. I'm a teacher, so I'm on my feet a lot, and that's really been bothering me."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about two weeks ago, just a mild cough after what I thought was a cold. But the cough never really went away, and then maybe in the last week or so I noticed that feeling of being out of breath when I climb stairs. It's gotten a little worse, not better."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no sharp pain, really. It's more of a tightness or pressure right in the middle of my chest when I'm trying to catch my breath. Not like a burning or stabbing, just a heavy, uncomfortable feeling that makes me want to stop and rest until it passes. The cough itself feels like it's coming from my throat, not deep in my lungs."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills at all. I even checked my temperature a couple times just to be sure, and it was always normal. I've felt a little warm at night sometimes, but nothing like a proper fever."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not taking any prescription medications right now. I did try some over-the-counter cough syrup a few days ago, but it didn't really help. I've also been drinking a lot of tea with honey, just trying to soothe my throat. That's about it."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic medical conditions. I'm generally pretty healthy, aside from the occasional cold or sinus infection like everyone else. I don't have asthma, diabetes, or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I'm aware of. I've taken antibiotics before, like amoxicillin for a sinus infection a few years ago, and I didn't have any reaction. I've never had a problem with any other medication that I know of."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just the over-the-counter cough syrup and tea with honey I mentioned. I've also tried using a humidifier in my bedroom at night, thinking maybe the dry air was making the cough worse, but I'm not sure if it helped much. I haven't taken anything else or seen anyone else about this."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting definitely helps\u2014if I sit down for a few minutes after climbing stairs, the tightness in my chest goes away. But as for the cough, it seems worse when I'm talking a lot during the school day or if I laugh too hard. I haven't really noticed it being worse after eating or lying down, but I also haven't paid that close attention."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty frustrating, honestly. At school, I have to keep pausing when I walk through the hallways or up the stairs, and I've had to stop a few times in the middle of teaching a lesson to catch my breath. That's not like me at all. The cough also interrupts me when I'm trying to talk to my students, which makes"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all, and I only have a glass of wine maybe once or twice a month, if that. So nothing regular."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Well, my father had asthma when he was younger, but he grew out of it as an adult. No one else in my family has had anything like this that I know of. I'm not sure if that's related, but I thought I'd mention it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. I've had the occasional cold that hung around for a week or so, but never a cough that lasted two weeks, and I've definitely never had that feeling of not being able to catch my breath like this. It's really new for me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that makes sense. Thank you for explaining everything so clearly. I just want to make sure I'm not missing anything important, since this is all new to me. Should I be worried about what's causing this?"
+    }
+  ]
+}

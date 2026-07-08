@@ -1,0 +1,147 @@
+{
+  "profile_id": "P018",
+  "strategy": "literacy_anchored",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been really struggling the past six months. I've gained almost ten kilos even though I haven't changed my eating or exercise habits at all. I'm just exhausted all the time - I wake up tired and I'm dragging myself through the day at work. And my hair has been coming out in clumps when I shower or brush it. It's really starting to worry me."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It's been coming on gradually, but I'd say the tiredness started maybe seven or eight months ago, and the weight gain and hair loss have been more noticeable in the last four to five months. I remember thinking back in March that I was more tired than usual, but I just chalked it up to working too hard."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I don't really have sharp pain anywhere specific. It's more like a general achiness - my joints, especially my knees and hips, feel stiff and achy most mornings. And my muscles just feel heavy and weak, like it takes extra effort to move around. It's not a sharp or burning pain, more like a dull, tired ache all over."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills that I've noticed. I don't take my temperature regularly, but I haven't felt hot or cold like with the flu or anything. But sometimes I do feel warm and then cold for no reason, especially at night - I've been waking up sweaty a few times a week."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. I do take a multivitamin most days, and sometimes I take an over-the-counter pain reliever if my joints are really bothering me - maybe a couple of times a week. I also tried some herbal supplements for energy a few months back, like ginseng and ashwagandha, but they didn't seem to help so I stopped."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I've had high blood pressure for about five years now, and I was diagnosed with hypothyroidism maybe ten years ago. But honestly, I've been pretty healthy otherwise - I don't see a specialist for either condition regularly, just my primary care doctor. I take medication for both, but I stopped taking the thyroid medication about a year ago because I felt fine and thought I didn't need it anymore."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I'm not allergic to any medications that I know of. No reactions to penicillin or anything like that. But I did have a bad reaction to a blood pressure medication a few years back - it gave me a really bad cough that wouldn't go away, so my doctor switched me to something else, and that's been fine."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried cutting back on carbs and walking more for about a month, but the scale didn't budge at all - that was really frustrating. I also started taking vitamin D and iron supplements because I read online they could help with fatigue. But honestly, nothing has made a real difference"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The mornings are definitely the worst - it takes me a good hour or two to feel like I can move properly. The achiness gets better as I move around during the day. But the fatigue? It's there all day, no matter what. Rest doesn't help much - I can sleep nine or ten hours and still feel just as tired. Stress makes everything feel worse, and I've been under a lot of pressure at work lately, so that's probably not helping."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really taken a toll, if I'm honest. At work, I used to be sharp and on top of everything, but now I find myself making silly mistakes and struggling to concentrate. I've even"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I've never smoked. But I do drink alcohol - maybe a glass or two of wine most evenings. It's been a way to unwind, especially lately with all this exhaustion and stress. I probably drink more than I should, to be honest - maybe four or five nights a week"
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, actually - my mother had thyroid problems and always struggled with her weight and energy levels. She was diagnosed with hypothyroidism in her forties, just like me. My grandmother on my father's side had something called \"lupus\" - at least that's what my mother always said. And one of my aunts has type 2 diabetes and high blood pressure"
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never felt this bad before. When I was first diagnosed with hypothyroidism, I had some tiredness and weight gain, but nothing like this - it was much milder. This time it feels like my body just completely changed in a matter of months. The hair loss is new too - that never happened before. It's"
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that makes sense, thank you. I think I understand what you're getting at - that it could be related to my thyroid again, or maybe something else going on. I'm a little anxious, though, because I really want to figure out what's wrong. It's been so long feeling like this, and I just want to feel like myself again."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P021",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, it's like this - everything is just... grey. I don't know how else to describe it. For months now, nothing gives me pleasure. Not even winning a case, which used to be my biggest rush. And I've been so short with my kids, snapping at them for the smallest things. My wife made me come in, actually."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It's been about four or five months now, I think. It came on gradually after I finished a particularly grueling litigation - I didn't sleep well for weeks, and then I just never bounced back. I remember feeling like I was crawling through mud every morning, and it's only gotten heavier since."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no sharp pain, not like a back injury or anything physical. It's more of a heavy, dull weight in my chest and stomach - like I'm carrying a lead suit under my skin. And there's a tightness in my throat sometimes when I think about having to go to work or deal with people. It's hard to pinpoint because it's not in one spot, it's... everywhere and nowhere at once."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. My temperature's been normal, and I haven't had any chills or sweats. It's not the flu or anything infectious, I'm certain of that. I've been keeping track of that sort of thing because my wife is a physician herself, and she's been watching me like a hawk."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on atorvastatin for cholesterol, metoprolol for blood pressure, and a baby aspirin daily. Nothing else - no painkillers or anything like that. My GP's been managing those for"
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypertension and high cholesterol, which is why I'm on the meds I mentioned. I'm also about thirty pounds overweight, though it's been stable for years. My GP says I'm prediabetic, but I haven't crossed that line yet. That's really all - nothing like heart disease or diabetes so far, thank goodness. But honestly, doctor, this heavy feeling in my chest isn't my heart - I've"
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications that I know of. I've never had a reaction to anything - not even penicillin or common antibiotics. So that's one less thing to worry about."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried a few things on my own. I started running again - I used to be a marathoner in my thirties - but I can't sustain the motivation. I've also tried cutting out alcohol completely for three weeks, which was miserable and didn't help. And I've been using a meditation app, but I can't sit still for five minutes without my mind racing about work. Nothing moves the needle, not even a little."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The only thing that gives me any relief is physical exhaustion - if I push myself really hard at the gym or go for a long run, I feel almost normal for about an hour afterward. But then it all comes crashing back. And it's worse in the mornings - I dread waking up because I know that fog will hit me before my feet hit the floor. Work definitely makes it worse, especially when I have to argue in court or deal with difficult clients."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's gutting my productivity at work. I've been a top litigator for two decades, and now I can barely focus on a brief for ten minutes without my mind drifting. I've missed deadlines - that's never happened before. At home, I'm irritable and withdrawn. My kids are scared to talk to me, and my wife says I look like a ghost. I'm still functioning, technically, but it feels like I'm running on fumes and bad instincts."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke - quit about ten years ago cold turkey. But I do drink, yes. I used to have a glass of wine with dinner, maybe two on weekends. But over these past months, it's crept up to three or four most nights. Not to get drunk, but to take the edge off and help me sleep. My wife has noticed, and she's not happy about it."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father struggled with depression in his late forties - he was a corporate attorney too, actually. He never got formal treatment, just suffered through it for years until he retired. My mother's side has some anxiety issues, but nothing diagnosed. I've always wondered if this runs"
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this. I've had my share of bad days - tough cases, sleepless nights, feeling down after a loss. But this is different. It's like someone turned down the color saturation on my entire life. I've never felt so flat and empty for so long. In the past, I could always snap out of it after a good night's sleep or a weekend off. Now, nothing works."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it does. You're laying it out clearly, and I appreciate that. I just want to know if there's a name for this feeling, and if there's a way out of it. I'm not used to feeling helpless, and it's eating at me."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, maybe a 4 or 5 - it's not acute pain, but this constant fatigue and heaviness is exhausting in its own way. Emotionally, though, I'd put it at an 8. It's relentless, and it's wearing me down. That's the part that scares me - that I can't just grit my teeth and push through it like I do with everything else"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. What do you think is actually going on with me? Is this depression, or burnout, or something else entirely? And what would treatment look like? I've read about SSRIs and therapy, but I don't know what's realistic for someone in my position. Also - how concerned should I be about my drinking? I can stop if I need to, but I need to know if that's making everything worse"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've done some reading, and I wonder if this is clinical depression - major depressive disorder, specifically. But part of me also thinks it could be severe burnout from work, since I've been running at full speed for years without a real break. Maybe it's both, feeding into each other. I'm not a doctor, but I can't shake the feeling that something neurological is off too - the brain fog is so intense it feels almost physical. What's your take?"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "There's one thing I haven't mentioned, and I'm embarrassed to say it. I've had thoughts - not about acting on anything, but just wondering if anyone would miss me if I just... stopped existing. It's not a plan, not a threat. But it scares me that my mind even goes there. I told my wife I'd be honest with you, so there it is."
+    }
+  ]
+}

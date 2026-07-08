@@ -1,0 +1,187 @@
+{
+  "profile_id": "P007",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been dealing with these migraines for about a month now, and they're happening roughly twice a week. When they hit, the light sensitivity is so severe that I can't even open my eyes, and I usually have to lie down in a dark room for hours. It's been interfering with my work as a software engineer because I'm staring at screens all day, and I don't think I can keep working like this."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about four weeks ago\u2014I'd say early last month. The first few times I thought it was just a bad tension headache or maybe eye strain from work, but the pattern kept repeating, and the light sensitivity was unmistakably migraine, not just a headache."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is usually a throbbing sensation that starts behind my left eye and then spreads across that entire side of my head\u2014temple, forehead, and sometimes down into my jaw and neck. It builds over about 30 minutes into a very intense, pounding ache that makes me feel nauseous. Along with the light sensitivity, I also get really sensitive to sound, so even normal office noise feels overwhelming."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No fever or chills, and I haven't felt like I'm fighting off an infection or anything like that. But I should mention that during the worst episodes, my neck does get really stiff and achy, which makes me worry a bit about something more serious like meningitis\u2014though I don't have a fever or rash, so I guess that's unlikely."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a daily multivitamin and a vitamin D supplement, and I'm on a low-dose birth control pill\u2014the combination type. For the headaches, I've tried ibuprofen a few times, but it barely touches the pain, so I've just been using a cold compress and resting instead. Nothing prescription yet."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No chronic conditions that I know of. I'm generally healthy\u2014no diabetes, high blood pressure, or anything like that. I don't have a history of migraines either, so this is all new to me."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I'm not aware of any drug allergies. I've taken ibuprofen and acetaminophen without issues, and I've had general anesthesia once for a minor procedure with no problems. But just to be thorough\u2014I did have a rash"
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried a few things, but nothing has been very effective. Like I mentioned, ibuprofen barely takes the edge off, so I've mostly just been lying down in a dark, quiet room with a cold cloth on my forehead. Caffeine sometimes helps a little if I catch it early, but it's hit or miss. I've also tried to identify triggers\u2014I keep a log now\u2014and it seems like screen time and certain strong smells, like coffee or perfume, can set one off. But even avoiding those doesn't always prevent them."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Definitely light and sound make it worse\u2014even normal room lighting or a conversation can spike the pain to the point where I feel like I need to escape. Resting in absolute darkness with my eyes shut is the only thing that brings any relief. I've also noticed that strong smells\u2014perfume, coffee, even certain cleaning products\u2014can trigger or worsen an attack. And if I'm dehydrated or haven't eaten regularly, that seems to set"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really disruptive. I've had to take several sick days from work because I just can't look at a screen when an attack hits, and even between migraines, I'm anxious about when the next one will come. I've stopped going out as much because the thought of bright lights or loud environments makes me nervous, and I've snapped at my partner a few times when I'm in the middle of an episode. Honestly, it's starting to feel like I can't plan anything reliably, and that's wearing me down."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, never have. I do drink occasionally\u2014maybe one or two glasses of wine a week\u2014but I've actually cut back in the last month because I noticed that red wine in particular seems to trigger a migraine the next day. So now I just stick to water or herbal tea."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother used to get occasional migraines when she was younger, but nothing as frequent or severe as what I'm experiencing. My father has never had any issues like this. So there's a bit of a family history, but it's not a strong pattern."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this. I've had the occasional tension headache that went away with rest or ibuprofen, but these migraines are completely different\u2014the intensity, the light sensitivity, the nausea, and the frequency are all new for me. That's why I wanted to come in and figure out what's going on, because it feels like a significant change from my norm."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes sense. I really appreciate you walking through this with me. I guess my main questions are: what could be causing these to start so suddenly in my 40s, and what treatment options make sense given how frequent and disabling they've become? I'd like to understand the path forward before we settle on a plan."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, right now I'd say there's a dull, persistent ache behind my left eye and a tension in my neck \u2014 not a full-blown migraine, but definitely that pressure that feels like it could tip over into one if I'm not careful. Emotionally, I'm pretty frayed \u2014 frustrated that this has been going on for a month, anxious about when the next bad one will hit, and honestly a bit irritable from the constant low-level discomfort and disrupted sleep. It's wearing me down."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, a few. First, do you think these are migraines, or could it be something else that needs more testing \u2014 like an MRI or blood work? And second, what would a first-line treatment look like for me \u2014 something to stop an attack when it starts, and maybe a preventive option if they keep coming? Also, should I be worried about that birth control pill potentially making things worse?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Given the pattern\u2014unilateral throbbing pain, photophobia, phonophobia, nausea, and the frequency ram"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've covered most of it, but one thing I should mention is that my sleep has been pretty poor lately \u2014 I often wake up feeling tired, and I've noticed that a lot of my migraines seem to start in the early morning or after a restless night. I don't know if that's a trigger or a symptom, but it feels connected. Also, the stress at work has been higher than usual, with several big project deadlines. I'm not sure if that matters, but"
+    }
+  ]
+}

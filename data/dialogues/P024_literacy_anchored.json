@@ -1,0 +1,187 @@
+{
+  "profile_id": "P024",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "My wife's been on me to get a check-up. It's been about three years since my last physical, and she wants me to get the full workup\u2014blood pressure, cholesterol, all that. I feel fine though, honestly."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The nagging? That's been going on for a few months now. But specifically about scheduling this visit, probably just last week. She mentioned my brother had high blood pressure, and I guess that got her thinking."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "No pain or discomfort really. I get the usual aches from work\u2014knees and lower back after a long day on the site\u2014but nothing out of the ordinary. That's just part of the job."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. I haven't had a fever or chills that I can recall. Feel pretty normal day to day."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications. I'll take an ibuprofen now and then if my back's acting up after a long day, but that's about it. My wife has some vitamins she thinks I should take, but I'm not consistent with them."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Not that I know of. My last physical three years ago was clean\u2014no high blood pressure or diabetes or anything. My brother has high blood pressure, but I've never had issues that I'm aware of."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. I've never had a reaction to anything they've given me\u2014antibiotics, pain meds, nothing like that. I think I'm good."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've just been ignoring it, really. Like I said, the aches come and go with work, but I don't do anything special for them. A hot shower after a hard day helps a bit, maybe a beer, but that's about it."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Standing on concrete all day definitely makes my lower back and knees ache more. But if I sit still for too long on the weekend, I stiffen up. Moving around actually helps the ache go away faster than resting does."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It doesn't really slow me down. I still manage my crew on site every day, lift what I need to lift, and do my job. Some days I'm more sore than others, but I'm not missing work over it or anything."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about 10 years ago\u2014used to smoke half a pack a day in my twenties. These days I'll have a few beers on the weekend, maybe a couple after work during the week, but nothing excessive. I don't touch the hard stuff anymore."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My brother's got high blood pressure, like I mentioned. My dad had heart trouble later in life\u2014some kind of blockage, I think he had a stent put in a few years back. Not sure about all the specifics, but that's what I know."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I haven't. Like I told you, the last physical went smooth, so this is all new territory for me. Never had any heart issues or blood pressure problems myself."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah, it makes sense. You've covered everything pretty clearly. I'm not much of a medical guy, so I appreciate you spelling it out for me."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, probably a 1 or 2 out of 10. The aches I mentioned are minor. And emotionally, I'd say a 1 as well\u2014I'm not really worried or stressed about any of this. Just here to keep the wife happy."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Just one\u2014when will I get the results from the blood work? And what happens if something comes back out of range? I like to know what I'm dealing with ahead of time."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Based on what you've told me, I honestly don't think anything serious is going on\u2014you seem healthy and your symptoms are minimal. But given your family history with high blood pressure and heart issues, it's smart to get a baseline. The blood work and vitals will tell us for sure."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I don't think so. You've pretty much covered everything I came in for. Just let me know what the tests say, and I'll go from there. If my wife wants to hear the results too, you can loop her in\u2014she's the one who keeps track of this stuff."
+    }
+  ]
+}

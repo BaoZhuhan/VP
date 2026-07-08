@@ -1,0 +1,147 @@
+{
+  "profile_id": "P004",
+  "strategy": "literacy_anchored",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been feeling this pressure in the middle of my chest since early this morning, around 7 AM. It's like someone is pressing on my breastbone, not exactly a sharp pain, just this uncomfortable heaviness. It comes and goes, but even when it fades, it doesn't fully go away. I'm honestly pretty scared, to be honest."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started around 7 this morning, so about five hours ago now. I was just sitting at my desk at home, getting some paperwork done, and it came on out of nowhere. It hasn't really let up since\u2014just keeps coming back every few minutes."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's a heavy pressure right in the center of my chest, behind my breastbone. Not sharp or stabbing, more like a tight, squeezing sensation. Sometimes it spreads a little into my left shoulder and jaw, but the main spot is right in the middle."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. Just this pressure and a bit of a sick feeling in my stomach. But no temperature or shaking, nothing like that."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take lisinopril for my blood pressure, 10 milligrams a day, and atorvastatin for my cholesterol, 20 milligrams. That's it\u2014no other pills or supplements."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have high blood pressure and high cholesterol, which is why I'm on those medications I mentioned. Otherwise, I don't have diabetes or anything like that. At least, not that I know of."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to penicillin. It gives me a rash and makes my tongue swell up, so I've always stayed away from that family. Also, I can't take codeine\u2014it makes me"
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried taking a couple of antacids I had at home, thinking it might be indigestion, but it didn't help one bit. Then I just sat down and rested for a while, but the pressure kept coming back, so I decided it was serious enough to come in."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Honestly, nothing seems to make it better or worse. It just comes and goes on its own\u2014doesn't matter if I'm sitting, standing, or lying down. It doesn't get worse when I take a deep breath or move around, which I guess is one small relief."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Well, I couldn't concentrate on anything today\u2014I'm an accountant, and I had planned to finish some reports, but I just sat there worrying. I ended up calling my wife, which I never do during the workday. It's really shaken me up because I've never felt anything like this before."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke, about half a pack a day, but I quit about ten years ago. As for alcohol, I'll have a glass of wine or a beer once or twice a week, but never more than that. I'm not a heavy drinker by any means."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had heart problems. He had a heart attack when he was in his late sixties and ended up needing bypass surgery. He's still alive, but it was a big scare for our family. That's partly why I'm so worried now\u2014I've heard chest pressure can run in families."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've had some indigestion or heartburn over the years, but nothing like this. This pressure feels different\u2014it's deeper and heavier, and it just won't settle. I even mentioned to my wife that it's not like any stomach upset I've had before."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that makes sense, thank you. So you're thinking it might be my heart, then? I was afraid of that, but I want to understand what we do next."
+    }
+  ]
+}

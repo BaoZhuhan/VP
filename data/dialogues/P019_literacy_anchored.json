@@ -1,0 +1,187 @@
+{
+  "profile_id": "P019",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been checking my blood sugar twice daily as usual, but over the past month, it's been swinging wildly\u2014from 80 in the morning to 250 after meals, sometimes even higher. I'm adjusting my insulin like I always have, but nothing seems to bring it down consistently. It's got me worried that something else is going on."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about four weeks ago, maybe a bit more. I first noticed it after a weekend where I ate pretty normally, but my post-meal readings were spiking to the high 200s, which is unusual for me. It's been a steady downhill trend since then."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I'm not really in any pain, to be honest. I just feel a bit tired and occasionally lightheaded after meals when my sugar spikes. The only mild discomfort I get is a sort of dull tingling in my feet at night, but that's been happening on and off for years\u2014nothing sharp or acute."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills at all. That's one of the reasons I thought it might not be an infection\u2014just something off with my usual management."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take 30 units of insulin glargine every evening, and I also use rapid-acting insulin lispro before meals based on my carb count\u2014usually around 8 to 12 units per meal. I'm also on 1000 mg of metformin twice a day with breakfast and dinner. No other prescription meds, just a daily multivitamin and a baby aspirin."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have type 2 diabetes, which I've had for about 12 years now. I also have high blood pressure and high cholesterol, both of which seem to be well-controlled with medication and diet. No heart attacks or strokes, thankfully."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known drug allergies. I've taken antibiotics and pain relievers before without any issues\u2014just the usual mild stomach upset sometimes, but nothing serious."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been tweaking my insulin doses on my own\u2014adding an extra unit or two of rapid-acting if my pre-meal sugar is high, and even adjusting my glargine by a couple of units a few nights ago. I've also been more careful with my carb counting and cutting back on snacks, but nothing seems to flatten out those spikes. Honestly, I feel like I'm chasing my tail."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Light exercise, like a 20-minute walk after dinner, seems to help bring my post-meal numbers down a bit\u2014maybe 20 to 30 points. But if I'm stressed or skip a meal, my blood sugar tends to swing even more wildly. I've also noticed if I eat too many carbs at lunch, I'm stuck with a high reading for hours no matter how much insulin I take."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty disruptive, honestly. I used to have a solid routine\u2014walking, gardening, meeting friends for coffee\u2014but now I'm constantly checking my glucose and planning my whole day around those readings. I find myself skipping outings because I'm worried about a spike or a low. It's wearing me down, not just physically but mentally."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about 15 years ago, so no. As for alcohol, I'll have a glass of wine or a beer maybe twice a week with dinner. I did notice that even one beer seems to push my morning fasting sugar higher the next day, so I've cut back to just water lately to see if it helps."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had type 2 diabetes as well, though he managed it mostly with oral medications and diet\u2014never needed insulin like I do. He also had high blood pressure and eventually died of a heart attack in his late 70s. My mother had high cholesterol but no diabetes. So there's a strong family history there, unfortunately."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I've had occasional rough patches over the years\u2014maybe a week of high readings after a holiday or when I was sick with a cold\u2014but nothing this persistent or severe. My A1c has been stable around 6.8% for the last two years, so this sudden loss of control really caught me off guard."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it makes sense. You're confirming that my erratic readings aren't just a fluke, and it sounds like we need to look deeper\u2014maybe an underlying infection, a change in how my body responds to insulin, or even something like a delayed gastric emptying issue. I appreciate you walking through all of this with me. What do you think would be the best next step to figure out the cause?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's maybe a 2 or 3 out of 10 \u2014 fatigue and occasional lightheadedness, but no real pain to speak of. Emotionally, it's higher, probably a 6 or 7. I'm frustrated and anxious because I feel like I'm losing control of something I've managed well for years, and that weighs on me more than the physical symptoms do."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a couple. First, do you think this could be related to something like insulin resistance changing over time, or could it be a sign that my pancreas isn't producing enough of its own insulin anymore? And second, given this pattern, would it be reasonable to consider adjusting my insulin regimen more formally, or maybe adding a different class of medication like a GLP-1 agonist? I just want to make sure we're covering all the angles."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been wondering if maybe my body is becoming more resistant to the insulin I'm taking, or if my pancreas is finally starting to burn out after all these years. I also considered the possibility of a low-grade infection or even stress-related hormonal changes\u2014though I haven't noticed any obvious signs of infection. Honestly, I'm hoping it's something simple like an adjustment in dosing or timing, but I've read enough to know it could be more complicated."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, yes\u2014I switched from simvastatin to atorvastatin for my cholesterol about six weeks ago, right around the time this started. I've read that some statins can affect glucose metabolism, and I wonder if that change might have contributed. I didn't think to bring it up earlier, but it's been nagging at me."
+    }
+  ]
+}

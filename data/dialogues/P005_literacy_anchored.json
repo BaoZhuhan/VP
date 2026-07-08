@@ -1,0 +1,187 @@
+{
+  "profile_id": "P005",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been noticing my heart fluttering several times a day recently. Each episode lasts about a minute. When I checked my own pulse during these episodes, I noticed it felt irregular \u2014 not just faster, but skipping and stumbling. I'm a retired nurse, so I tend to keep an eye on these things, and it's been worrying me enough to come in."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago, maybe a little longer. At first, it happened once every few days, but over the last week or so, it's been more frequent \u2014 sometimes two or three times a day."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really painful, I'd say more of a fluttering or flopping sensation right in the center of my chest. I wouldn't even call it discomfort, just a very noticeable odd feeling. Occasionally, I feel a little lightheaded during the episode, but that passes once it stops."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, not at all. I've been feeling perfectly fine otherwise \u2014 no fever, no chills, no sweats. My temperature has been normal, and I haven't felt like I'm fighting off any kind of infection."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on a few medications for my blood pressure \u2014 lisinopril, 10 milligrams daily \u2014 and I also take atorvastatin for cholesterol. Just a baby aspirin, 81 milligrams, as a preventive measure. No blood thinners or rhythm medications."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypertension, which I've been managing for about 10 years now, and high cholesterol for even longer. I also have type 2 diabetes, but it's well-controlled with diet and metformin. I've never had any heart problems before this, no history of atrial fibrillation or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Yes, I'm allergic to sulfa drugs. I found out years ago when I was given an antibiotic for a urinary tract infection \u2014 I broke out in hives and had some facial swelling, so I steer clear of anything in that family."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I haven't tried any medications, if that's what you mean. But I do sit down and rest when it happens, and I've tried taking slow, deep breaths. I've noticed it usually stops on its own before I can do much about it anyway. I also started keeping a log of when it happens and what I'm doing at the time."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "I haven't found anything specific that makes it better or worse, to be honest. It seems to happen randomly \u2014 sometimes when I'm resting, sometimes when I'm active. I haven't noticed a link to caffeine, stress, or any particular activity. The episodes always stop on their own, so I haven't needed to do anything to make them go away."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It hasn't really stopped me from doing anything, but I'd say it's made me more vigilant. I find myself checking my pulse more often and paying extra attention to how I feel during the day. I suppose it's a bit unsettling, but I'm still managing my usual routine \u2014 light walks, household chores, reading. I just want to make sure nothing serious is brewing."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I've never smoked, and I rarely drink alcohol \u2014 maybe a glass of wine at a family gathering once or twice a year. I've never been a heavy drinker, especially given my blood pressure and diabetes."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had a history of heart disease \u2014 he had a heart attack in his late 60s, and I know he was treated for some kind of irregular heartbeat, but I don't remember the details. My mother lived into her 90s with no heart problems, so it's a bit mixed. I'm not sure if what he had is exactly what I'm experiencing now."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. This is completely new for me. I've been fortunate to have relatively steady heart rhythms my whole life, so these fluttering episodes definitely caught my attention."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes perfect sense. I appreciate you taking the time to explain things clearly. Given my background as a nurse, I do have some understanding of heart rhythm issues, but I'm still eager to hear what you think might be going on. Are you suspecting something like atrial fibrillation, or could it be something else entirely? I'm relieved we're already talking about next steps like the monitor."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's about a 2 out of 10 \u2014 the fluttering is noticeable but not painful, and it doesn't really hinder me. Emotionally, maybe a little higher, around a 4. I'm not panicked, but as a retired nurse, I know what an irregular heartbeat can mean, so there's a bit of underlying anxiety. I'm hoping we catch it early and figure out what's going on"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a few questions. First, if we do catch an episode on the monitor and it turns out to be atrial fibrillation, what would the next steps look like \u2014 would I need medication right away, or is there a watch-and-wait approach? Also, given my age and diabetes, are there any specific precautions I should take in the meantime, like avoiding certain activities or monitoring my blood sugar more closely? I'd rather be proactive than reactive."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Given my symptoms \u2014 the fluttering, the irregular pulse, and my age plus the diabetes and hypertension \u2014 I'm honestly wondering if it could be atrial fibrillation. I've seen it in my nursing career, and the pattern feels similar. But I also know it could be something like frequent premature atrial or ventricular contractions. I'm trying not to jump to conclusions without data, but that's my best guess based on what I've felt. What do you think is most likely?"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've covered most of it, but there is one thing \u2014 about a week ago, I had one episode that lasted closer to two minutes, and I felt a bit short of breath afterward. It passed quickly, but it was different from the others. I'm not sure if that changes anything, but I thought it was worth mentioning."
+    }
+  ]
+}

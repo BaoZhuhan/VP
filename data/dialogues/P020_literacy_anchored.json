@@ -1,0 +1,147 @@
+{
+  "profile_id": "P020",
+  "strategy": "literacy_anchored",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm honestly really struggling. For the past couple months, I can barely sleep \u2014 I lie awake for hours, and even when I do fall asleep, I wake up way too early with my heart pounding in my chest. And during the day, I just can't focus on anything, especially my PhD work. It feels like my brain is constantly buzzing but I can't get anything done."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It kind of crept up on me, but I'd say it really became noticeable about three months ago, around when my thesis proposal was due. I remember thinking, \"I'll sleep better once this is over,\" but it only got worse. Now it's every single night."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain \u2014 more like a tightness in my chest, like something heavy is pressing down. And my heart feels like it's hammering, sometimes even when I'm just sitting still or trying to relax. My muscles feel tense all the time too, especially in my neck and shoulders."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills at all. I've been pretty healthy otherwise \u2014 no cough, no sore throat, nothing like that. It's really just this constant feeling of being on edge and completely exhausted at the same time."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications right now. I do take a multivitamin most days, and occasionally I'll have a cup of chamomile tea at night to try to help me sleep \u2014 but it doesn't really work anymore. I've thought about asking for something, but I wanted to talk to a doctor first."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No chronic conditions that I've ever been diagnosed with. I had my blood pressure checked about a year ago, and it was normal then. But I do wonder if it could be related now, given how stressed I feel all the time."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "I'm allergic to penicillin \u2014 I get a rash if I take it. Nothing else that I know of. I always make sure to mention it because I know it's an important one to flag. But I don't think that's related to what's going on now."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried some mindfulness exercises and meditation apps, but honestly, I can't quiet my mind long enough for them to help. A few times I had a glass of wine to relax, but that just made me feel worse the next day. I haven't seen a therapist or anything yet \u2014 I thought"
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Well, it definitely gets worse when I have a deadline approaching or when I'm working late at night on my research. But the frustrating thing is \u2014 even on weekends when I don't have anything urgent, I still wake up with that racing heart. So it's like my body doesn't know how to calm down anymore. The only small relief I get is when I'm fully absorbed in my work, because I'm not thinking about"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really starting to impact my research \u2014 I used to be able to sit and write for hours, but now I'm lucky if I can concentrate for twenty minutes. I've missed two departmental meetings because I was so exhausted and anxious in the morning. I feel like I'm falling behind, and that just makes the anxiety worse. It's like a cycle I can't break."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all \u2014 never have. I do drink occasionally, maybe a glass of wine once or twice a week, like I mentioned earlier. I've never been a heavy drinker. I know some people use alcohol to help with sleep, but for me, it just makes me feel groggy and more anxious the next day, so I try to avoid it now."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother has always been a pretty anxious person \u2014 she's never been formally diagnosed, but she talks about having a constant \"nervous stomach\" and trouble sleeping. My father doesn't really have anything like this. So I guess there might be a family pattern. It's something I've wondered about \u2014 if maybe I'm just wired this way genetically."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I've had stressful periods before \u2014 finals in undergrad, tough deadlines \u2014 but I always bounced back once things calmed down. This time, it just keeps going, even when there's no immediate pressure. That's what scares me, honestly. It feels different, like my body has forgotten how to relax completely."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it does, thank you. You've explained everything really clearly, and I appreciate that. It helps just to have someone listen and make sense of what's been going on. I honestly felt like I was going crazy, so hearing you frame it as something real \u2014 it's a relief."
+    }
+  ]
+}
