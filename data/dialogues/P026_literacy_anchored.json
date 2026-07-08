@@ -1,0 +1,187 @@
+{
+  "profile_id": "P026",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "My stomach's been hurting off and on for a few weeks. I don't feel like eating much."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I guess about three weeks ago, maybe a little more."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's like a dull ache, right here in the middle. Not sharp or anything. Just there, off and on."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on anything right now. Just a multivitamin sometimes."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, not really. Nothing serious."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I just drank some ginger tea, but it didn't help much."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Not really. Just comes and goes no matter what I do or eat."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "I've been missing some work. Standing at the register all day makes it worse, so I've taken a few days off."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke. I might have a beer now and then, but not much."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My mom had some stomach trouble, but I don't know what it was exactly."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never felt this before. Just the occasional upset stomach, but nothing that lasted this long."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think so."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, maybe a 3. It's not terrible, just annoying. Emotionally, a 2. I'm just tired of it, that's all."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "No, I think you covered everything. Whatever you think, doc."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I don't know. That's why I came to you. Something's just not right in my stomach."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "No, I think that's everything. Just tired of it, you know."
+    }
+  ]
+}

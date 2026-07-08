@@ -1,0 +1,187 @@
+{
+  "profile_id": "P025",
+  "strategy": "consistency",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "These headaches, doc. They keep coming back and won't go away. Sometimes I get dizzy too."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "A few months back, I guess. Could be two or three. They just keep coming."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Right here, at the back of my head. Feels like someone's squeezing it tight."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No. No fever. Just the headaches and the dizzy spells."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just some aspirin for the pain, every now and then. And I take a blood pressure pill, but I don't remember the name."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, I got high blood pressure. And my back's been acting up for years, but that's from work."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. Never had a problem with any pills before."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just the aspirin, like I said. Sometimes I put a cold cloth on my head when it gets real bad. Lying down helps a little with the dizziness."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Bending down or lifting stuff at work makes it worse. Lying still helps some. Loud noise too - that's rough."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's making work tough. Hard to focus lifting boxes when I'm dizzy all the time. Makes me short with people too."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I smoke about a pack a day. Drink beer on weekends, maybe three or four."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "I don't think so. My dad had high blood pressure too, but he never complained about headaches like these."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Nah, I've had headaches before, but never like this. These just won't quit. And the dizziness is new."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah, I guess so. Just tell me what's wrong so I can get on with things."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, it's about a 6. Head's pounding and I feel off balance. Emotionally... I'd say a 7. It's got me on edge."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Just tell me if it's something bad. And if there's a pill to make it stop."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I don't know, that's why I'm here. I just need it to stop so I can get back to work."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that's everything. Unless you need to know how my neck feels stiff sometimes when I wake up. But that's probably nothing."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P027",
+  "strategy": "standard",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, I've been feeling just bone-tired for months now. No matter how much I sleep, I wake up feeling like I haven't rested at all. And I've been losing weight without even trying \u2013 about 15 pounds over the past few months."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I guess it's been creeping up for about four or five months now. Hard to say exactly when it started, but it's definitely been getting worse lately."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no real pain, just a heavy tiredness all over. My muscles feel weak, especially in my legs, like I've been working double shifts when I've only done my regular hours. Sometimes my heart races a bit, but it doesn't hurt."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever. But I have been getting night sweats \u2013 waking up with my pajamas soaked through. I thought maybe it was just the menopause acting up again, but it's been happening pretty often lately."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I don't take any prescription medicines, just a multivitamin every now and then. Nothing else really."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Not that I know of. My blood pressure has been a little high at times, but nothing serious enough for medicine. I've never had diabetes or anything like that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medicines that I know of. I've never had a reaction to anything like that. Just got stung by a bee once when I was younger, but that's it."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been drinking more coffee, but it doesn't seem to help much. And I've been trying to eat bigger portions to stop the weight loss, but the weight keeps coming off anyway. Honestly, I just keep working through it best I can. I'm worried something serious might be going on inside me."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting helps a little, but I still feel tired even after I've been sitting down for a while. The nightsweats don't make anything better \u2013 they just leave me feeling worse in the morning. I've noticed my job cleaning rooms wears me out quicker than it used to."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's getting harder to do my housekeeping shifts. Some days I have to push myself just to finish cleaning my rooms. My supervisor has noticed me slowing down, and I'm worried about keeping my job. Honestly, it's scaring me \u2013 I can't afford to lose this work."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about fifteen years ago, so that's behind me. I do have a glass of wine now and then, maybe once a week with my sister when we visit. Nothing heavy, no."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had some thyroid trouble \u2013 I remember her complaining about being tired a lot. And my father had stomach issues, but he passed away from a heart attack when he was in his seventies. Nothing else that I can think of."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've had tired days before, you know - who hasn't? But this is different. It's like my body just won't cooperate with me anymore. I've never lost weight without trying in my whole life, and it's got me pretty worried if I'm being honest."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "I think so, doc. You're going to order some blood work to check for diabetes or thyroid problems, right? That makes sense to me. You're the expert \u2013 I just know I feel terrible and I want to figure out what's wrong."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's wearing me down something awful. I feel like I'm dragging myself through each day, like I'm carrying a heavy sack of laundry everywhere I go. Emotionally... I'm scared, plain and simple. I try not to dwell on it, but it's always in the back of my mind."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, one thing \u2013 how soon do you think we'll get some answers from the blood work? I want to know if there's something I should be doing in the meantime, like eating differently or taking it easy at work."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I don't know, doc. I was hoping you could tell me. Maybe something with my thyroid, since my mother had trouble with hers. I've heard that can make you tired and mess with your weight. But I'm just guessing - that's why I'm here, to get a real answer."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Well, there is one thing. I've been having some stomach trouble too - nothing major, but my"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P026",
+  "strategy": "standard",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "My stomach's been hurting off and on. Don't really feel like eating much either. Just wanted to get it checked out."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Started a few weeks ago. Three weeks maybe? It just comes and goes."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's right here, in the middle. Under my ribs. Kind of a dull ache, not sharp or anything. Sometimes after eating it feels worse, like heavy or full."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever. Haven't felt hot or anything like that. Just the stomach stuff."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just some blood pressure pills. Don't remember the name. And I've been taking Tums for the stomach, but it doesn't really help."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, high blood pressure. That's about it."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. Never had a problem with any medicine."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just the Tums I mentioned. They don't really do much. Sometimes lying down makes it worse, so I've been sitting up more."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Eating makes it worse, especially if I eat too much. Sitting up helps a little. Not much else."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "I work as a cashier, so I'm on my feet a lot. Lately I just feel tired and don't want to eat at work. It's slowing me down."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke. I'll have a drink now and then, but not much. Stomach doesn't like it anyway."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "I don't really know. My mom had some stomach trouble, but she passed a while back. Never talked much about it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. I've had heartburn before, but this is different. Lasts longer."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah, I think so. You're saying my stomach's acting up and the Tums aren't cutting it. What's next?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physical, maybe a 3. It's there but I can still work. Emotionally? I'd say a 2. I'm not panicked, just tired of it."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Not really. Just want to know what you think it is and if I need to do any test or something to figure it out."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I don't know, that's why I came to you. Maybe something with my stomach or digestion? You tell me."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I don't think so. Just been tired more than usual. That's all."
+    }
+  ]
+}

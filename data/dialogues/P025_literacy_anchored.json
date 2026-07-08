@@ -1,0 +1,187 @@
+{
+  "profile_id": "P025",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Been getting these headaches. They just don't go away. Sometimes I get dizzy too."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "Few weeks back, I guess. Maybe a month. Hard to say exactly."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Right in the front, sort of behind my eyes. Pounding, like a hammer tapping in my head."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No. Just the headaches and dizzy spells."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just that one for my back. Little white pill. That's it. Nothing else."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Just the back trouble. That's all. Nothing else wrong with me."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. Never had a problem with any pills."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just some Tylenol when it gets real bad. Doesn't help much though."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Not really. Just sits there. Lifting stuff at work makes it worse, I think."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Makes it hard to sleep. Hard to focus on the job too. Boss ain't happy."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "A beer or two after work sometimes. Don't smoke."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Nobody I can think of. Mom had high blood pressure. That's all I know."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No. Never had nothing like this before. Just the usual aches from work."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah. I get it, doc. Whatever you think is best."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Pain's maybe a 3. Dizzy stuff, maybe a 3. Not real bad, just... annoying. Worries me a little, I guess."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Nah. Just tell me what to do and I'll do it."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I dunno. That's why I came here. You tell me."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "No. That's about it. Just the headaches and dizzy spells."
+    }
+  ]
+}

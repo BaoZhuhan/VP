@@ -1,0 +1,187 @@
+{
+  "profile_id": "P027",
+  "strategy": "literacy_anchored",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, I've been feeling just plain worn out lately. No matter how much sleep I get, I'm still tired. And I've noticed I'm losing weight without really trying."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I'm not sure exactly. Maybe a few months back? The tiredness just sort of snuck up on me. The weight loss I've noticed more in the last couple months."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I don't really have a sharp pain or anything. It's more like a heavy, tired feeling all over, especially in my arms and legs. Like I've been scrubbing floors all day even when I've just woken up."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, nothing like that. Just the tiredness and the weight. No fevers or chills that I can remember."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a little white pill in the morning for my blood pressure, and a bigger one at night. That's all. I don't remember the names."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Just the high blood pressure, as far as I know. That's what the morning pill is for."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had a problem with any medicine before."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really. I just figured I needed more rest, so I tried sleeping longer. But it didn't help. A friend said maybe I needed more iron, so I bought some from the store, but I didn't notice much difference."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Work makes it worse, that's for sure. By the end of my shift I can barely keep going. Resting doesn't really make it better, like I said. I just stay tired."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been hard. I used to get through my cleaning shifts without trouble, but now I drag myself around and have to take more breaks. My boss has noticed, and I'm worried I might lose hours. I just don't have the get-up-and-go I used to."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I never smoked, and I only have a glass of wine at Christmas or a family party. Nothing regular."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "I don't really know. My mother had heart trouble, and my father passed from cancer in his stomach. But nobody mentioned being tired like this."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've always been a hard worker and slept fine. This is new for me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think so. Whatever you think is best, doc. I just want to feel like myself again."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically? I'd say maybe a 7. It's wearing me down pretty bad. Emotionally... I'm a little scared, maybe a 6 or 7. I don't like not knowing what's wrong with me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "No. Just... do you think it's something serious? And is there anything I can take to get my energy back?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I don't know, doc. That's why I'm here. You're the expert. I just hope it's nothing too bad."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I don't think so. Just... I had a dizzy spell at work last week, but it passed quick. And my husband says my skin looks kind of pale, but I thought it was just the light in our kitchen."
+    }
+  ]
+}

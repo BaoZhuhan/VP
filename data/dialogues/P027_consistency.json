@@ -1,0 +1,187 @@
+{
+  "profile_id": "P027",
+  "strategy": "consistency",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doc, I'm just so tired lately. No matter how much I sleep, I still feel worn out. And I've been losing weight without even trying \u2014 maybe fifteen pounds over the last few months."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I'd say it's been about three or four months now. The tiredness came on slow, and the weight loss I didn't really notice until my daughter mentioned my clothes were getting loose on me a couple months ago."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain or anything. More like a deep, heavy feeling all over, especially in my arms and legs. Sometimes my joints ache a little, but nothing terrible \u2014 just that worn-down, achy feeling you get after a long day of work, only it doesn't go away."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Not really a fever, no. But I've had nights where I wake up drenched in sweat \u2014 not every night, but a few times a week. And sometimes I feel a little warm and shaky during the day, but I don't run a temperature."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a blue pill for my blood pressure every morning \u2014 I think it's called lisinopril. And my doctor put me on something for my nerves a while back, it's a little white tablet. I'm sorry, I don't remember the name. That's all I take."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I've got high blood pressure, that's the main thing. Been on medicine for it for about five years now. The doctor also said I had something called... pre-diabetes a few years back, but I never did much about it. And nerves, I suppose \u2014 I've been on those pills for maybe two years now."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I took some antibiotics once for a tooth infection and I was fine, so I guess nothing bothers me."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really, no. I just try to push through it best I can. I thought maybe I was working too hard, so I cut back a little on my hours, but it didn't seem to help. I eat when I remember to, but I haven't changed my diet or anything."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Nothing really makes it better. Rest doesn't help, like I said. If anything, when I have a long day at work scrubbing rooms and making beds, I feel worse that night \u2014 just totally drained. Mornings are the hardest, though. Sometimes I have to sit on the edge of the bed for a minute before I can stand up."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's getting harder to keep up at work. I've been a housekeeper for twenty years and I know my job, but lately I have to stop and catch my breath more often. My boss has been looking at me funny. And"
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke. Never picked up the habit. I might have a glass of wine or a beer on a holiday or a special occasion, but that's maybe a few times a year. I don't drink regular."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had thyroid trouble, I think, but I don't know much about it. She passed away from breast cancer years ago. My father had heart problems. Nobody else I know of had this kind of tiredness or weight loss."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've always been a hard worker, got through my shifts fine. This is the first time I've felt this bad for this long. It's got me a little worried, to be honest."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think so. You're saying it all makes sense together \u2014 the tiredness, the weight loss, the sweats. I just hope you can help me figure out what's wrong so I can get back to work and feel like myself again."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I can't really put a number on it, doctor. Physically, I feel like I'm dragging a heavy weight around all day. Emotionally, I'm scared I won't be able to keep my job if this keeps up. It's wearing on me, but I'm trying to hold it together."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Just one thing... could this be something serious? Like cancer? I lost my mother to it, and I can't help but worry that's what's happening to me."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I honestly don't know, doctor. That's why I came to you. I'm just hoping it's something that can be fixed with medicine or a change in diet, not something worse. I'm trying not to think the worst, but it's hard not to."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I guess there's one more thing. I've been feeling awfully thirsty for the past few weeks \u2014 drinking more water than usual, and I'm getting up to use the bathroom a lot at night. I didn't think much of it, but my daughter mentioned it might be worth telling you."
+    }
+  ]
+}

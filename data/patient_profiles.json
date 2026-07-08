@@ -1059,7 +1059,136 @@
         "category": "general_checkup",
         "urgency": "routine",
         "setting": "primary_care",
-        "chief_complaint": "It's been three years since my last physical. My wife wants me to get everything checked — blood pressure, cholesterol, the works. I feel fine honestly."
+        "chief_complaint": "It's been three years since my last physical. My wife wants me to get everything checked \u2014 blood pressure, cholesterol, the works. I feel fine honestly."
+      }
+    },
+    {
+      "patient_id": "P025",
+      "demographics": {
+        "age": 52,
+        "gender": "male",
+        "occupation": "warehouse_worker"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "headache",
+        "secondary_symptoms": [
+          "dizziness",
+          "nausea"
+        ],
+        "symptom_duration": "1-2_weeks",
+        "disease_severity": 3,
+        "temperature_c": 36.8,
+        "chronic_conditions": [
+          "hypertension"
+        ],
+        "medications": [
+          "lisinopril"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "current",
+        "alcohol_use": "occasional"
+      },
+      "affective_attributes": {
+        "anxiety_level": 3,
+        "pain_level": 3,
+        "mood": "irritable",
+        "cooperation_willingness": 3,
+        "health_literacy": "low",
+        "communication_style": "terse"
+      },
+      "scenario": {
+        "category": "neurological",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I keep getting these bad headaches that won't go away, and sometimes I feel dizzy."
+      }
+    },
+    {
+      "patient_id": "P026",
+      "demographics": {
+        "age": 39,
+        "gender": "female",
+        "occupation": "cashier"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "abdominal_pain",
+        "secondary_symptoms": [
+          "nausea",
+          "loss_of_appetite"
+        ],
+        "symptom_duration": "2-4_weeks",
+        "disease_severity": 2,
+        "temperature_c": 37.0,
+        "chronic_conditions": [
+          "none"
+        ],
+        "medications": [
+          "none"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 2,
+        "pain_level": 3,
+        "mood": "resigned",
+        "cooperation_willingness": 4,
+        "health_literacy": "low",
+        "communication_style": "terse"
+      },
+      "scenario": {
+        "category": "gastrointestinal",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "My stomach's been hurting off and on for a few weeks. I don't feel like eating much."
+      }
+    },
+    {
+      "patient_id": "P027",
+      "demographics": {
+        "age": 61,
+        "gender": "female",
+        "occupation": "hotel_housekeeper"
+      },
+      "clinical_attributes": {
+        "primary_symptom": "fatigue",
+        "secondary_symptoms": [
+          "weight_loss",
+          "muscle_ache"
+        ],
+        "symptom_duration": "3-6_months",
+        "disease_severity": 3,
+        "temperature_c": 36.6,
+        "chronic_conditions": [
+          "diabetes_type2"
+        ],
+        "medications": [
+          "metformin"
+        ],
+        "allergies": [
+          "none"
+        ],
+        "smoking_status": "never",
+        "alcohol_use": "none"
+      },
+      "affective_attributes": {
+        "anxiety_level": 4,
+        "pain_level": 2,
+        "mood": "anxious",
+        "cooperation_willingness": 4,
+        "health_literacy": "low",
+        "communication_style": "stoic"
+      },
+      "scenario": {
+        "category": "endocrine",
+        "urgency": "routine",
+        "setting": "primary_care",
+        "chief_complaint": "I'm tired all the time no matter how much I sleep, and I've been losing weight without trying."
       }
     }
   ],
