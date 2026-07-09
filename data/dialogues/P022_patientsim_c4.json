@@ -1,0 +1,187 @@
+{
+  "profile_id": "P022",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been feeling pretty rough for the past four days. I keep getting a fever that comes and goes, and the chills at night are really bad. My whole body aches - my muscles hurt, I have a headache, and I've been coughing too."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about four days ago, on Tuesday evening. I felt okay during the day, but then at night the fever and chills hit me hard."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's kind of all over, really. My head aches mostly at the front and behind my eyes, and my legs and back feel sore, like I overdid it at the gym. The pain is not super strong, maybe a 4 out of 10, but it's constant."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Yes, the fever comes and goes. I check my temperature sometimes, and it's around 101 or 102 degrees. But at night, the chills are the worst - I shake so much I can't get warm, even with blankets. I've been taking acetaminophen to try to lower the fever."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "Just the acetaminophen, doctor. I take it every six hours or so when the fever gets bad. Other than that, I'm not on any regular medicines."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, not at all. I'm generally healthy - no diabetes, high blood pressure, or anything like that. I don't take any regular medicines, just the acetaminophen I mentioned."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think I'm allergic to anything. I've taken medicines like ibuprofen and penicillin before without any problems."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Just the acetaminophen for the fever and aches. I've also been trying to rest a lot and drink warm tea to help with the chills and the cough. Nothing else really, because I didn't think it was serious enough to come in sooner."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting in bed helps a little, and the acetaminophen brings the fever down for a few hours. But moving around or coughing makes the headache and muscle aches worse. The chills at night seem to come no matter what I do."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really affecting my work, to be honest. I'm a school teacher, so I've had to take two days off because I just don't have the energy to stand in front of a class. At home, I can barely get out of bed to make food or do simple things."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I do have a drink maybe once or twice a month, like a beer or a glass of wine with dinner. But I haven't had any alcohol since this started because I just don't feel up to it."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My wife and kids are fine, and nobody at school has been sick like this either. So I'm not sure where I caught it."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not really. I usually get a cold maybe once a year, but it's just a runny nose or a little cough. This time feels much worse - the fever, the body aches, and the chills are stronger than anything I remember."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah, I think so. You're saying it sounds like some kind of infection, maybe like the flu, because of the fever, chills, and body aches. That makes sense to me. What do you recommend I do next?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "I'd say physically it's around a 4 out of 10 - the aches and fever are there all the time, but I can manage with the medicine. Emotionally, maybe a 2 out of 10. I'm a bit worried because I've missed work, but I'm not really scared or anything."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a couple questions. First, do you think this is just a bad flu, or could it be something else? And second, when do you think I can go back to work? I teach kids, so I don't want to spread anything."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Honestly, I'm not sure. I thought it was just the flu, but the fever keeps coming back even with medicine. Maybe it's something a bit stronger, like a bad virus or infection. I'm hoping you can figure it out for me."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "No, I think that's everything. I've told you all my symptoms and how I've been feeling. I just hope you can help me get better so I can get back to my students soon."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P008",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been feeling really dizzy when I stand up, and yesterday I almost fell. My wife also noticed that my hand shakes sometimes, and that's worrying me. So I thought I should come and check what's going on."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The dizziness started maybe about three weeks ago. The shaking in my hand, my wife pointed that out just last week, but I think it might have been there a little longer without me really noticing."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "Well, the dizziness isn't really a pain. It's more like the room spins a little when I get up from a chair or bed. Sometimes I also get a dull headache around my forehead. And my legs feel a bit numb and tired a lot."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills at all. Just the dizziness, the headache, and feeling tired. Nothing like being sick with a cold or the flu."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take metoprolol every day for my blood pressure and heart, and atorvastatin for my cholesterol. I've been on these for a few years now, and I never miss a dose."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have coronary artery disease and high blood pressure. My doctor told me those are under control with my medicines, but I still worry about them, especially now with these new problems."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medicine that I know of. I've taken a few different ones over the years, and never had a bad reaction."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been trying to sit down slowly and waiting a bit before standing up, but it doesn't always help. Sometimes I drink more water or eat a little salty snack, but the dizziness still comes back."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "It gets worse when I stand up quickly, especially in the morning or after sitting for a long time. Lying down or sitting still makes it feel a bit better, but the dizziness goes away after a few minutes. The headache never really stops, though."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's made me slow down a lot. I used to walk in the garden every morning, but now I'm worried about falling. My wife keeps an eye on me all the time, and I don't like that feeling. I also feel tired most afternoons, so I end up resting more than I'd like."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking about ten years ago, and I only have a glass of wine maybe once a month, if that. My wife says it's better for my heart to avoid it, so I really don't drink much."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had heart problems too, but I'm not sure if he ever felt dizzy like this. He had a stroke later in life. Nobody else in my family had shaking hands or numbness like I have now, as far as I know."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this before. I've had occasional headaches, but never this dizziness or the shaking in my hand. This whole thing feels new and honestly a bit scary for me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think I understand most of it. But could you explain again what might be causing the dizziness and the shaking together? I get confused when you use big words, sorry."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, it's maybe a 3 out of 10. Not terrible pain, but the dizziness really bothers me. Emotionally, I'd say it's more like a 7 out of 10. I'm worried all the time because I don't know what's causing this, and I don't want to fall or have something bad happen to my heart."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a couple of questions. First, do you think this dizziness could be from my heart condition or the medicines I take? And second, should I be worried about having a stroke like my father did? I just want to know if I'm okay."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Honestly, I'm not sure. I hope it's not something serious like a stroke or a heart problem. Maybe it's just old age or the medicines causing this? But I really don't know. That's why I came to you."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Now that you ask, my wife also mentioned that sometimes my hand feels a bit numb or tingling, not just shaking. That happens maybe once or twice a day, but it goes away quickly. I almost forgot to say that."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P011",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've been having problems with my stomach for about a few weeks now. I feel sick almost every day, and some days I just can't keep any food down. I've also lost some weight, maybe about three kilos, and I didn't try to lose it."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's mostly in my upper belly, right here under my ribs. It's not a sharp pain, more like a dull ache that stays most of the time. It gets worse when I feel really nauseous."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had a fever that I noticed. But sometimes I do feel a little hot or cold, especially after I throw up. But I didn't check my temperature or anything."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm taking metformin for my blood sugar, but that's all. I've been on it for a long time now, maybe a few years. I don't take anything else, not even vitamins. But I'm worried because my stomach feels worse after I eat, and sometimes even after taking the medicine."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have anemia. I've had it for a while, actually. The doctor told me my iron was low, so I take iron supplements sometimes, but not always. I thought maybe it was getting better, but now this stomach problem has me worried again."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had a problem with any medicine before. I'm not sure about the iron pills, but I never had a reaction, so I guess not."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I tried not eating very much, just small bites of bland food like crackers or toast. And sometimes I drink ginger tea to settle my stomach a little. But nothing really makes it go away completely, it just sort of helps for a while."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Well, eating usually makes it worse. Especially if I eat anything heavy or greasy. The nausea gets much stronger then, and I might even throw up. Resting or not eating for a while helps a little, but the feeling never really goes away. It's worse in the morning, too."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really hard, to be honest. I work as a bank teller, so I need to stand a lot and talk to people. But I feel so tired and sick, sometimes I just want to sit down. I've had to call in sick a few times, which I never used to do. I'm worried it's affecting my work and my energy is just not there like before."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to have a glass of wine sometimes, but not anymore because my stomach feels so bad. I never was a heavy drinker. As for smoking, I only smoke a little, maybe a few cigarettes a day, but I've cut down because my appetite is so poor now."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not that I know of. My mother had some stomach problems when she was older, but she never had this kind of nausea or vomiting like I do now. So I don't think it runs in the family or anything like that."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never had anything like this before. I mean, I've had an upset stomach once in a while, but nothing that lasted for weeks and made me lose weight. This is really new for me, and it's scaring me a little."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, doctor, I think I understand. You're saying my stomach problems might be linked to the medicine or maybe something else, and you need to check more to find out the reason. I'm a little worried, but I'm glad you explained it clearly."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have one question. Do you think this could be something serious, like an ulcer or... maybe something worse? I'm a little scared because I've never had this happen before, and I don't want to ignore it if it's something bad."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Well, I'm not a doctor, so I can't say for sure. But I'm worried it might be an ulcer or something with my stomach lining. Maybe it's the medicine I'm taking. Or... I don't know, maybe it's just a bad virus that won't go away. But I really hope it's nothing too serious. What do you think, doctor?"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "No, I think I've told you everything. I just really want to know what's wrong and get better. Thank you for listening, doctor. I feel a little better just talking about it."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P020",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been feeling absolutely dreadful for the past few weeks. Every morning I wake up with my heart pounding, and I just can't seem to get any restorative sleep anymore. It's getting to the point where I'm worried about my heart\u2014the palpitations are genuinely disconcerting."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago. At first I thought it was just stress from my PhD work, but it's only gotten worse and now I'm genuinely scared something is wrong."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The headache is a dull, pressure-like ache across my forehead, not sharp or throbbing. But what really frightens me is the palpitations\u2014I feel my heart racing or skipping, and it's so intense it wakes me up or hits me the moment I open my eyes in the morning. It's honestly terrifying."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills, and no other signs of infection. It's purely this awful fatigue, insomnia, and these scary heart sensations that are making me feel like I'm losing control."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not taking any medications at all, not even over-the-counter supplements. I do have a diagnosis of anxiety disorder, but I've never been prescribed anything for it\u2014I've been managing it on my own until now."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have an anxiety disorder that's been diagnosed for several years now. I've always been able to handle it with lifestyle modifications, but these past few weeks have felt completely different and far more unmanageable. It's making me worry that maybe what I'm feeling isn't just anxiety."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known allergies to any medications. I've never had any adverse reactions before, so that's at least one less thing to worry about."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried meditation, deep breathing exercises, and even some herbal teas before bed, but nothing seems to calm my heart or help me sleep through the night. Honestly, it's frustrating because I'm usually very disciplined with self-care, and none of it is making a dent this time."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Physical activity actually helps temporarily\u2014if I go for a run, my heart rate feels normal and my head clears for an hour or two. But caffeine or even just thinking about my deadlines makes everything infinitely worse, and the insomnia just feeds back into the cycle. I feel like I'm trapped in this loop of exhaustion and anxiety."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's devastating my productivity\u2014I can barely concentrate on my research, and my supervisor is starting to notice. I'm terrified I'll fall behind in my PhD, and that fear just amplifies the insomnia and heart palpitations. I feel like I'm failing at everything right now."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink alcohol occasionally, maybe a glass of wine once or twice a week, but I've stopped completely since this started because I was worried it might be worsening my sleep quality."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother has dealt with anxiety and insomnia for years, and she's been on medication for it. Seeing her struggle makes me worry that I'm heading down the same path, especially since my symptoms feel very similar to what she described."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "I've had periods of anxiety before, but nothing quite like this\u2014the severity of the palpitations and the complete loss of appetite are new for me. It used to be manageable nervousness, but now it feels like my body is sounding an alarm that I can't turn off, and that's really shaken me."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "I'm sorry, but I think there might be some confusion\u2014you haven't actually explained anything to me yet. You've been asking me questions, which I've answered, but I haven't heard your assessment or any explanation about what might be going on with me. Could you please clarify what you mean?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's around a 6\u2014the constant fatigue and daily headaches are draining. Emotionally though, it's a solid 9 or even 10; I feel like I'm barely holding it together, and the fear that this might be something serious is absolutely overwhelming. I'd really appreciate some clarity on what's happening to me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have several questions. Given how severe the palpitations are, do you think I need any cardiac testing to rule out physical causes? And if this is purely my anxiety disorder flaring up, what treatments are available that could actually help me break this sleepless, exhausted cycle? I'm very worried about my heart, but also desperate for relief from the insomnia."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Honestly, I'm worried it could be something like hyperthyroidism or a heart rhythm problem, given the palpitations and weight loss from my appetite. But I'm also terrified that it's just my anxiety spiraling out of control in a way I can't manage alone anymore. That's why I need your guidance to figure out which it is, because the uncertainty is making everything worse."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that's everything I can think of right now. I just really need to understand what's happening to me, because this constant uncertainty and physical distress is frankly terrifying. Whatever it turns out to be, I just need a path forward."
+    }
+  ]
+}

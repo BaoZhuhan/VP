@@ -1,0 +1,187 @@
+{
+  "profile_id": "P016",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Hi, thanks for seeing me. I came because I have this rash on both my arms that started yesterday. It's really itchy and it's keeping me up at night, so I can't sleep properly."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started yesterday afternoon, I think. I was in class and noticed a little redness, but by the evening it was much worse and so itchy. I couldn't sleep at all last night because of it."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really painful, just very itchy. I'd say the itching is pretty strong, like a 3 out of 5. It's mostly on the inside of my arms, from my elbows down to my wrists. I also have a little bit on my upper arms, near my shoulders."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I feel fine otherwise, just really tired from not sleeping. I also feel a bit irritable, honestly."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not taking any medications right now. No prescription or over-the-counter stuff. I don't even take vitamins or anything like that."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions. I'm generally healthy, and I haven't had anything like that before. I get check-ups once a year, and everything was fine last time."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. I've taken common stuff like ibuprofen before and it was fine. I don't think I'm allergic to anything. Actually, I used a new lotion last night, but I'm not sure if that's related."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Yeah, I put some moisturizer on it last night, but it didn't help much. I also tried not to scratch it, but that was really hard. I also ran cold water on my arms for a while, but the itching came back right after."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "The cold water helped a little bit, but only for a few minutes. The itching gets worse when I'm warm, like under my sleeves or at night in bed. I think being hot makes it much more uncomfortable."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been pretty annoying, honestly. The itching is so bad at night that I can't sleep, and then I'm tired during the day. It's hard to focus in class, and I feel really irritable and anxious. I just want to figure out what this is so I can feel normal again."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke and I don't drink alcohol either. I'm not really into that stuff. I just drink water and sometimes juice."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I know of. My mom gets hay fever sometimes, but no one in my family has had a sudden rash like this. I don't think it runs in the family or anything."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. This is the first time I've had something like this. I don't usually get rashes, so it's really weird for it to just show up out of nowhere. I've been stressed with exams, but I don't know if that matters."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yeah, I think so. You've explained about the rash and possible causes, like allergies or stress. But I'm not sure I understood everything. Can you say it again in simpler words? I just want to make sure I know what to do next."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's a 4 out"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yeah, I have a couple of questions. First, what do you think is causing this rash? And also, is there something I can put on it to stop the itching, especially at night? I'd really like to sleep better."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not sure, but I think it might be from that new lotion I used, or maybe from stress with exams. It just started so suddenly, you know? I was hoping you could tell me if it's something like an allergic reaction or maybe a skin infection."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think you've covered everything. Just to be clear, I'll stop using that new lotion and see if it helps. And I'll try to keep my arms cool at night. If it doesn't get better, I'll come back. Thanks for listening to me."
+    }
+  ]
+}

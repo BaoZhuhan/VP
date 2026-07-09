@@ -1,0 +1,187 @@
+{
+  "profile_id": "P018",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm here because I'm really worried about some changes in my body. I've put on almost ten kilos in the last six months, and I haven't changed my eating or exercise at all. Plus, I'm always tired, and my hair is falling out more than usual."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago, I think. First I noticed the tiredness, and then the weight just started piling on little by little. The hair loss began maybe a couple of months after that."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I don't really have sharp pain, but my muscles feel achy and sore, like after a workout but without doing anything. It's mostly in my legs and shoulders. It's not terrible, maybe a 2 out of 10, but it's there every day."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. Just the tiredness and the aches. I feel kind of heavy and slow, if that makes sense, but no temperature or anything like that."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm on levothyroxine for my thyroid, and also sertraline for depression. I've been taking both for a few years now. I make sure to take them every day like the doctor told me."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypothyroidism and depression. I've had them for about five years now. The levothyroxine is for my thyroid, and the sertraline is for my mood. Everything was pretty stable before this started."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any allergies to medicines that I know of. I've never had a reaction to anything before. I just want to figure out why I'm feeling so different lately, because this doesn't feel like my usual thyroid problem."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Well, I tried eating a bit less junk food and walking more, but it didn't help much. I also asked my doctor to check my thyroid level last month, and he said it was fine, so I haven't changed my medication. Nothing seems to make a difference."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Rest doesn't really help. Even if I sleep more, I still feel tired. And eating, especially big meals, makes the achiness feel worse, like my body has to work too hard to digest. So nothing makes it better, really."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been really hard, honestly. At work, I can't concentrate like I used to, and I'm always dragging myself through the day. My boss even asked if I was okay. At home, I feel too tired to do things with my family, and my mood has been even lower than usual, like my depression is getting worse again."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I used to have a glass of wine maybe once or twice a week, but I stopped a few months ago because I thought it might be making me more tired. I hardly drink anymore."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had thyroid problems too, actually. She was always tired and struggled with her weight. But I don't think anyone in my family had hair loss like mine. My father had diabetes, but that's different, I think."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. I've had some tiredness before when my thyroid was off, but it was never this bad, and I never had hair falling out. This whole thing feels different and more constant. I really feel like something else might be going on."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think so. You're asking about how my symptoms started and how they affect me, right? But I'm still not sure what could be causing all of this together. Is there something else I should be checking?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say around a 4 or 5. The tiredness and the aches are always there, and it makes me feel like my body is heavy. Emotionally, I think it's a 6. I feel really down, worried, and scared that something serious is wrong"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I have one. Do you think this could be something else, not just my thyroid? Because my last blood test seemed okay. I just want to know what else could make a person gain weight, lose hair, and feel so tired all the time."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I don't know, that's what scares me. I thought maybe my thyroid medicine wasn't working right, but the test said it was fine. I read online that sometimes women my age can get hormone problems, like menopause or something? Could that be it? Or maybe something else entirely?"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, I've been feeling more anxious and sad than usual, even with my depression medicine. I cry more easily, and I don't enjoy things I used to like. I don't know if that's connected to the other symptoms, but I thought you should know."
+    }
+  ]
+}

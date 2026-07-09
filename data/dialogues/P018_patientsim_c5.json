@@ -1,0 +1,187 @@
+{
+  "profile_id": "P018",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about six months ago. First, I noticed I was more tired than usual, and then the weight started going up little by little. The hair loss, I think, started maybe three or four months ago."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The muscle aches are mostly in my shoulders and legs. It's not a sharp pain, more like a dull, heavy feeling, especially after I sit at my desk for a long time or try to walk any distance."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills. I haven't felt sick like that at all. It's more just the tiredness and the weight gain that bother me, because I really haven't changed my eating or anything."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take levothyroxine every morning for my hypothyroidism, and sertraline for depression. I've been on both for a few years now, and I haven't missed any doses. But, you know, I've started to wonder if the levothyroxine dose is still right for me."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have hypothyroidism and depression. I've been managing both for years. Up until six months ago, they were pretty stable and I felt fine. That's why I'm worried something else is going on now."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medications. I've taken a few different ones in the past for my thyroid and depression, and I've never had a problem."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Well, I've been trying to rest more, but it doesn't really help the tiredness. I also tried to eat a bit less, but the weight just keeps going up anyway. And I have been taking my thyroid medicine exactly like I always do, but I haven't changed the dose on my own."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Not really. Rest doesn't make the tiredness go away, and exercise actually leaves me more sore. The muscle aches get worse if I sit still for too long at my desk or try to do a lot of walking. The weight and the hair loss seem steady, they don't change much with rest or activity."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's really hard, to be honest. I'm an office manager, so I need to stay focused and organized, but I'm so tired all the time that I make small mistakes. I also feel self-conscious about my hair thinning, and I'm just not in the mood to see friends or do much after work anymore."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I used to have a glass of wine maybe once a week, but lately I haven't even felt like doing that. So no alcohol either, really."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had some thyroid issues too, but I'm not sure about the exact details. She had a lot of the same tiredness problems, I think. No one else in the family has mentioned hair loss or weight gain like mine."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. I've had times where my thyroid was a little off, but it was more like I'd lose weight or feel really cold. This time, it's the opposite\u2014weight gain, hair loss, and the tiredness is different, like it's not improving with sleep. I've never had this combination before."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think so. You're saying my symptoms might all be connected to my thyroid levels changing, even though I'm on the medication. That makes sense to me. But I just want to be sure\u2014do you mean the Levothyroxine dose might need to be different?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 5 out of 10. The muscle aches and constant tiredness are there all the time, so it's not horrible but definitely hard to ignore. Emotionally, it's worse\u2014maybe a 7 out of 10. The hair loss and weight gain really bring me down, and I'm feeling more depressed than usual."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. I'm wondering if maybe my thyroid medicine dose is wrong now, and if that could be causing all this. Also, do you want to do any more tests, like a blood test, to check?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been thinking about it a lot, and I'm worried my thyroid levels are off again, even though I'm taking the medicine. It just fits with the tiredness and weight gain. And I'm also wondering if maybe the depression medicine could be causing some of this? I honestly don't know what else it could be."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think I've covered everything. I'm just really worried because these changes are affecting my mood and my work. It feels like my body is doing something I can't control, and I hope you can help me figure out why."
+    }
+  ]
+}

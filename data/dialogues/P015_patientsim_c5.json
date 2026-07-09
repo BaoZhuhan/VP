@@ -1,0 +1,187 @@
+{
+  "profile_id": "P015",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm a yoga instructor, and I injured my shoulder doing a headstand about three weeks ago. While the initial tweak wasn't catastrophic\u2014maybe a 2 or 3 out of 10 on the pain scale\u2014it simply hasn't resolved with rest and gentle stretching. I can't demonstrate proper alignment or adjust students safely, which is impacting my ability to teach effectively."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started exactly three weeks ago this Thursday. I was holding a headstand during my personal practice, and I felt a sharp, sudden twinge in my right shoulder as I shifted my weight to adjust my alignment."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The discomfort is centered right over my right shoulder, primarily around the anterior deltoid and the acromioclavicular joint area. It feels like a dull ache at rest, but it becomes sharp when I lift my arm overhead or rotate it externally\u2014movements I need for teaching arm balances and adjustments."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't experienced any fever, chills, or systemic symptoms. It's purely a localized mechanical issue\u2014no signs of infection or inflammatory illness as far as I can tell."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription or over-the-counter medications. I've been relying solely on ice packs and topical arnica gel, since I prefer to avoid NSAIDs unless absolutely necessary."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, none whatsoever. I don't have any chronic conditions like diabetes, hypertension, or autoimmune disorders. My general health is excellent\u2014regular yoga practice, clean diet, and no prior musculoskeletal issues. This is actually my first significant injury."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No drug allergies that I'm aware of. I've tolerated acetaminophen and ibuprofen well in the past for menstrual cramps and minor strains, so there are no contraindications on that front."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been applying ice packs for about twenty minutes twice daily, and using topical arnica gel. I also stopped teaching inversions and restricted overhead movements, though I've attempted very gentle passive stretching and shoulder rolls\u2014neither has provided lasting relief. Essentially, nothing I've tried has expedited healing."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Rest and avoidance definitely help\u2014keeping my arm by my side and avoiding any weight-bearing on that shoulder dials the ache down significantly. Conversely, any overhead pressing motion, external rotation against resistance, or bearing my body weight through that arm\u2014like in downward dog or plank\u2014immediately triggers that sharp, stabbing sensation."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been quite disruptive professionally, as you can imagine. I've had to modify my entire class sequence, avoiding any arm balances or transitions that load the shoulder, which limits my teaching demonstrations and hands-on adjustments. Personally, it interferes with overhead motions\u2014reaching into cupboards, putting on a jacket, or even sleeping on that side wakes me up with a dull ache. It's manageable, but frustrating for someone whose livelihood depends on full, pain-free range of motion."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all\u2014never have. I do occasionally have a glass of wine socially, maybe once or twice a month, but no regular or heavy drinking. Given my profession, I'm fairly health-conscious about avoiding anything that might interfere with recovery or daily function."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had a frozen shoulder in her late forties, which resolved after physiotherapy. My maternal grandmother also dealt with chronic shoulder stiffness, though she never received a formal diagnosis. Beyond that, no one in my immediate family has had recurrent dislocations or rotator cuff pathology."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I haven't. I've had the occasional muscle soreness from overstretching or fatigue after intensive workshops, but nothing that lingered beyond a few days or required me to modify my teaching. This is the first time I've had a joint-related issue that hasn't self-resolved within a week."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes perfect sense. You've covered the mechanism of injury, the location and quality of pain, aggravating factors, and my health history\u2014it's a clear clinical picture. My main concern now is understanding whether this is a muscular strain or something involving the rotator cuff or labrum, since I need a precise diagnosis to plan my recovery and return to teaching safely."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, the baseline ache is around a 2, but those sharp spikes with certain movements push it to about a 5 for a moment. Emotionally, I'd say I'm at a 3\u2014I'm not panicked, but there's definite frustration and a low-level anxiety about when I can get back to full teaching. Since my body is my primary professional tool, any lingering uncertainty about the injury is a bit unsettling."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. Based on the mechanism and location, what's your differential diagnosis\u2014do you suspect a rotator cuff tendinopathy, a labral irritation, or more of an AC joint sprain? And realistically, what's the recovery timeline looking like for a return to full, active teaching? Also"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Based on my research and the pattern of symptoms, I'm leaning toward either a rotator cuff tendinopathy\u2014specifically the supraspinatus\u2014given the painful arc with overhead movement, or perhaps a mild AC joint sprain from the compressive load during the headstand. The dull ache at rest and sharp pain with external rotation could also suggest some subacromial impingement. But I'm really curious to hear your clinical assessment and whether you think imaging would be warranted."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, I've noticed a slight clicking sensation near the joint when I rotate my arm internally\u2014like a catch-and-release feeling, though it isn't painful. It's subtle"
+    }
+  ]
+}

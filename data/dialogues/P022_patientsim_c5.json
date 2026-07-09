@@ -1,0 +1,187 @@
+{
+  "profile_id": "P022",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, I've been feeling pretty rough for the last four days. I get a fever that comes and goes, and at night the chills are really bad. My whole body aches, like every muscle hurts. I tried taking some acetaminophen, but it only helps a little."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about four days ago, on a Tuesday evening after I came home from work. I had a headache first, and then the fever started that night. It just hasn't gone away properly since then."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is mostly in my muscles, like my arms, legs, and back. It feels like I got hit by a truck or something. I also have this constant headache, right behind my eyes and in my forehead. Sometimes I get a dry cough too, but that's not as bad as the body aches."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "Oh yes, the fever keeps coming back every day. I check my temperature, and it goes up to about 101 or 102 degrees Fahrenheit. But the worst part is at night - I get really bad chills and I shake so hard I can't even sleep. I have to put on extra blankets just to feel warm."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I've just been taking acetaminophen, the regular kind from the pharmacy. I take two tablets when the fever or pain gets bad, but I try not to take more than the bottle says. I haven't taken anything else, not even cold medicine."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any ongoing health problems like diabetes or high blood pressure. I'm generally pretty healthy, and I don't take any regular medications for anything else. I try to stay active, but this sickness really knocked me down."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. I've taken things like ibuprofen and acetaminophen before, and I never had any reaction. And no allergies to penicillin or anything like that, as far as I remember. But if you want to give me something, I'd for sure tell you if I ever had a bad reaction before."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been taking acetaminophen like I said, and I also try to drink a lot of water and tea. Sometimes I put a cold cloth on my forehead when the fever gets too high. But honestly, with the chills at night, I just wrap myself in blankets and wait for it to pass. Nothing really makes the aches go away completely, that's why I came here today."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Lying down and resting helps a little, especially when the body aches are bad. Hot showers sometimes make me feel a bit better too. But moving around or trying to do anything makes it worse, like even walking to the kitchen wears me out. Oh, and the cough gets worse when I'm lying flat, so I have to prop myself up with pillows."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "I had to call in sick for work, which I really don't like doing because I teach and the kids need me. But I just couldn't stand in front of a class like this. I haven't been able to cook or clean much either, and I just feel too weak to do anything fun with my family. I mostly just stay in bed or on the couch."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I never picked up the habit. As for alcohol, I might have a beer or two when I go out with friends on weekends, but not every week. Definitely not a heavy drinker. Is that important for what's making me sick?"
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My wife and kids seem fine, nobody else in my house is sick like this. But I've been working with a lot of kids at school, and some of them have been out with coughs and fevers this week. Maybe I caught something from one of them, you know, it's that time of year."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I mean, I've had colds before where I felt a little feverish and tired for a day or two. But this is different - it's been going on for four days already, and the chills and body aches are much worse than anything I remember. That's why I thought I should come see you instead of just waiting it out."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, I think I understand everything you asked. I told you about the fever, chills, body aches, cough, and headaches, and how long it's been going on. If there's something I didn't explain very well, just ask me again, okay? But I think I covered it pretty much."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 4 out of 10 right now. It's not the worst pain, but this constant aching and feeling weak is really wearing me down. And emotionally, maybe a 2 out of 10 - I'm not really scared, just tired and a little frustrated that I can't get better on my own. I just want to feel normal again."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a question. What do you think is causing this? I mean, is it just a bad flu or something else? And is there anything else I should be doing to get better, like taking different medicine or maybe getting a test done?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "To be honest, I'm not really sure. It feels worse than a regular cold, and I was wondering if it could be the flu or something like that. Maybe bronchitis? I've heard about COVID going around again too, so I'm a little worried about that. But I"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Maybe I should mention that my head feels really heavy and it's hard to concentrate, even when I'm just watching TV. And the cough is getting a bit worse since yesterday - it's not just dry anymore, sometimes I cough up a little phlegm. Oh, and a couple of kids in my class were out sick last week with fevers, so maybe they gave me something. That's everything, I think."
+    }
+  ]
+}

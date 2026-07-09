@@ -1,0 +1,147 @@
+{
+  "profile_id": "P009",
+  "strategy": "patientsim_c5",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm really worried, to be honest. Over the past couple of weeks, my right hand has gone completely numb about four times, each episode lasting roughly an hour. It's terrifying, and I can't stop thinking it might be multiple sclerosis."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It began about ten days ago. The first episode happened while I was at my desk working, and it completely startled me. Since then, it's recurred at random intervals, which only heightens my anxiety."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no pain at all\u2014it's a complete loss of sensation. The numbness envelops my entire right hand, from my fingertips down to the wrist. It feels like my hand has simply disconnected from me, which is frightening in its own way because I can't grip anything properly during those episodes."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, not at all. I haven't had any fever, chills, or signs of infection. That actually worries me more\u2014it makes me feel like this isn't something simple like a virus, but something neurological going on."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any medications whatsoever. No prescriptions, no over-the-counter drugs, not even supplements. That's part of why I'm so distressed\u2014there's nothing to explain these episodes away, and no treatment cushioning the fear."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic conditions at all. I'm generally healthy, which is why this feels so jarring and inexplicable. The fact that I have no prior neurological issues or risk factors makes me wonder all the more what's triggering these episodes."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known allergies to any medications. It's a bit unsettling, though, because I have no medical history to guide what might work or what might go wrong. I just feel so in the dark about all of this."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've honestly just waited it out each time\u2014shaking my hand, massaging it gently\u2014but nothing brings the sensation back sooner. I haven't taken anything because I'm afraid of masking whatever's really going on. The dizziness and fatigue that linger afterward only add to my sense of helplessness."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Nothing seems to improve it, unfortunately. If anything, stress appears to make it worse\u2014the episodes often occur when I'm under a tight deadline or feeling overwhelmed. It's a vicious cycle: I'm scared it's MS, which makes me anxious, which then seems to invite another episode."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly affecting me profoundly. As a graphic designer, my right hand is essentially my tool for work, so losing sensation for an hour leaves me completely paralyzed at my desk. The fatigue that follows each episode makes it hard to concentrate even when the numbness fades, and this constant worry is just wearing me down emotionally."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke and I rarely drink alcohol\u2014maybe a glass of wine once a month at most. I've always been health-conscious, which is why this feels so unfair and confusing. I've read that certain lifestyle factors can mimic neurological symptoms, so I want to rule everything out."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not that I'm aware of. No one in my immediate family has experienced anything like this\u2014no numbness, no dizziness, no neurological conditions. That actually makes me feel more alone in this, like I'm the first to encounter something inexplicable, which only amplifies my fear."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it makes sense\u2014thank you for laying it out so clearly. I understand that transient numbness without other classic symptoms can have many causes, from nerve compression to something more central. I'm just terrified of the \"something more central\" possibility, even though I realize I'm jumping ahead."
+    }
+  ]
+}

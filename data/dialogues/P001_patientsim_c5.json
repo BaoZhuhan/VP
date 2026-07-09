@@ -1,0 +1,187 @@
+{
+  "profile_id": "P001",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I've had this cough for about two weeks now. And sometimes when I walk up the stairs, I feel like I can't catch my breath. It's not constant, but it's enough to worry me, especially since I have asthma."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about two weeks ago, maybe a little more. First it was just a dry cough, but then I noticed I was getting short of breath on the stairs."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I don't really have pain, just a tight feeling in my chest when I cough or go up stairs. It's more like I can't get enough air, and then I feel a little dizzy sometimes. It's not sharp, just uncomfortable."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever that I noticed. No chills either. Just the cough and feeling tired, especially by the end of the day."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm taking albuterol, the inhaler. I use it when my asthma acts up, but it hasn't been helping much this time. I don't take any other medicines."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have asthma. I've had it since I was a kid, but it's usually under control. That's why this cough and breathlessness are worrying me, because my inhaler isn't working like it normally does."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to any medicines that I know of. Not that I've ever had a problem with anything."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been using my albuterol inhaler, but it doesn't seem to help as much as it usually does. I also tried drinking honey and tea, but nothing really changes. It just keeps going."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Lying down sometimes makes my chest feel tighter, so I try to sit up a bit. And moving around, like going up stairs, definitely makes it worse. Resting helps for a little while, but the cough comes back."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been hard. I'm a teacher, so I'm on my feet a lot, and I feel so tired by the end of the day. The stairs at school feel like a big challenge now. I've even had to sit down during classes sometimes just to catch my breath."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke. I might have a glass of wine on the weekend, but not much. Just one or two, and only sometimes."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my mom has asthma too. She's had it for a long time. But I don't think anyone else in my family has had this kind of cough or breathing problem lately."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not like this, no. I've had asthma attacks before, but they usually go away quickly with my inhaler. This cough and feeling out of breath is different. It lasts longer and makes me feel really tired, not just wheezy."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 2... it's not terrible, but it worries me because it's not going away. Emotionally, I'm probably about a"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a couple of questions. First, what do you think is causing this cough and the shortness of breath? Is it just my asthma acting up, or could it be something else? And second, is there anything I should do different with my inhaler, or maybe a different medicine I should"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not sure, honestly. I was hoping you could tell me. Maybe it's just my asthma getting worse, or maybe I picked up something at school, like a cold or an infection. That's why I came to see you."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that's everything important. Just that it's been hard to sleep because of the cough at night, and I've been using my inhaler more than usual. I hope it's nothing serious."
+    }
+  ]
+}

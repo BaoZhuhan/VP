@@ -1,0 +1,187 @@
+{
+  "profile_id": "P012",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been dealing with episodes of severe diarrhea and abdominal cramping about once a week for the past six months or so, and it seems to be getting progressively worse. I'm also experiencing some fatigue and occasional nausea alongside these flare-ups, which has started to impact my daily routine."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It began roughly six months ago, though initially the episodes were sporadic and mild enough that I didn't think much of it. However, over the last couple of months, the frequency has increased to about once a week, and the cramps and diarrhea have become more intense."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is predominantly in my lower abdomen, usually centered around the left lower quadrant. It feels like a sharp, cramping sensation that comes in waves, and it typically intensifies right before I have a bowel movement. After the episode passes, the pain usually subsides significantly."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't experienced any fever or chills during these episodes. My temperature has been consistently normal, even when the cramps and diarrhea are at their worst."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not currently taking any prescription medications or over-the-counter treatments. I haven't tried anything to manage the symptoms because I wanted to get a proper assessment first before self-treating."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I have no chronic medical conditions. I've been generally healthy my whole life, and aside from the occasional cold or seasonal allergies, I haven't had any significant health issues."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known allergies to any medications. I've had standard antibiotics and pain relievers in the past without any adverse reactions. I do have mild seasonal allergies, but those are unrelated to drugs."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried some basic dietary adjustments, like cutting out spicy foods and dairy, but that hasn't made a noticeable difference. I haven't taken any over-the-counter medications for the diarrhea or cramps, as I was hoping to avoid masking the underlying cause."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "I've noticed that eating heavy or greasy meals seems to aggravate the cramps and diarrhea the following day. Stress also appears to be a significant trigger; my symptoms flared up more during recent exam periods. On the other hand, light physical activity, like walking, sometimes eases the discomfort after an episode passes."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's become quite disruptive, honestly. I've had to cancel classes and miss social engagements because the episodes are unpredictable and often incapacitating for several hours. The fatigue afterward also lingers, making it difficult to concentrate on my research or maintain my usual productivity."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do occasionally drink alcohol, maybe a few beers or a glass of wine once or twice a month, but I've actually stopped completely over the past month to see if it helps the symptoms. So far, I haven't noticed any improvement from that change."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. My parents and siblings don't have any chronic digestive issues. My maternal aunt has ulcerative colitis, but she's significantly older than me and was diagnosed in her late forties. I'm not sure if that's relevant, given the age difference."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never experienced anything like this before. Prior to the past six months, I could count on one hand the number of times I had digestive issues, and they were always short-lived and clearly linked to something I ate or a stomach bug. This pattern"
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, absolutely. Your questions have been very clear, and I think I've covered the main points about the onset, nature of the pain, and lifestyle factors. I'm just a bit anxious to figure out what's going on, since it's been persistent and escalating."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd rate the pain at a 3 out of 10 at its baseline, but during an episode it spikes to around a 7 or 8 for a couple of hours. Emotionally, I'm at a 4 out of 5 for anxiety \u2014 the unpredictability and worsening pattern are really starting to weigh on me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. Given the pattern and duration of my symptoms, I was wondering if irritable bowel syndrome or possibly an inflammatory bowel condition like Crohn's disease might be on your differential diagnosis. Also, would you recommend any specific diagnostic tests \u2014 stool studies, blood work, or even a colonoscopy \u2014 to help pinpoint the cause?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Based on my own research and the pattern of symptoms \u2014 recurring lower abdominal cramps relieved by bowel movements, the link to stress, and the absence of fever or blood \u2014 I suspect irritable bowel syndrome might be the most likely explanation. That said, I can't shake the"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, I just remembered that my stool during these episodes is usually quite loose and watery, but I haven't noticed any blood or mucus. I also wanted to mention that my appetite has been normal overall, which is why the weight hasn't changed. Sorry for leaving that out earlier."
+    }
+  ]
+}

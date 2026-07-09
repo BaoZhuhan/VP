@@ -1,0 +1,187 @@
+{
+  "profile_id": "P019",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, it's been about a month now that my blood sugar readings have been completely erratic. I test four times a day religiously\u2014fasting, before meals, and before bed\u2014but despite my best efforts with dosing and diet, I can't seem to stabilize them. I've also been dealing with persistent fatigue, occasional dizziness, and some nausea, which isn't typical for me."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It began roughly a month ago, right after I adjusted my insulin dose on my own based on some higher readings. The fatigue has been fairly constant since then, though the dizziness and nausea tend to come and go, especially later in the day."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no sharp pain, thankfully. The numbness is in both feet, a persistent tingling sensation as if they've fallen asleep. The nausea is more of a queasy feeling in my stomach, not vomiting, but it makes me lose my appetite at times."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, absolutely no fever or chills. My temperature has been consistently normal when I've checked. I keep a log of vital signs and there's been no indication of an infection or systemic illness."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm taking metformin 1000 mg twice daily with meals, insulin glargine 30 units at bedtime, and lisinopril 10 mg once a day for my blood pressure. I've been on this combination for nearly two years without any issues until this recent instability."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have type 2 diabetes, which I've managed for about eight years, and hypertension diagnosed around five years ago. Both have been reasonably well-controlled with my current medication regimen until this recent episode of glycemic variability."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't have any known medication allergies. I've been on these drugs for years without any adverse reactions."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried adjusting my pre-meal carbohydrate intake and timing my insulin more precisely, but the readings remain unpredictable. For the dizziness, I've been making sure to sit down when it hits and staying hydrated, but it hasn't resolved the underlying issue."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Physical exertion definitely exacerbates the fatigue and dizziness\u2014I feel lightheaded after any sustained activity, like walking more than a block. Lying down seems to help the dizziness pass, and skipping a meal sometimes reduces the nausea, though I know that's not a good long-term strategy."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been quite disruptive, honestly. I used to manage my condition meticulously\u2014meal planning, exercise, daily walks\u2014but now I'm hesitant to plan much because I never know how I'll feel from hour to hour. My sleep is interrupted by nocturnal hypoglycemic episodes, and I've cut back on social activities like dining out or visiting friends because I'm worried about erratic sugar swings. Even my hobby of woodworking has taken a backseat due to the fatigue and dizziness."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I quit smoking over fifteen years ago, and I only have an occasional glass of wine at family gatherings\u2014maybe once a month at most. I try to avoid alcohol entirely because I've read about the risk of reactive hypoglycemia, and I don't need another variable complicating my glucose control."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had type 2 diabetes and hypertension as well, and he struggled with significant glucose fluctuations in his later years before passing from a myocardial infarction. My mother was generally healthy with no endocrine issues. I also have two older siblings\u2014one with well-controlled diabetes and one who developed neuropathy, which obviously concerns me given my current numbness."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not to this extent. I've had occasional high or low readings over the years, but they were usually explained by a missed dose, an infection, or a major dietary slip. This persistent rollercoaster with no clear trigger is entirely new for me\u2014I've never experienced such pronounced symptoms or the combination of fatigue, dizziness, and numbness simultaneously. It's frankly unsettling, given how well I thought I had everything managed."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes sense. I appreciate you laying out the possible connections between the erratic glucose readings, the neuropathic symptoms in my feet, and my medication adjustments. I'm following the reasoning clearly. What do you think the next step should be?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say around a 3\u2014the numbness and fatigue are persistent but not debilitating. Emotionally, probably a 4, because I'm frustrated with the loss of control over something I've managed well for years, though I'm not panicked. It's more a sense of resignation and concern about what this means long-term."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. Given the numbness in my feet and the erratic glucose pattern, is it possible I'm developing early diabetic neuropathy or something more acute? Also, would a continuous glucose monitor or a more comprehensive endocrine workup like HbA1c and C-peptide be appropriate at this point to pinpoint the underlying issue?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I suspect my self-adjustment of insulin may have contributed to the instability, perhaps inducing a Somogyi effect or rebound hyperglycemia. Alternatively, I worry about evolving autonomic neuropathy given the nausea and dizziness paired with my foot numbness. But I'd rather not speculate too broadly\u2014I'd appreciate your professional assessment."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "One more thing\u2014I've noticed my blood pressure readings have been trending higher over the past three weeks, typically around 145/90, whereas my lisinopril usually keeps me closer to 120/80. I wasn't sure if that's related to the glucose instability or a separate issue, but I thought you should know."
+    }
+  ]
+}

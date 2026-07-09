@@ -120,6 +120,8 @@ def _is_comprehension_probe(text):
 def _is_unqualified_affirmation(text):
     """Detect 'pretend understanding' — simple yes/okay without elaboration."""
     text = text.strip().lower()
+    if not text:
+        return False
     # Remove punctuation
     text = re.sub(r'[^\w\s]', '', text)
     # Check for bare affirmations or very short agreements
@@ -129,8 +131,9 @@ def _is_unqualified_affirmation(text):
         return True
     # Check patterns like "yes, doctor" or "okay, thank you"
     words = text.split()
-    if len(words) <= 3 and words[0] in bare_affirmations:
-        return True
+    if len(words) >= 1 and words[0] in bare_affirmations:
+        if len(words) <= 3:
+            return True
     return False
 
 
@@ -199,12 +202,11 @@ def compute_behavioral_metrics(dialogue):
 
     # Find patient responses immediately following comprehension probes
     probe_patient_responses = []
-    for i, ct in enumerate(clin_turns):
+    for ct in clin_turns:
         if _is_comprehension_probe(ct["content"]):
-            # Find the patient response that follows this clinician turn
-            # by matching turn_id
+            ct_tid = ct.get("turn_id", 0)
             for pt in pat_turns:
-                if pt.get("turn_id", 0) > ct.get("turn_id", 0):
+                if pt.get("turn_id", 0) > ct_tid:
                     probe_patient_responses.append(pt["content"])
                     break
 

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P024",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "My wife told me I need a check-up. It's been three years, so she wants me to do blood pressure and cholesterol tests. I feel okay, just a bit tired sometimes, but nothing serious."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I guess it started maybe a couple of months ago. Not bad enough to stop me from working, just kind of there."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's no real pain, just a tired feeling. It's all over, mostly in the morning or after a long day. I don't have any specific spot that hurts."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, no fever or chills. Just the tiredness. I haven't felt sick like that at all."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None. I don't take any pills or medicine. Just the occasional ibuprofen if I pull a muscle at work, but that's rare."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yeah, I'm overweight. My doctor said I'm obese before. That's the only thing I know about. Nothing else like diabetes or heart problems."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I'm not allergic to anything. I've never had a bad reaction to any medicine."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Not really. I just try to rest a bit more on weekends. Sometimes I drink an extra coffee in the morning, but I figure it's just from working hard."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Rest helps a little, like on weekends. But if I have a long day at work, especially if I'm walking the site a lot, I feel more tired. Coffee helps a bit in the morning."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's not stopping me from doing my job or anything. I just feel a bit slower at the end of the day. My wife says I seem more tired than usual, but I think it's fine."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke. I drink a beer sometimes on the weekend, maybe two or three. Not every day, just social with friends."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My dad had some heart problems when he was older, and my mom has high blood pressure. But I'm not sure if that's related to me being tired."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not really. I've always been pretty healthy and active, even with my weight. This tiredness feels different, but I just think it's from getting older and working hard. Nothing like this before."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it makes sense. You asked about my tiredness and things like medicine or family history. I think I understand. Is there something I should do next?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say a 1, maybe 2. It's not bad at all. Emotionally, also a 1. I'm not worried about it, just here because my wife wants me to check everything."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yeah, one question. Do you think this tiredness is serious? I mean, should I be worried, or is it just from working too hard?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not sure. Maybe it's just stress or not sleeping great. Or maybe it's because of my weight, like you said before. But I don't have any medical training, so I'm just guessing."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "No, I think that's everything. Just the tiredness and my wife pushing me to get checked. Thanks for listening."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "profile_id": "P011",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, it's my stomach. I've been feeling really sick for weeks now. Some days I can't even keep food down, and I've lost about three kilos. I'm also tired all the time and I don't feel like eating much."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "I'd say it started about three weeks ago, maybe a bit more. It didn't come all at once - at first it was just a little nausea here and there, but now it's almost every day. Some days are worse than others, though."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's like a dull ache right here, in my upper stomach area, just below my ribs. It's not super sharp, but it's there most of the time, maybe a 3 out of 10 for pain. Sometimes after I eat, it feels worse, like a heavy, uncomfortable feeling."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. Just the nausea and the pain. Sometimes I feel hot after I vomit, but I don't think it's a real fever. My temperature has been normal, I think."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take metformin. That's for my blood sugar - I don't have heavy diabetes, but my doctor said it helps. I've been on it for maybe a year now. And also, I take some iron pills because I have anemia. That's it, just those two medicines."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have anemia - that's why I take the iron pills. And I also have some blood sugar issues. My doctor told me I'm not fully diabetic, but my blood sugar was a bit high, so that's why I'm on the metformin. Nothing else besides that."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had a bad reaction to any medicine. The metformin and iron pills have been fine for me, no problems at all. I'm careful with new medicines, but nothing has ever caused me trouble."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've tried a few things, honestly. I took some over-the-counter antacids, but they didn't help much. And I've been trying to eat smaller meals and avoid greasy food, but it doesn't seem to make a big difference. I haven't taken anything else because I don't really know what else to try."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Well, eating seems to make it worse - especially if I eat something heavy or greasy. But if I don't eat, I still feel sick and weak. Resting helps a little, but not really. Standing for a long time at work makes the ache feel worse, too. Nothing really makes it better, to be honest."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. But I do drink a little wine sometimes, maybe a glass or two a week, usually with dinner. Though lately I haven't been drinking anything because my stomach feels so bad. I stopped completely these past weeks."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My mother had stomach issues too when she was older, but nothing too serious. She had ulcers, I think. But nobody in my family has had anything like stomach cancer or anything scary like that. I'm the first one to feel this bad for this long."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. Usually I'm pretty healthy, just the anemia and the tiredness from that. But this stomach thing is new for me. I've never had nausea or vomiting like this before, not even when I was younger. That's why I got a bit worried and came to see you."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Oh, I'm sorry, I think I missed something. Could you repeat that a bit simpler? I want to make sure I understand what you're telling me about my condition."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say maybe a 3 or 4 out of 10 for the pain. But emotionally, it's probably more like a 6 or 7. It's not the worst thing ever, but I'm worried because it's been going on so long and I don't know what's causing it. I just want to feel"
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a question. What do you think might be causing all this? Is it something serious? I'm just worried because it's been weeks and I'm not getting better on my own. I'd like to know what we can do to fix it."
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I honestly don't know. I thought maybe it was something I ate, or maybe the metformin is causing this. I've read online that some people have stomach problems with it. But it could also be an ulcer like my mom had. That's why I"
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Well, I just remembered - a few months back, I had a stomach bug for a couple days, but that went away fast. This time it's different, it just won't stop. Also, I've been under more stress at work lately. We're short-staffed at the bank and it's been really busy. Could stress make this worse?"
+    }
+  ]
+}

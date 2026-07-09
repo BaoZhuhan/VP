@@ -1,0 +1,187 @@
+{
+  "profile_id": "P019",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm here because my blood glucose readings have been extremely erratic over the past month despite strict adherence to my medication and diet. I check my levels religiously, but I can't seem to stabilize them. Additionally, I've been experiencing persistent fatigue, occasional dizziness, and some nausea that I suspect might be connected."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It began roughly six weeks ago, with occasional dizzy spells after meals. The fatigue and nausea became more pronounced about three weeks into it, and the numbness in my fingertips started around the same time."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The numbness is the most notable sensation\u2014it's not exactly painful, more like a persistent pins-and-needles feeling in my fingertips and the soles of my feet. As for the nausea, it's a vague, queasy sensation that tends to come on about an hour after meals and sometimes lingers. I rate any discomfort at a 1 out of 5, so it's mild but constant."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills throughout this period. My temperature has been consistently normal, and I haven't experienced any sweating, shaking, or signs of infection that I can recall."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take 1000 mg of metformin twice daily with meals, plus 20 mg of lisinopril once daily for my blood pressure. For my diabetes, I use a long-acting insulin analog\u201420 units every evening\u2014and a rapid-acting insulin before meals, currently adjusted to 8 units per meal. That's the full regimen"
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have type 2 diabetes and hypertension. Both have been fairly well managed for the past several years, which is why this recent instability in my glucose levels is concerning to me. I also have mild chronic kidney disease stage 2, though that's remained stable under my nephrologist's monitoring."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known drug allergies. I've been on these medications for years without any adverse reactions. Just to be thorough, I did once have a mild reaction to a sulfonamide antibiotic years ago, but that's not relevant to my current medications."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been more diligent about my carbohydrate counting and meal timing, and I've tried adjusting my rapid-acting insulin doses slightly based on my pre-meal readings\u2014but the erratic swings persist regardless. I also increased my water intake to rule out dehydration affecting my symptoms, but that didn't make any appreciable difference either."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Physical activity tends to slightly improve my energy levels\u2014a brisk 20-minute walk often stabilizes my glucose temporarily. The nausea and dizziness, on the other hand, worsen if I skip meals or if my glucose drops too quickly after an insulin dose. That post-meal fatigue is almost predictable now, which is frustrating given my usual routine."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's definitely curtailed my daily routine. I used to spend several hours in my workshop\u2014woodworking and small repairs\u2014but the fatigue and dizziness make precision tasks risky. Even light household chores feel draining, and I've had to cancel a few social outings because I'm either too tired or worried about a hypoglycemic episode. It's a persistent disruption that I'm eager to resolve."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I've never smoked, and I only have an occasional glass of red wine with dinner\u2014maybe once or twice a week. I've abstained entirely for the past month, though, trying to isolate what might be causing these glucose fluctuations."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "My father had type 2 diabetes as well, though his management was never as meticulous as mine. He ultimately developed diabetic nephropathy and passed away from complications related to kidney failure. My mother had hypertension but no history of significant glycemic issues. So there's a clear familial pattern on my father's side."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Not to this degree, no. My diabetes has generally been stable for years with only minor, infrequent highs or lows. This sustained volatility and the accompanying fatigue, nausea, and numbness are entirely new for me. I've had occasional hypoglycemic episodes if I delayed a meal after my insulin, but that was always predictable and resolved quickly. This feels fundamentally different."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that's a clear summary. I think you've captured the progression and my concerns accurately. I'm just hoping we can pinpoint the cause, because this instability is unlike anything I've dealt with over the past decade of managing my diabetes."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd put it at a 3 or 4\u2014the fatigue and nausea are bothersome but not debilitating. Emotionally, it's closer to a 6, because the unpredictability is unsettling for someone like me who values control and precision in managing my health. I'm more resigned than anxious, but the uncertainty does weigh on me."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a couple of questions. First, could this instability be related to a change in my kidney function, given my stage 2 chronic kidney disease? And second, should I consider adjusting my insulin timing or dosage, or is there a test we can do to get a clearer picture of what's driving these erratic readings?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Given your stable kidney status and history of well-controlled diabetes, I suspect we might be looking at a subtle progression in insulin resistance or perhaps an issue with your insulin absorption or timing related to your CKD stage 2. Another possibility is an underlying autonomic neuropathy causing the dizziness and nausea, which could also affect glucose regulation. But those are just hypotheses\u2014we'd need lab work, possibly a continuous glucose monitor, and maybe a renal panel to be sure."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, I've noticed my morning fasting readings are consistently the highest of the day, despite my evening insulin dose. I also wake up with a dry mouth and occasional headaches, which makes me wonder if I'm experiencing rebound hyperglycemia from overnight hypoglycemia. And I should mention that I had a routine medication refill about two months ago and the pharmacy switched my insulin brand\u2014could that have affected my absorption or"
+    }
+  ]
+}

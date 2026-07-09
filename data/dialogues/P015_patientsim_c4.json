@@ -1,0 +1,187 @@
+{
+  "profile_id": "P015",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I tweaked my shoulder about three weeks ago while coming down from a headstand during one of my classes. The discomfort hasn't resolved, and it's starting to interfere significantly with my ability to demonstrate poses and assist students. The pain is fairly mild\u2014around a 2 out of 10\u2014but it's constant enough that I'm worried about aggravating it further."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about three weeks ago, specifically during a headstand in my evening class. I felt a sudden twinge in my right shoulder on the descent, and the ache has lingered ever since."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The discomfort is a dull ache primarily localised to the anterior aspect of my right shoulder, near the joint line. It feels more muscular than articular\u2014no sharp or stabbing sensations\u2014and I notice it most when I raise my arm overhead or rotate it externally. There's also some mild referred soreness along the upper trapezius."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't experienced any fever or chills. There's been no systemic symptoms whatsoever\u2014just that localised ache in my shoulder. I haven't felt unwell or run down in any other way."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not on any prescription medications at all. I do take a daily magnesium supplement for muscle recovery, but nothing else\u2014no painkillers, anti-inflammatories, or over-the-counter remedies since the pain has been manageable."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any chronic medical conditions. I'm generally very healthy, active, and I don't have any history of joint issues or inflammatory conditions. This shoulder problem is quite unusual for me."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known allergies to any medications. I've never had a reaction to anything I've taken, though I generally avoid medication unless it's truly necessary\u2014I prefer to manage things holistically when possible."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been doing some gentle passive stretching and applied ice intermittently after teaching, but I haven't used any medication or heat therapy. I've also modified my demonstrations to avoid overhead poses, but the pain hasn't improved much despite these precautions."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Definitely overhead arm movements and external rotation aggravate it\u2014like reaching for a high shelf or opening a jar. Rest and keeping my arm at my side ease the ache, but nothing fully resolves it. Oddly, gentle internal rotation doesn't seem to bother it at all."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been quite disruptive professionally. I've had to heavily modify my sequences and avoid demonstrating certain poses, which makes teaching less intuitive. My students sense a lack of fluidity, and I find myself relying more on verbal cues than physical demonstration. Personally, simple things like dressing or reaching for my yoga mat in the morning feel restricted, and I've had to cut back on my own practice\u2014which is normally quite rigorous\u2014to just gentle mobility work."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke and I rarely drink alcohol\u2014maybe a glass of wine once or twice a month. My lifestyle is generally quite health-conscious, given my profession."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, not that I'm aware of. No one in my immediate family has had shoulder issues like this, and there's no family history of joint disorders or chronic pain conditions."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that all makes perfect sense. To clarify, I've never had a shoulder issue like this before\u2014no previous injuries, dislocations, or persistent pain in any joint. This is entirely new for me, which is why I'm keen to address it properly."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd put the pain at a steady 2 to 3 out of 10\u2014it's not debilitating but it's persistent. Emotionally, though, I'd say it's around a 7. The uncertainty about when I'll be able to return to my full range of motion and teach without modifying everything is the most unsettling part. I pride myself on being able to demonstrate clearly, and this feels like a frustrating limitation."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a few questions. First, do you think this is likely a muscular strain or could there be something more structural involved, like a labral issue? Also, what's your recommended timeline before I can safely return to teaching full, unrestricted classes?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I've been wondering if it might be a rotator cuff strain or possibly some impingement given the persistent pain with overhead movements. But I'm also concerned it could be something like a labral tear, since the discomfort hasn't resolved with rest and gentle care. I'm hoping you can clarify based on your examination."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that covers everything relevant. I've been thorough about noting any changes in sensation or function, and nothing else has come up\u2014no numbness, tingling, or weakness in my arm or hand, and no other joint involvement. I trust that gives you a complete picture."
+    }
+  ]
+}

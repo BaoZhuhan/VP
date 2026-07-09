@@ -1,0 +1,187 @@
+{
+  "profile_id": "P004",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "Well, doctor, I woke up this morning with this pressure in the middle of my chest. It's not a sharp pain, more like someone is squeezing me. It comes and goes, but it hasn't fully stopped all day. And I'm also feeling a bit short of breath and kind of dizzy, even nauseous sometimes."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started around maybe 7 or 8 this morning, right after I had my breakfast. It felt like a heavy pressure, and since then it's been coming back every few minutes."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "I feel it right here, in the middle of my chest, just behind my breastbone. It's like a tight pressure or squeezing, not a sharp stabbing. Sometimes it also spreads to my left shoulder and down my arm a little."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. Just the chest pressure and the shortness of breath, plus the dizziness. I've been sweating a little, but I think that's from the pain."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take a few medicines regularly. I'm on lisinopril for my blood pressure, metformin for my diabetes, and atorvastatin for my cholesterol. I take them every day, usually in the morning."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have high blood pressure, and I've had it for about ten years now. I also have type 2 diabetes, and I'm a bit overweight, which my doctor says is part of the problem. That's why I'm on the metformin and lisinopril."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I don't think so. I've never had a reaction to any medicine before, not that I know of. I just take what my regular doctor gives me."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I haven't taken anything for it. I just sat down and rested for a while, but it didn't really go away. I was worried, so I came straight to the emergency room. I didn't want to take any pills in case it was something serious."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "When I sit still or lie down, it doesn't really get better. But when I walk around or do anything, it gets worse, like the pressure gets stronger and I feel more short of breath. That's why I stopped moving and came here."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "Well, I'm an accountant, and I usually sit at a desk all day, but this morning I couldn't focus on my work at all. The pressure kept coming, and I felt dizzy, so I told my boss I had to leave. I was scared to drive myself, but I just came straight here. It's really affecting my ability to do anything normal."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I used to smoke, about half a pack a day, but I quit three years ago after my doctor warned me about my blood pressure. I don't drink alcohol at all, not even beer. Just coffee in the morning, but I stopped that today because I felt so bad."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my father had heart problems. He had a heart attack when he was in his early 50s, not too far from my age now. And one of my uncles, my mother's brother, also had some kind of heart surgery a few years ago. So I know it runs in the family."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, not like this. I've had some indigestion or a little tightness once in a while, but nothing that lasted this long or felt this heavy. This is definitely different. It scared me enough to come to the ER."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, it makes sense. You've been asking good questions, and I understand what you're saying. I'm just worried because this pressure hasn't stopped all day, and I know my family history is bad for heart problems. Is there anything else you need to know?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd say it's about a 5 out of 10 for the chest pressure, but it feels heavy and constant. Emotionally, I'm really scared, maybe a 4 out of 10, because I know it could be my heart, especially with my dad's history. I just want to know what's wrong and get it fixed."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. Do you think this could be a heart attack? That's what I'm most afraid of, especially because of my dad. And what are you going to do to check it today?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I honestly think it could be my heart, you know, like a heart attack or something serious. With my dad having one at my age, and me having high blood pressure and diabetes, I just feel like it's all pointing in that direction. But I'm not a doctor, so I'm hoping you can tell me for sure."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Hmm, maybe one thing. The pressure also comes with a kind of heavy feeling in my left arm, like it's tired or weak. And I've been sweating a little, not from exercise, just sitting here. Is that important? I thought I should mention it just in case."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "profile_id": "P009",
+  "strategy": "patientsim_c4",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I'm honestly terrified. Four times over the past two weeks, my right hand has gone completely numb for about an hour. I can't shake the thought that it might be multiple sclerosis."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "The first episode happened about twelve days ago\u2014I woke up and couldn't feel my hand at all. It lasted nearly an hour before sensation slowly returned. Then it happened again three days later while I was sketching, and twice more since. Each time it's the same pattern: complete numbness, no tingling, just... nothing."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "There's absolutely no pain, which almost makes it more unsettling. The numbness affects my entire right hand from the fingertips to the wrist, and sometimes it creeps slightly up my forearm. It feels like the limb has simply disconnected from my body\u2014I can see it, but I can't feel anything. Last episode, my hand felt oddly cold"
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No fever or chills at all\u2014I've been vigilant about checking my temperature. But I do feel dizzy in between these episodes, like a subtle sense of imbalance. And the fatigue has been crushing, which only adds to my fear that something neurological is happening."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "None. I'm not on any medications, not even over-the-counter supplements or pain relievers. That's probably why this feels so alarming\u2014I'm otherwise healthy, or at least I thought I was, until my hand started going numb and the dizziness and fatigue began taking over my days."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No chronic conditions, none at all. I've always been perfectly healthy\u2014no diabetes, no thyroid issues, no autoimmune diseases. That's part of why this feels so surreal. I've never had anything like this happen before, and my mind immediately jumps to the worst possibilities because there's simply no other explanation."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No known allergies to medications, thankfully. I've had penicillin and various antibiotics before without any issues, and local anesthetics at the dentist have always been fine."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": ""
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Nothing I've tried seems to help\u2014resting my hand doesn't prevent the episodes, and gentle movement doesn't shorten them either. They just... happen. And each time it's the same: roughly an"
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's honestly crippling my ability to function. As a graphic designer, my hands are everything, and I find myself constantly checking my right hand, waiting for the numbness to strike mid-project. The fatigue makes concentrating on detailed design work nearly impossible, and I'm terrified I'll lose fine motor control when I need it most."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all, and I only have a glass of wine maybe once or twice a month, socially. I've always taken good care of myself\u2014regular exercise, balanced diet\u2014which is why this feels so incongruous and frightening. My body is suddenly betraying me without any obvious trigger."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "No, nobody in my immediate family has experienced anything like this. But my maternal grandfather had Parkinson's disease, which makes me hyperaware of neurological conditions. I know that's different from MS, but I can't help wondering if there's some genetic predisposition lurking that I never knew about."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, never. I've had the occasional pins-and-needles sensation from sleeping on my arm wrong, but this complete numbness for a full hour is something entirely different. It's deeply unsettling because my body has always been reliable, and now I feel like I'm losing control over something as basic as sensation in my hand."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that makes complete sense\u2014thank you for walking me through everything so clearly. I think the hardest part is the uncertainty; waiting for answers while my body keeps sending these terrifying signals is wearing me down emotionally."
+    }
+  ]
+}

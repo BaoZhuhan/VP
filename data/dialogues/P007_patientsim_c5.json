@@ -1,0 +1,147 @@
+{
+  "profile_id": "P007",
+  "strategy": "patientsim_c5",
+  "total_turns": 14,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been experiencing migraines about twice a week for the past month. The pain is moderate, around a 4 out of 10, but the photophobia is severe\u2014light feels unbearable and I often can't keep my eyes open. I've also had accompanying nausea and occasional dizziness."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "They started about four weeks ago. At first, it was just one episode every week or so, but over the last two weeks the frequency has doubled to twice a week. The intensity has also been gradually escalating."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is typically a throbbing sensation, usually starting on the left side of my head behind the eye and then radiating to the temple and occasionally to the back of my skull. Sometimes it becomes bilateral as the migraine progresses. The intensity fluctuates but generally stays at a moderate level, though it's definitely worse with movement or light exposure."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't noticed any fever or chills. The fatigue and dizziness I mentioned seem to be tied directly to the migraine episodes rather than any systemic illness. I've had no signs of infection like a sore throat or body aches either."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I take sertraline daily at 50 mg for anxiety disorder, and I\u2019ve been using ibuprofen 400 mg as needed for the migraines, usually at the onset of an attack. Unfortunately, the ibuprofen doesn\u2019t seem to be providing much relief anymore, and I\u2019m concerned about relying on it so frequently."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "I have a history of migraine, though previously they were far less frequent\u2014maybe once a month at most. I also have an anxiety disorder, which I manage with sertraline. Other than that, I don't have any other chronic conditions like hypertension or diabetes."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known allergies to any medications. I've tolerated ibuprofen, sertraline, and other common drugs without any adverse reactions in the past."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "Besides the ibuprofen, I've been resting in a dark, quiet room with a cold compress on my forehead, which helps a little with the pain but doesn't stop the photophobia or nausea. I've also been careful about staying hydrated and avoiding known triggers like caffeine and irregular sleep. None of these measures are preventing the attacks, though, and the ibuprofen is losing its efficacy."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Resting in a dark, quiet environment with a cold compress provides some relief, but it's far from complete\u2014the photophobia and nausea persist to some degree. Conversely, bright lights, loud noises, and physical movement worsen the pain significantly. I've also noticed that skipping meals or getting less than six hours of sleep tends to precipitate an episode."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's been quite disruptive, honestly. As a software engineer, I spend most of my day in front of a screen, and during an attack I simply can't work\u2014the glare exacerbates the pain immediately. I've had to take several sick days and modify my work schedule. Beyond work, the frequency has also affected my sleep pattern and increased my baseline anxiety, which then seems to feed back into more migraines."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke, and I only drink alcohol occasionally\u2014perhaps a glass of wine once or twice a month. I haven't noticed a consistent link between drinking and my migraines, but I've been cautious about it just in case."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Yes, my mother has a long history of migraines, though hers often included visual aura, which I don't typically experience. Her pattern was similar in terms of triggers\u2014stress, irregular sleep, and bright lights\u2014but she eventually found relief with a beta-blocker. I wonder if there's a genetic component worth considering for my own treatment plan."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, nothing like this. Previously, I'd have a migraine maybe once a month or less, and they were far less intense\u2014easily managed with rest and an occasional ibuprofen. This sudden increase in frequency and severity over the past month is unprecedented for me, which is why I'm concerned and seeking a more effective management strategy."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that's very clear, thank you. I appreciate you walking through everything methodically\u2014it helps me feel like we're both on the same page regarding the pattern and severity of these episodes."
+    }
+  ]
+}

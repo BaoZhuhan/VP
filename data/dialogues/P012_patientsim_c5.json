@@ -1,0 +1,187 @@
+{
+  "profile_id": "P012",
+  "strategy": "patientsim_c5",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've been experiencing pretty severe episodes of diarrhea accompanied by significant abdominal cramping about once a week for the past six months. Initially it was manageable, but the frequency and intensity have gradually increased to the point where it's disrupting my daily routine."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It began roughly six months ago. Initially it was very mild and sporadic\u2014maybe once every few weeks\u2014so I didn't think much of it. But over the last two to three months, it's become more frequent, now occurring weekly, and the symptoms are more severe."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "The pain is primarily in my lower abdomen, sometimes on the left side and other times more central. It feels like sharp, cramping spasms that come in waves, often peaking just before I need to rush to the bathroom. There's also a lingering, dull ache afterward that can last for an hour or so."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I've been monitoring that, as I know it can be an important distinguishing factor for infectious causes versus something like irritable bowel syndrome. My temperature has been consistently normal."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I'm not currently taking any medications at all\u2014no prescription drugs, over-the-counter remedies, or supplements. I've been hesitant to self-treat without understanding the underlying cause."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "No, I don't have any diagnosed chronic conditions. I'm generally quite healthy aside from these recent gastrointestinal symptoms. No history of thyroid issues, inflammatory bowel disease, or any autoimmune disorders."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "No, I have no known medication allergies. I've had standard antibiotics and pain relievers before without any adverse reactions."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've experimented with dietary adjustments\u2014trying to identify trigger foods like dairy or high-fat items\u2014but nothing has provided consistent relief. I've also considered probiotics but haven't started them yet, as I wanted a professional opinion first."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "Stress definitely seems to be a trigger\u2014I notice episodes are more likely during exam periods or deadlines. Eating large meals, especially those high in fat or fiber, also tends to provoke symptoms. Resting and avoiding food for a few hours afterward helps somewhat, but I haven't found anything that reliably prevents or stops an episode once it starts."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's become quite disruptive. I've had to miss classes and cancel meetings because of the unpredictability, and the fatigue afterward lingers for the rest of the day. Socially, I'm constantly anxious about being far from a restroom, which has made me avoid dining out or even long commutes. Academically, my concentration suffers during flare-ups and the subsequent exhaustion."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "I don't smoke at all. I do drink alcohol occasionally\u2014probably once or twice a month, usually beer or wine in social settings. I've noticed that even a small amount can exacerbate my symptoms the following day, so I've cut back significantly recently."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Not that I'm aware of. My parents and siblings have no history of chronic gastrointestinal disorders like Crohn's, ulcerative colitis, or irritable bowel syndrome. There's some history of colon cancer on my father's side, but that's in older relatives."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "No, I've never experienced anything like this before. My digestion has always been completely normal until these episodes started about six months ago. That's actually part of what concerns me\u2014it came on so abruptly after a lifetime of no issues."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "Yes, that makes perfect sense. I appreciate you taking the time to explain everything so clearly. Given the pattern and duration, I'm wondering if this aligns more with IBS or if we should consider further testing to rule out other possibilities. What are your initial thoughts on the most likely cause?"
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, I'd rate my current discomfort at about a 3 out of 10\u2014there's a mild dull ache in my lower abdomen that's tolerable but persistent. Emotionally, it's higher, probably a 4 out of 10, because the uncertainty and anticipation of the next episode weigh on me throughout the day, even when I'm not symptomatic."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do have a few. Based on what I've described, what's your differential diagnosis at this point\u2014are we looking at irritable bowel syndrome primarily, or should we investigate for conditions like inflammatory bowel disease or celiac disease? Also, what diagnostic steps would you recommend to clarify this?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "Given my symptoms\u2014recurrent cramping, diarrhea, relief after bowel movements, and the association with stress\u2014I suspect it might be irritable bowel syndrome. However, I'm also concerned about possibilities like inflammatory bowel disease given the new onset and progression. I know IBS typically doesn't present with nocturnal symptoms or blood, which I haven't experienced, so I'm hoping it's the less serious option, but I'd like to rule out other causes."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "Actually, I think there are a couple of things I haven't mentioned. The diarrhea is sometimes watery and sometimes just loose stool\u2014there's never been any blood or mucus. I also haven't had any unexplained weight loss, which I know can be a red flag. And I did travel internationally about eight months ago, but that was two months before the symptoms started, so I'm not sure if that's relevant."
+    }
+  ]
+}

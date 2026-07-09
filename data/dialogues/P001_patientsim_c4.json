@@ -1,0 +1,187 @@
+{
+  "profile_id": "P001",
+  "strategy": "patientsim_c4",
+  "total_turns": 18,
+  "turns": [
+    {
+      "turn_id": 1,
+      "role": "clinician",
+      "content": "What brings you in today?"
+    },
+    {
+      "turn_id": 1,
+      "role": "patient",
+      "content": "I've had this cough for about two weeks now, and sometimes when I walk up the stairs, I can't catch my breath. It's not terrible, but it worries me a little because it's not going away."
+    },
+    {
+      "turn_id": 2,
+      "role": "clinician",
+      "content": "When did this start?"
+    },
+    {
+      "turn_id": 2,
+      "role": "patient",
+      "content": "It started about two weeks ago, maybe a little more. At first it was just a tickle in my throat, but then the cough got worse. The trouble breathing started maybe four or five days after the cough, when I went up the stairs at school."
+    },
+    {
+      "turn_id": 3,
+      "role": "clinician",
+      "content": "Can you describe the pain or discomfort? Where exactly do you feel it?"
+    },
+    {
+      "turn_id": 3,
+      "role": "patient",
+      "content": "It's not really a sharp pain, more like a tightness in my chest when I cough or when I'm short of breath. I feel it right here in the middle of my chest, around where my lungs are. The cough itself feels dry and tickly, not like I have a lot of mucus."
+    },
+    {
+      "turn_id": 4,
+      "role": "clinician",
+      "content": "Have you had any fever or chills?"
+    },
+    {
+      "turn_id": 4,
+      "role": "patient",
+      "content": "No, I haven't had any fever or chills. I've been checking my temperature because my school nurse told me to, and it's always been normal. I did feel a little warm one afternoon, but when I checked it was fine."
+    },
+    {
+      "turn_id": 5,
+      "role": "clinician",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_id": 5,
+      "role": "patient",
+      "content": "I use Albuterol, but only when I feel my asthma acting up. Usually I take it maybe once or twice a week, but since this cough started, I've been using it almost every day. I don't take any other medicines regularly."
+    },
+    {
+      "turn_id": 6,
+      "role": "clinician",
+      "content": "Do you have any chronic medical conditions?"
+    },
+    {
+      "turn_id": 6,
+      "role": "patient",
+      "content": "Yes, I have asthma. I've had it since I was a child, and I usually manage pretty well with my inhaler. But this cough and shortness of breath feel different than my usual asthma attacks. Also, my mom has asthma too, so it runs in the family."
+    },
+    {
+      "turn_id": 7,
+      "role": "clinician",
+      "content": "Are you allergic to any medications?"
+    },
+    {
+      "turn_id": 7,
+      "role": "patient",
+      "content": "Not that I know of. I've taken antibiotics before and never had a problem. But with my asthma, I'm careful when I get a cold or when the seasons change, because that can make my breathing worse."
+    },
+    {
+      "turn_id": 8,
+      "role": "clinician",
+      "content": "Have you tried anything to relieve the symptoms?"
+    },
+    {
+      "turn_id": 8,
+      "role": "patient",
+      "content": "I've been using my Albuterol inhaler more than usual, sometimes three or four times a day, but it doesn't help like it normally does. I also tried drinking warm tea with honey and resting more, but the cough and breathlessness keep coming back."
+    },
+    {
+      "turn_id": 9,
+      "role": "clinician",
+      "content": "Does anything make it better or worse?"
+    },
+    {
+      "turn_id": 9,
+      "role": "patient",
+      "content": "When I rest or sit down for a while, the breathlessness gets better, but the cough still comes and goes. Going up stairs or walking fast makes it worse, and sometimes even talking a lot in class makes me cough. The Albuterol helps a little, but not as much as it usually does."
+    },
+    {
+      "turn_id": 10,
+      "role": "clinician",
+      "content": "How has this been affecting your daily life?"
+    },
+    {
+      "turn_id": 10,
+      "role": "patient",
+      "content": "It's making my job a bit hard because I'm a teacher and I have to walk around the classroom and talk all day. I get out of breath just going up the stairs to my room, and sometimes I have to pause in the middle of a lesson to catch my breath. It's worrying me because I don't want it to get worse, but I can't just stop working."
+    },
+    {
+      "turn_id": 11,
+      "role": "clinician",
+      "content": "Do you smoke or drink alcohol?"
+    },
+    {
+      "turn_id": 11,
+      "role": "patient",
+      "content": "No, I don't smoke at all. I never have, actually, because of my asthma. And I only drink alcohol maybe once a month, like a glass of wine with dinner or at a party. I don't think it affects my breathing, but I don't drink much anyway."
+    },
+    {
+      "turn_id": 12,
+      "role": "clinician",
+      "content": "Has anyone in your family had similar problems?"
+    },
+    {
+      "turn_id": 12,
+      "role": "patient",
+      "content": "Well, my mom has asthma too, and she sometimes gets coughs that last a long time after a cold. But she said hers usually goes away on its own. My brother has allergies, but he doesn't have breathing problems like me. So it might just be that asthma runs in the family."
+    },
+    {
+      "turn_id": 13,
+      "role": "clinician",
+      "content": "Have you experienced anything like this before?"
+    },
+    {
+      "turn_id": 13,
+      "role": "patient",
+      "content": "Yes, sometimes when I get a cold or the seasons change, my asthma flares up and I get a cough or tightness in my chest. But usually it goes away after a few days with my inhaler. This time it's lasting much longer, and the breathlessness feels worse than my usual asthma symptoms. That's why I came in today."
+    },
+    {
+      "turn_id": 14,
+      "role": "clinician",
+      "content": "I've explained quite a bit \u2014 does that make sense so far?"
+    },
+    {
+      "turn_id": 14,
+      "role": "patient",
+      "content": "I think so, but could you explain a bit more simply? Some of the medical words are a little hard for me to understand. I want to make sure I know what to do next."
+    },
+    {
+      "turn_id": 15,
+      "role": "clinician",
+      "content": "On a scale of 1 to 10, how would you rate what you're going through right now \u2014 physically, and also emotionally?"
+    },
+    {
+      "turn_id": 15,
+      "role": "patient",
+      "content": "Physically, maybe a 4 out of 10. It's not the worst thing I've ever felt, but it's annoying and it scares me a little. Emotionally, I'd say a 7, maybe even 8 \u2014 I'm anxious because I don't know why it's lasting so long and it's making my job harder."
+    },
+    {
+      "turn_id": 16,
+      "role": "clinician",
+      "content": "Do you have any questions for me?"
+    },
+    {
+      "turn_id": 16,
+      "role": "patient",
+      "content": "Yes, I do. What do you think is causing this? Is it just my asthma, or could it be something else? And what can I do at home to make it better while I'm waiting for test results or anything?"
+    },
+    {
+      "turn_id": 17,
+      "role": "clinician",
+      "content": "What do you think might be going on?"
+    },
+    {
+      "turn_id": 17,
+      "role": "patient",
+      "content": "I'm not a doctor, so I don't really know. But I'm worried it might be more than just my asthma, because the Albuterol isn't working like it used to. Maybe it's a chest infection or something? I had a bad cough like this once before, and it turned out to be a bronchitis that needed antibiotics."
+    },
+    {
+      "turn_id": 18,
+      "role": "clinician",
+      "content": "Is there anything else you think I should know?"
+    },
+    {
+      "turn_id": 18,
+      "role": "patient",
+      "content": "I think that covers everything important. Oh, one more thing \u2014 I've been more tired than usual, even when I'm not coughing or feeling short of breath. And I work with young kids, so I'm around a lot of coughs and colds at school. Maybe I caught something from one of them."
+    }
+  ]
+}
