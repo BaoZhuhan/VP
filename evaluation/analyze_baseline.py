@@ -66,9 +66,36 @@ metric_keys = [
     "unqualified_affirmation_rate", "decision_activeness",
 ]
 
-header = f"{'Metric':<35} {'Low(5)':<12} {'Med(9)':<12} {'High(10)':<12} {'LvsH p':<10}"
+header = f"{'Metric':<35} {'Low(8)':<10} {'Med(9)':<10} {'High(10)':<10} {'LvsH p':<10} {'d':<8} {'Low_CI':<16} {'High_CI':<16}"
 print(header)
-print("-"*len(header))
+print("-"*105)
+
+def cohens_d(x, y):
+    """Cohen's d for two independent groups."""
+    from math import sqrt
+    n1, n2 = len(x), len(y)
+    if n1 < 2 or n2 < 2:
+        return float("nan")
+    s1 = statistics.stdev(x)
+    s2 = statistics.stdev(y)
+    sp = sqrt(((n1 - 1) * s1**2 + (n2 - 1) * s2**2) / (n1 + n2 - 2))
+    if sp == 0:
+        return float("nan")
+    return (statistics.mean(x) - statistics.mean(y)) / sp
+
+
+def bootstrap_ci(values, n_iterations=10000):
+    """95% CI via bootstrapping (percentile method)."""
+    import random
+    if len(values) < 2:
+        return (float("nan"), float("nan"))
+    means = []
+    for _ in range(n_iterations):
+        sample = [random.choice(values) for _ in range(len(values))]
+        means.append(statistics.mean(sample))
+    means.sort()
+    return (means[int(0.025 * n_iterations)], means[int(0.975 * n_iterations)])
+
 
 def mannwhitney_u(x, y):
     """Simple Mann-Whitney U test (no scipy dependency)."""
@@ -97,7 +124,10 @@ for mk in metric_keys:
     med_m = statistics.mean(med_vals) if med_vals else 0
     high_m = statistics.mean(high_vals) if high_vals else 0
     p = mannwhitney_u(low_vals, high_vals)
-    print(f"{mk:<35} {low_m:<12.3f} {med_m:<12.3f} {high_m:<12.3f} {p:<10.4f}")
+    d = cohens_d(low_vals, high_vals)
+    ci_low = bootstrap_ci(low_vals)
+    ci_high = bootstrap_ci(high_vals)
+    print(f"{mk:<35} {low_m:<12.3f} {med_m:<12.3f} {high_m:<12.3f} {p:<10.4f} {d:<8.3f} {ci_low[0]:<6.3f}-{ci_low[1]:<6.3f} {ci_high[0]:<6.3f}-{ci_high[1]:<6.3f}")
 
 # ── Composite score breakdown ──
 print()

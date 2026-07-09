@@ -149,6 +149,54 @@ def extract_dialogue_turns(dialogue):
     return clinician_turns, patient_turns
 
 
+def compute_turn_trajectory(dialogue, window_size=3):
+    """Compute per-window trajectory of key metrics for a dialogue.
+
+    Slides a window across patient turns and computes avg_response_length
+    and decision_activeness for each window.
+
+    Returns:
+        list of dicts: [{window_center, avg_response_length, decision_activeness}, ...]
+    """
+    _, pat_turns = extract_dialogue_turns(dialogue)
+    if len(pat_turns) < window_size:
+        return []
+
+    # Pre-compute per-turn metrics
+    turn_lengths = [len(t["content"].split()) for t in pat_turns]
+    passive_patterns = re.compile(
+        r"(whatever you (think|say|recommend)|you're the doctor|you know best"
+        r"|i don't know, what do you think|i'll trust you|just tell me what to do)",
+        re.IGNORECASE,
+    )
+    active_patterns = re.compile(
+        r"(i'd like to (know|understand|try)|can you explain|tell me more about"
+        r"|what are my options|what would happen if|what do you recommend)",
+        re.IGNORECASE,
+    )
+    turn_passive = [1 if passive_patterns.search(t["content"]) else 0 for t in pat_turns]
+    turn_active = [1 if active_patterns.search(t["content"]) else 0 for t in pat_turns]
+
+    trajectory = []
+    for start in range(len(pat_turns) - window_size + 1):
+        end = start + window_size
+        window_center = start + window_size // 2
+        avg_len = sum(turn_lengths[start:end]) / window_size
+        total_pa = sum(turn_passive[start:end]) + sum(turn_active[start:end])
+        decision_act = (
+            (sum(turn_active[start:end]) - sum(turn_passive[start:end])) / total_pa
+            if total_pa > 0 else 0.0
+        )
+        trajectory.append({
+            "window_center": window_center,
+            "turn_start": start,
+            "turn_end": end - 1,
+            "avg_response_length": round(avg_len, 2),
+            "decision_activeness": round(decision_act, 4),
+        })
+    return trajectory
+
+
 def compute_behavioral_metrics(dialogue):
     """Compute all 5 behavioral dimensions from a dialogue.
 

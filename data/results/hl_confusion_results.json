@@ -1,0 +1,1158 @@
+{
+  "accuracy": 0.5864197530864198,
+  "correct": 95,
+  "total": 162,
+  "matrix": {
+    "low": {
+      "low": 41,
+      "medium": 5,
+      "high": 2
+    },
+    "medium": {
+      "low": 11,
+      "medium": 17,
+      "high": 26
+    },
+    "high": {
+      "low": 3,
+      "medium": 20,
+      "high": 37
+    }
+  },
+  "predictions": [
+    {
+      "fname": "P001_consistency.json",
+      "pid": "P001",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P001_literacy_anchored.json",
+      "pid": "P001",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P001_patientsim_c4.json",
+      "pid": "P001",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P001_patientsim_c5.json",
+      "pid": "P001",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P001_standard.json",
+      "pid": "P001",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P001_structured_state.json",
+      "pid": "P001",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P002_consistency.json",
+      "pid": "P002",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P002_literacy_anchored.json",
+      "pid": "P002",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P002_patientsim_c4.json",
+      "pid": "P002",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P002_patientsim_c5.json",
+      "pid": "P002",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P002_standard.json",
+      "pid": "P002",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P002_structured_state.json",
+      "pid": "P002",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P003_consistency.json",
+      "pid": "P003",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P003_literacy_anchored.json",
+      "pid": "P003",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P003_patientsim_c4.json",
+      "pid": "P003",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P003_patientsim_c5.json",
+      "pid": "P003",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P003_standard.json",
+      "pid": "P003",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P003_structured_state.json",
+      "pid": "P003",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P004_consistency.json",
+      "pid": "P004",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P004_literacy_anchored.json",
+      "pid": "P004",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P004_patientsim_c4.json",
+      "pid": "P004",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P004_patientsim_c5.json",
+      "pid": "P004",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P004_standard.json",
+      "pid": "P004",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P004_structured_state.json",
+      "pid": "P004",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P005_consistency.json",
+      "pid": "P005",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P005_literacy_anchored.json",
+      "pid": "P005",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P005_patientsim_c4.json",
+      "pid": "P005",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P005_patientsim_c5.json",
+      "pid": "P005",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P005_standard.json",
+      "pid": "P005",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P005_structured_state.json",
+      "pid": "P005",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P006_consistency.json",
+      "pid": "P006",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P006_literacy_anchored.json",
+      "pid": "P006",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P006_patientsim_c4.json",
+      "pid": "P006",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P006_patientsim_c5.json",
+      "pid": "P006",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P006_standard.json",
+      "pid": "P006",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P006_structured_state.json",
+      "pid": "P006",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P007_consistency.json",
+      "pid": "P007",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P007_literacy_anchored.json",
+      "pid": "P007",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P007_patientsim_c4.json",
+      "pid": "P007",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P007_patientsim_c5.json",
+      "pid": "P007",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P007_standard.json",
+      "pid": "P007",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P007_structured_state.json",
+      "pid": "P007",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P008_consistency.json",
+      "pid": "P008",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P008_literacy_anchored.json",
+      "pid": "P008",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P008_patientsim_c4.json",
+      "pid": "P008",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P008_patientsim_c5.json",
+      "pid": "P008",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P008_standard.json",
+      "pid": "P008",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P008_structured_state.json",
+      "pid": "P008",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P009_consistency.json",
+      "pid": "P009",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P009_literacy_anchored.json",
+      "pid": "P009",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P009_patientsim_c4.json",
+      "pid": "P009",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P009_patientsim_c5.json",
+      "pid": "P009",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P009_standard.json",
+      "pid": "P009",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P009_structured_state.json",
+      "pid": "P009",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P010_consistency.json",
+      "pid": "P010",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P010_literacy_anchored.json",
+      "pid": "P010",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P010_patientsim_c4.json",
+      "pid": "P010",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P010_patientsim_c5.json",
+      "pid": "P010",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P010_standard.json",
+      "pid": "P010",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P010_structured_state.json",
+      "pid": "P010",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P011_consistency.json",
+      "pid": "P011",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P011_literacy_anchored.json",
+      "pid": "P011",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P011_patientsim_c4.json",
+      "pid": "P011",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P011_patientsim_c5.json",
+      "pid": "P011",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P011_standard.json",
+      "pid": "P011",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P011_structured_state.json",
+      "pid": "P011",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P012_consistency.json",
+      "pid": "P012",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P012_literacy_anchored.json",
+      "pid": "P012",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P012_patientsim_c4.json",
+      "pid": "P012",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P012_patientsim_c5.json",
+      "pid": "P012",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P012_standard.json",
+      "pid": "P012",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P012_structured_state.json",
+      "pid": "P012",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P013_consistency.json",
+      "pid": "P013",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P013_literacy_anchored.json",
+      "pid": "P013",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P013_patientsim_c4.json",
+      "pid": "P013",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P013_patientsim_c5.json",
+      "pid": "P013",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P013_standard.json",
+      "pid": "P013",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "high"
+    },
+    {
+      "fname": "P013_structured_state.json",
+      "pid": "P013",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P014_consistency.json",
+      "pid": "P014",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P014_literacy_anchored.json",
+      "pid": "P014",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P014_patientsim_c4.json",
+      "pid": "P014",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P014_patientsim_c5.json",
+      "pid": "P014",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P014_standard.json",
+      "pid": "P014",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P014_structured_state.json",
+      "pid": "P014",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P015_consistency.json",
+      "pid": "P015",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P015_literacy_anchored.json",
+      "pid": "P015",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P015_patientsim_c4.json",
+      "pid": "P015",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P015_patientsim_c5.json",
+      "pid": "P015",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P015_standard.json",
+      "pid": "P015",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P015_structured_state.json",
+      "pid": "P015",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P016_consistency.json",
+      "pid": "P016",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P016_literacy_anchored.json",
+      "pid": "P016",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P016_patientsim_c4.json",
+      "pid": "P016",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P016_patientsim_c5.json",
+      "pid": "P016",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P016_standard.json",
+      "pid": "P016",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P016_structured_state.json",
+      "pid": "P016",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P017_consistency.json",
+      "pid": "P017",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P017_literacy_anchored.json",
+      "pid": "P017",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P017_patientsim_c4.json",
+      "pid": "P017",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P017_patientsim_c5.json",
+      "pid": "P017",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P017_standard.json",
+      "pid": "P017",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P017_structured_state.json",
+      "pid": "P017",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P018_consistency.json",
+      "pid": "P018",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P018_literacy_anchored.json",
+      "pid": "P018",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P018_patientsim_c4.json",
+      "pid": "P018",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P018_patientsim_c5.json",
+      "pid": "P018",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P018_standard.json",
+      "pid": "P018",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P018_structured_state.json",
+      "pid": "P018",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P019_consistency.json",
+      "pid": "P019",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P019_literacy_anchored.json",
+      "pid": "P019",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P019_patientsim_c4.json",
+      "pid": "P019",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P019_patientsim_c5.json",
+      "pid": "P019",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P019_standard.json",
+      "pid": "P019",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P019_structured_state.json",
+      "pid": "P019",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P020_consistency.json",
+      "pid": "P020",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P020_literacy_anchored.json",
+      "pid": "P020",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P020_patientsim_c4.json",
+      "pid": "P020",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P020_patientsim_c5.json",
+      "pid": "P020",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P020_standard.json",
+      "pid": "P020",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P020_structured_state.json",
+      "pid": "P020",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P021_consistency.json",
+      "pid": "P021",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P021_literacy_anchored.json",
+      "pid": "P021",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P021_patientsim_c4.json",
+      "pid": "P021",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "low"
+    },
+    {
+      "fname": "P021_patientsim_c5.json",
+      "pid": "P021",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "low"
+    },
+    {
+      "fname": "P021_standard.json",
+      "pid": "P021",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P021_structured_state.json",
+      "pid": "P021",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P022_consistency.json",
+      "pid": "P022",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P022_literacy_anchored.json",
+      "pid": "P022",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P022_patientsim_c4.json",
+      "pid": "P022",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P022_patientsim_c5.json",
+      "pid": "P022",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P022_standard.json",
+      "pid": "P022",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "high"
+    },
+    {
+      "fname": "P022_structured_state.json",
+      "pid": "P022",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P023_consistency.json",
+      "pid": "P023",
+      "strategy": "consistency",
+      "ground_truth": "high",
+      "predicted": "low"
+    },
+    {
+      "fname": "P023_literacy_anchored.json",
+      "pid": "P023",
+      "strategy": "literacy_anchored",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P023_patientsim_c4.json",
+      "pid": "P023",
+      "strategy": "patientsim_c4",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P023_patientsim_c5.json",
+      "pid": "P023",
+      "strategy": "patientsim_c5",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P023_standard.json",
+      "pid": "P023",
+      "strategy": "standard",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P023_structured_state.json",
+      "pid": "P023",
+      "strategy": "structured_state",
+      "ground_truth": "high",
+      "predicted": "high"
+    },
+    {
+      "fname": "P024_consistency.json",
+      "pid": "P024",
+      "strategy": "consistency",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P024_literacy_anchored.json",
+      "pid": "P024",
+      "strategy": "literacy_anchored",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P024_patientsim_c4.json",
+      "pid": "P024",
+      "strategy": "patientsim_c4",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P024_patientsim_c5.json",
+      "pid": "P024",
+      "strategy": "patientsim_c5",
+      "ground_truth": "medium",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P024_standard.json",
+      "pid": "P024",
+      "strategy": "standard",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P024_structured_state.json",
+      "pid": "P024",
+      "strategy": "structured_state",
+      "ground_truth": "medium",
+      "predicted": "low"
+    },
+    {
+      "fname": "P025_consistency.json",
+      "pid": "P025",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P025_literacy_anchored.json",
+      "pid": "P025",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P025_patientsim_c4.json",
+      "pid": "P025",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P025_patientsim_c5.json",
+      "pid": "P025",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P025_standard.json",
+      "pid": "P025",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P025_structured_state.json",
+      "pid": "P025",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P026_consistency.json",
+      "pid": "P026",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P026_literacy_anchored.json",
+      "pid": "P026",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P026_patientsim_c4.json",
+      "pid": "P026",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P026_patientsim_c5.json",
+      "pid": "P026",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P026_standard.json",
+      "pid": "P026",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P026_structured_state.json",
+      "pid": "P026",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P027_consistency.json",
+      "pid": "P027",
+      "strategy": "consistency",
+      "ground_truth": "low",
+      "predicted": "high"
+    },
+    {
+      "fname": "P027_literacy_anchored.json",
+      "pid": "P027",
+      "strategy": "literacy_anchored",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P027_patientsim_c4.json",
+      "pid": "P027",
+      "strategy": "patientsim_c4",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P027_patientsim_c5.json",
+      "pid": "P027",
+      "strategy": "patientsim_c5",
+      "ground_truth": "low",
+      "predicted": "low"
+    },
+    {
+      "fname": "P027_standard.json",
+      "pid": "P027",
+      "strategy": "standard",
+      "ground_truth": "low",
+      "predicted": "medium"
+    },
+    {
+      "fname": "P027_structured_state.json",
+      "pid": "P027",
+      "strategy": "structured_state",
+      "ground_truth": "low",
+      "predicted": "medium"
+    }
+  ]
+}
